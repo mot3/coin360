@@ -7,9 +7,10 @@ from coin.models import CoinField
 
 class CoinIn(BaseModel):
     symbol: str = CoinField.symbol
-    full_name: str = CoinField.full_name
+    name: str = CoinField.name
     networks: List[str] = CoinField.networks
     markets: List[str] = CoinField.markets
+    socials: List[str] = CoinField.socials
     description: str = CoinField.description
     rank: int = CoinField.rank
 
