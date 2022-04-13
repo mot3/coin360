@@ -3,7 +3,7 @@ from fastapi import Depends
 from fastapi.routing import APIRouter
 
 from coin import crud
-from coin.schemas import CoinIn, CoinOut
+from coin.schemas import CoinIn, CoinInList, CoinOut
 
 from db.mongo.engine import Mongo
 from common.resources import response_string
@@ -26,7 +26,7 @@ async def create_coin_ep(new_coin: CoinIn,
 
 
 @coin_router.post("/list", response_model=ResponseModel)
-async def create_coins_ep(new_coins: List[CoinIn],
+async def create_coins_ep(new_coins: List[CoinInList],
                           db: Mongo = Depends(get_db_session)):
 
     await crud.create_coins(db, new_coins)
