@@ -9,7 +9,7 @@ class Mongo:
 
     def __init__(self, _db: str = settings.APP_NAME) -> None:
         if not Mongo._client:
-            Mongo._client = AsyncIOMotorClient("mongodb://localhost:27017")
+            Mongo._client = AsyncIOMotorClient(settings.MONGODB_URL)
 
         self.db = Mongo._client[_db]
 
