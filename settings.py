@@ -7,6 +7,7 @@ class Settings(BaseSettings):
     APP_NAME: str
     DEBUG: bool
     RATE_LIMITER_REDIS_URL: str
+    MONGODB_URL: str
 
     class Config:
         env_file = ".env"
