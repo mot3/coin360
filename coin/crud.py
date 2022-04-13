@@ -15,7 +15,7 @@ async def create_coin(db: Mongo, new_coin: Coin):
 
 async def create_coins(db: Mongo, new_coins: List[Coin]):
     db.table = tables.COINS
-    res = await db.table.insert_many(new_coins, session=db.s)
+    res = await db.table.insert_many([coin.dict() for coin in new_coins], session=db.s)
 
     if res.acknowledged == True:
         return True
