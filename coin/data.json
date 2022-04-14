@@ -1,0 +1,2700 @@
+{
+	"1": {
+		"id": 1,
+		"name": "Bitcoin",
+		"symbol": "BTC",
+		"category": "coin",
+		"description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 19,011,518. The last known price of Bitcoin is 40,050.48668491 USD and is down -2.78 over the last 24 hours. It is currently trading on 9331 active market(s) with $27,372,316,492.91 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
+		"slug": "bitcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+		"subreddit": "bitcoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"sha-256",
+			"store-of-value",
+			"state-channel",
+			"coinbase-ventures-portfolio",
+			"three-arrows-capital-portfolio",
+			"polychain-capital-portfolio",
+			"binance-labs-portfolio",
+			"blockchain-capital-portfolio",
+			"boostvc-portfolio",
+			"cms-holdings-portfolio",
+			"dcg-portfolio",
+			"dragonfly-capital-portfolio",
+			"electric-capital-portfolio",
+			"fabric-ventures-portfolio",
+			"framework-ventures-portfolio",
+			"galaxy-digital-portfolio",
+			"huobi-capital-portfolio",
+			"alameda-research-portfolio",
+			"a16z-portfolio",
+			"1confirmation-portfolio",
+			"winklevoss-capital-portfolio",
+			"usv-portfolio",
+			"placeholder-ventures-portfolio",
+			"pantera-capital-portfolio",
+			"multicoin-capital-portfolio",
+			"paradigm-portfolio"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"SHA-256",
+			"Store Of Value",
+			"State Channel",
+			"Coinbase Ventures Portfolio",
+			"Three Arrows Capital Portfolio",
+			"Polychain Capital Portfolio",
+			"Binance Labs Portfolio",
+			"Blockchain Capital Portfolio",
+			"BoostVC Portfolio",
+			"CMS Holdings Portfolio",
+			"DCG Portfolio",
+			"DragonFly Capital Portfolio",
+			"Electric Capital Portfolio",
+			"Fabric Ventures Portfolio",
+			"Framework Ventures Portfolio",
+			"Galaxy Digital Portfolio",
+			"Huobi Capital Portfolio",
+			"Alameda Research Portfolio",
+			"a16z Portfolio",
+			"1Confirmation Portfolio",
+			"Winklevoss Capital Portfolio",
+			"USV Portfolio",
+			"Placeholder Ventures Portfolio",
+			"Pantera Capital Portfolio",
+			"Multicoin Capital Portfolio",
+			"Paradigm Portfolio"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY",
+			"CATEGORY"
+		],
+		"urls": {
+			"website": [
+				"https://bitcoin.org/"
+			],
+			"twitter": [],
+			"message_board": [
+				"https://bitcointalk.org"
+			],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"https://blockchain.coinmarketcap.com/chain/bitcoin",
+				"https://blockchain.info/",
+				"https://live.blockcypher.com/btc/",
+				"https://blockchair.com/bitcoin",
+				"https://explorer.viabtc.com/btc"
+			],
+			"reddit": [
+				"https://reddit.com/r/bitcoin"
+			],
+			"technical_doc": [
+				"https://bitcoin.org/bitcoin.pdf"
+			],
+			"source_code": [
+				"https://github.com/bitcoin/bitcoin"
+			],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"2": {
+		"id": 2,
+		"name": "Litecoin",
+		"symbol": "LTC",
+		"category": "coin",
+		"description": "Litecoin (LTC) is a cryptocurrency . Users are able to generate LTC through the process of mining. Litecoin has a current supply of 84,000,000 with 70,067,868.77791464 in circulation. The last known price of Litecoin is 107.34269071 USD and is down -2.56 over the last 24 hours. It is currently trading on 764 active market(s) with $767,680,246.14 traded over the last 24 hours. More information can be found at https://litecoin.org/.",
+		"slug": "litecoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
+		"subreddit": "litecoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt",
+			"medium-of-exchange",
+			"binance-chain",
+			"bnb-chain"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt",
+			"Medium of Exchange",
+			"Binance Chain",
+			"BNB Chain"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM",
+			"INDUSTRY",
+			"PLATFORM",
+			"PLATFORM"
+		],
+		"urls": {
+			"website": [
+				"https://litecoin.org/"
+			],
+			"twitter": [
+				"https://twitter.com/LitecoinProject"
+			],
+			"message_board": [
+				"https://litecointalk.io/",
+				"https://litecoin-foundation.org/"
+			],
+			"chat": [
+				"https://telegram.me/litecoin"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://blockchair.com/litecoin",
+				"https://chainz.cryptoid.info/ltc/",
+				"http://explorer.litecoin.net/chain/Litecoin",
+				"https://ltc.tokenview.com/en",
+				"https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
+			],
+			"reddit": [
+				"https://reddit.com/r/litecoin"
+			],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/litecoin-project/litecoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=47417.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "LitecoinProject",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [
+			{
+				"contract_address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
+				"platform": {
+					"name": "HECO",
+					"coin": {
+						"id": "2502",
+						"name": "Huobi Token",
+						"symbol": "HT",
+						"slug": "huobi-token"
+					}
+				}
+			},
+			{
+				"contract_address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+				"platform": {
+					"name": "BNB Smart Chain (BEP20)",
+					"coin": {
+						"id": "1839",
+						"name": "BNB",
+						"symbol": "BNB",
+						"slug": "bnb"
+					}
+				}
+			},
+			{
+				"contract_address": "0x13e93721dc992b3e14333dbdb48c0e7ec55431c3",
+				"platform": {
+					"name": "Hoo Smart Chain",
+					"coin": {
+						"id": "15165",
+						"name": "Hoo Smart Chain",
+						"symbol": "HSC",
+						"slug": "hoo-smart-chain"
+					}
+				}
+			}
+		],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"3": {
+		"id": 3,
+		"name": "Namecoin",
+		"symbol": "NMC",
+		"category": "coin",
+		"description": "Namecoin (NMC) is a cryptocurrency . Users are able to generate NMC through the process of mining. Namecoin has a current supply of 14,736,400. The last known price of Namecoin is 2.52291816 USD and is down -2.05 over the last 24 hours. It is currently trading on 7 active market(s) with $6,776.40 traded over the last 24 hours. More information can be found at https://www.namecoin.org/.",
+		"slug": "namecoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3.png",
+		"subreddit": "namecoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"sha-256",
+			"platform"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"SHA-256",
+			"Platform"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM",
+			"CATEGORY"
+		],
+		"urls": {
+			"website": [
+				"https://www.namecoin.org/"
+			],
+			"twitter": [
+				"https://twitter.com/Namecoin"
+			],
+			"message_board": [],
+			"chat": [
+				"https://www.namecoin.org/resources/chat/"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://nmc.tokenview.com/",
+				"https://www.namebrow.se/",
+				"https://namecha.in/",
+				"https://chainz.cryptoid.info/nmc/"
+			],
+			"reddit": [
+				"https://reddit.com/r/namecoin"
+			],
+			"technical_doc": [
+				"https://www.namecoin.org/resources/whitepaper/"
+			],
+			"source_code": [
+				"https://github.com/namecoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/?topic=6017.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "Namecoin",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"4": {
+		"id": 4,
+		"name": "Terracoin",
+		"symbol": "TRC",
+		"category": "coin",
+		"description": "Terracoin (TRC) is a cryptocurrency launched in 2012. Users are able to generate TRC through the process of mining. Terracoin has a current supply of 22,935,396.430361. The last known price of Terracoin is 0.02166717 USD and is up 5.40 over the last 24 hours. It is currently trading on 2 active market(s) with $1,548.30 traded over the last 24 hours. More information can be found at http://www.terracoin.io/.",
+		"slug": "terracoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4.png",
+		"subreddit": "terracoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"sha-256",
+			"masternodes"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"SHA-256",
+			"Masternodes"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM",
+			"CATEGORY"
+		],
+		"urls": {
+			"website": [
+				"http://www.terracoin.io/"
+			],
+			"twitter": [
+				"https://twitter.com/Terracoin_TRC"
+			],
+			"message_board": [
+				"https://medium.com/@clockuniverse"
+			],
+			"chat": [
+				"https://mattermost.terracoin.io/",
+				"https://t.me/terracoin"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://insight.terracoin.io/",
+				"https://explorer.terracoin.io/chain/Terracoin"
+			],
+			"reddit": [
+				"https://reddit.com/r/terracoin"
+			],
+			"technical_doc": [
+				"https://wiki.terracoin.io/view/Whitepaper"
+			],
+			"source_code": [
+				"https://github.com/terracoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=1364146.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "Terracoin_TRC",
+		"is_hidden": 0,
+		"date_launched": "2012-10-26T00:00:00.000Z",
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"5": {
+		"id": 5,
+		"name": "Peercoin",
+		"symbol": "PPC",
+		"category": "coin",
+		"description": "Peercoin (PPC) is a cryptocurrency . Users are able to generate PPC through the process of mining. Peercoin has a current supply of 27,489,148.90999735. The last known price of Peercoin is 0.56305103 USD and is down -2.81 over the last 24 hours. It is currently trading on 11 active market(s) with $4,157.54 traded over the last 24 hours. More information can be found at http://www.peercoin.net.",
+		"slug": "peercoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5.png",
+		"subreddit": "peercoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"hybrid-pow-pos",
+			"sha-256",
+			"medium-of-exchange",
+			"store-of-value",
+			"payments",
+			"staking"
+		],
+		"tag-names": [
+			"Mineable",
+			"Hybrid - PoW & PoS",
+			"SHA-256",
+			"Medium of Exchange",
+			"Store Of Value",
+			"Payments",
+			"Staking"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM",
+			"INDUSTRY",
+			"CATEGORY",
+			"INDUSTRY",
+			"CATEGORY"
+		],
+		"urls": {
+			"website": [
+				"http://www.peercoin.net"
+			],
+			"twitter": [
+				"https://twitter.com/PeercoinPPC"
+			],
+			"message_board": [
+				"https://talk.peercoin.net"
+			],
+			"chat": [
+				"https://t.me/peercoin",
+				"https://discord.gg/m294ReV"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/ppc/",
+				"https://explorer.peercoin.net/",
+				"https://etherscan.io/token/0x044d078F1c86508e13328842Cc75AC021B272958",
+				"https://polygonscan.com/token/0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65"
+			],
+			"reddit": [
+				"https://reddit.com/r/peercoin"
+			],
+			"technical_doc": [
+				"https://docs.peercoin.net/"
+			],
+			"source_code": [
+				"https://github.com/peercoin/peercoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=101820.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "PeercoinPPC",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [
+			{
+				"contract_address": "0x044d078F1c86508e13328842Cc75AC021B272958",
+				"platform": {
+					"name": "Ethereum",
+					"coin": {
+						"id": "1027",
+						"name": "Ethereum",
+						"symbol": "ETH",
+						"slug": "ethereum"
+					}
+				}
+			},
+			{
+				"contract_address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
+				"platform": {
+					"name": "Polygon",
+					"coin": {
+						"id": "3890",
+						"name": "Polygon",
+						"symbol": "MATIC",
+						"slug": "polygon"
+					}
+				}
+			}
+		],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"6": {
+		"id": 6,
+		"name": "Novacoin",
+		"symbol": "NVC",
+		"category": "coin",
+		"description": "Novacoin (NVC) is a cryptocurrency launched in 2013. Users are able to generate NVC through the process of mining. Novacoin has a current supply of 2,335,756.713897. The last known price of Novacoin is 0.09371814 USD and is down -3.61 over the last 24 hours. It is currently trading on 1 active market(s) with $99.29 traded over the last 24 hours. More information can be found at https://nova-coin.org.",
+		"slug": "novacoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6.png",
+		"subreddit": "NovacoinCommunity/",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"hybrid-pow-pos",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"Hybrid - PoW & PoS",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://nova-coin.org",
+				"https://novacoin.one"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [
+				"https://discord.gg/6juXnsSkGa",
+				"https://t.me/NovaCoin_RU"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://explorer.novaco.in/",
+				"https://novacoin.ru/explorer/",
+				"http://nvc-explorer.ewmcx.info/"
+			],
+			"reddit": [
+				"https://reddit.com/r/NovacoinCommunity/"
+			],
+			"technical_doc": [
+				"https://github.com/novacoin-project/novacoin/wiki"
+			],
+			"source_code": [
+				"https://github.com/novacoin-project/novacoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=5189560.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": "2013-02-05T00:00:00.000Z",
+		"contract_address": [
+			{
+				"contract_address": "0xbf84720097de111a80f46f9d077643967042841a",
+				"platform": {
+					"name": "BNB Smart Chain (BEP20)",
+					"coin": {
+						"id": "1839",
+						"name": "BNB",
+						"symbol": "BNB",
+						"slug": "bnb"
+					}
+				}
+			}
+		],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"7": {
+		"id": 7,
+		"name": "Devcoin3",
+		"symbol": "DVC",
+		"category": "coin",
+		"description": "Devcoin3 (DVC) is a cryptocurrency . Users are able to generate DVC through the process of mining. Devcoin3 has a current supply of 15,167,257,500. The last known price of Devcoin3 is 0.00002298 USD and is up 0.00 over the last 24 hours. More information can be found at http://devcoin.org.",
+		"slug": "devcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7.png",
+		"subreddit": "devcoin",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://devcoin.org"
+			],
+			"twitter": [
+				"https://twitter.com/devtome"
+			],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://node1.devcoin.cloud"
+			],
+			"reddit": [
+				"https://reddit.com/r/devcoin"
+			],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/devcoin/core"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=233997.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-04-28T00:00:00.000Z",
+		"twitter_username": "devtome",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"8": {
+		"id": 8,
+		"name": "Feathercoin",
+		"symbol": "FTC",
+		"category": "coin",
+		"description": "Feathercoin (FTC) is a cryptocurrency . Users are able to generate FTC through the process of mining. Feathercoin has a current supply of 336,000,000 with 236,600,238 in circulation. The last known price of Feathercoin is 0.0084106 USD and is up 2.08 over the last 24 hours. It is currently trading on 9 active market(s) with $32.70 traded over the last 24 hours. More information can be found at http://feathercoin.com.",
+		"slug": "feathercoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8.png",
+		"subreddit": "FeatherCoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"neoscrypt",
+			"medium-of-exchange",
+			"collectibles-nfts",
+			"payments"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"NeoScrypt",
+			"Medium of Exchange",
+			"Collectibles & NFTs",
+			"Payments"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM",
+			"INDUSTRY",
+			"CATEGORY",
+			"INDUSTRY"
+		],
+		"urls": {
+			"website": [
+				"http://feathercoin.com"
+			],
+			"twitter": [
+				"https://twitter.com/Feathercoin"
+			],
+			"message_board": [
+				"https://forum.feathercoin.com"
+			],
+			"chat": [
+				"https://telegram.me/feathercoinofficial"
+			],
+			"facebook": [],
+			"explorer": [
+				"http://explorer.feathercoin.com/",
+				"https://chainz.cryptoid.info/ftc/",
+				"https://fsight.chain.tips/"
+			],
+			"reddit": [
+				"https://reddit.com/r/FeatherCoin"
+			],
+			"technical_doc": [
+				"https://feathercoin.com/about/"
+			],
+			"source_code": [
+				"https://github.com/FeatherCoin/Feathercoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=178286.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-05-03T00:00:00.000Z",
+		"twitter_username": "Feathercoin",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"9": {
+		"id": 9,
+		"name": "Mincoin",
+		"symbol": "MNC",
+		"category": "coin",
+		"description": "Mincoin (MNC) is a cryptocurrency . Users are able to generate MNC through the process of mining. Mincoin has a current supply of 6,228,916.8879491. The last known price of Mincoin is 0.07458228 USD and is up 0.00 over the last 24 hours. More information can be found at https://www.mincoin.us/.",
+		"slug": "mincoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9.png",
+		"subreddit": "MinCoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://www.mincoin.us/"
+			],
+			"twitter": [
+				"https://twitter.com/mincoinus"
+			],
+			"message_board": [
+				"https://www.mincoinforum.com"
+			],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://cryptoexplore.com",
+				"https://www.mincoinexplorer.com/"
+			],
+			"reddit": [
+				"https://reddit.com/r/MinCoin"
+			],
+			"technical_doc": [
+				"https://github.com/mincoin/mincoin-whitepaper/blob/master/docs/mincoin-whitepaper.pdf"
+			],
+			"source_code": [
+				"https://github.com/mincoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=165397.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-05-03T00:00:00.000Z",
+		"twitter_username": "mincoinus",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"10": {
+		"id": 10,
+		"name": "Freicoin",
+		"symbol": "FRC",
+		"category": "coin",
+		"description": "Freicoin (FRC) is a cryptocurrency . Users are able to generate FRC through the process of mining. Freicoin has a current supply of 100,000,000 with 57,502,113.20557414 in circulation. The last known price of Freicoin is 0.00600757 USD and is down -14.22 over the last 24 hours. It is currently trading on 1 active market(s) with $342.28 traded over the last 24 hours. More information can be found at http://freico.in.",
+		"slug": "freicoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"sha-256"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"SHA-256"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://freico.in"
+			],
+			"twitter": [
+				"https://twitter.com/Freicoin"
+			],
+			"message_board": [
+				"https://freicoinalliance.com/"
+			],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://freicoin.info/chain/Freicoin"
+			],
+			"reddit": [],
+			"technical_doc": [
+				"http://freico.in/docs/freimarkets.pdf"
+			],
+			"source_code": [
+				"https://github.com/freicoin/freicoin"
+			],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-05-03T00:00:00.000Z",
+		"twitter_username": "Freicoin",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"12": {
+		"id": 12,
+		"name": "BBQCoin",
+		"symbol": "BQC",
+		"category": "coin",
+		"description": "BBQCoin (BQC) is a cryptocurrency . Users are able to generate BQC through the process of mining. BBQCoin has a current supply of 50,765,853.56. The last known price of BBQCoin is 0.00045816 USD and is up 0.00 over the last 24 hours. More information can be found at http://bbqcoin.org/.",
+		"slug": "bbqcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://bbqcoin.org/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://bbq.cryptocoinexplorer.com"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-05-08T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"13": {
+		"id": 13,
+		"name": "Ixcoin",
+		"symbol": "IXC",
+		"category": "coin",
+		"description": "Ixcoin (IXC) is a cryptocurrency . Ixcoin has a current supply of 21,252,771.00000002. The last known price of Ixcoin is 0.07269163 USD and is down -46.53 over the last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://www.ixcoin.net/.",
+		"slug": "ixcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"pow",
+			"sha-256"
+		],
+		"tag-names": [
+			"PoW",
+			"SHA-256"
+		],
+		"tag-groups": [
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://www.ixcoin.net/"
+			],
+			"twitter": [
+				"https://twitter.com/iXcoin_News"
+			],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/ixc/",
+				"https://prohashing.com/explorer/IXcoin/"
+			],
+			"reddit": [],
+			"technical_doc": [
+				"https://www.scribd.com/document/357320345/Ixc-White-Paper-v3"
+			],
+			"source_code": [
+				"https://github.com/ixcore/ixcoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=36218.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-05-08T00:00:00.000Z",
+		"twitter_username": "iXcoin_News",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"14": {
+		"id": 14,
+		"name": "BitBar",
+		"symbol": "BTB",
+		"category": "coin",
+		"description": "BitBar (BTB) is a cryptocurrency . Users are able to generate BTB through the process of mining. BitBar has a current supply of 47,444.861605. The last known price of BitBar is 3.50572333 USD and is up 8.78 over the last 24 hours. More information can be found at http://bitbar.co/.",
+		"slug": "bitbar",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14.png",
+		"subreddit": "bitbar",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"hybrid-pow-pos",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"Hybrid - PoW & PoS",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://bitbar.co/"
+			],
+			"twitter": [
+				"https://twitter.com/spider_btb"
+			],
+			"message_board": [],
+			"chat": [
+				"https://discord.gg/VcEAMFX"
+			],
+			"facebook": [],
+			"explorer": [
+				"http://btb.altcoinwarz.com"
+			],
+			"reddit": [
+				"https://reddit.com/r/bitbar"
+			],
+			"technical_doc": [
+				"https://bitbar.co/#xl_xr_page_status"
+			],
+			"source_code": [
+				"https://github.com/Crypto-Currency/BitBar"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=196125.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-05-09T00:00:00.000Z",
+		"twitter_username": "spider_btb",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"15": {
+		"id": 15,
+		"name": "Bytecoin",
+		"symbol": "BTE",
+		"category": "coin",
+		"description": "Bytecoin (BTE) is a cryptocurrency . Users are able to generate BTE through the process of mining. Bytecoin has a current supply of 0. The last known price of Bytecoin is 0.00138196 USD and is up 0.00 over the last 24 hours. More information can be found at http://bytecoin.biz.",
+		"slug": "bytecoin-bte",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://bytecoin.biz"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://bte.cryptocoinexplorer.com"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-05-10T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"16": {
+		"id": 16,
+		"name": "WorldCoin",
+		"symbol": "WDC",
+		"category": "coin",
+		"description": "WorldCoin (WDC) is a cryptocurrency . Users are able to generate WDC through the process of mining. WorldCoin has a current supply of 265,000,000 with 0 in circulation. The last known price of WorldCoin is 0.02540434 USD and is up 1.60 over the last 24 hours. It is currently trading on 3 active market(s) with $682.57 traded over the last 24 hours. More information can be found at http://www.worldcoin.global.",
+		"slug": "worldcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16.png",
+		"subreddit": "worldcoinalliance",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://www.worldcoin.global"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [
+				"https://discord.gg/q5fYSVP"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://www.wdcexplorer.com/",
+				"https://chainz.cryptoid.info/wdc/"
+			],
+			"reddit": [
+				"https://reddit.com/r/worldcoinalliance"
+			],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/OfficialWorldcoinGlobal/Worldcoin/releases"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=204894.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-05-22T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": 140480247,
+		"self_reported_tags": null,
+		"self_reported_market_cap": 3540798.3443844602
+	},
+	"17": {
+		"id": 17,
+		"name": "Yacoin",
+		"symbol": "YAC",
+		"category": "coin",
+		"description": "Yacoin (YAC) is a cryptocurrency . Users are able to generate YAC through the process of mining. Yacoin has a current supply of 121,719,152. The last known price of Yacoin is 0.00122125 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.yacoin.org.",
+		"slug": "yacoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17.png",
+		"subreddit": "yacoin",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://www.yacoin.org"
+			],
+			"twitter": [
+				"https://twitter.com/YACoinJoe"
+			],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"https://coinplorer.com/YAC"
+			],
+			"reddit": [
+				"https://reddit.com/r/yacoin"
+			],
+			"technical_doc": [
+				"http://www.yacoin.org/tech.php"
+			],
+			"source_code": [
+				"https://github.com/yacoin/yacoin/releases"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=206577.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-06-09T00:00:00.000Z",
+		"twitter_username": "YACoinJoe",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"18": {
+		"id": 18,
+		"name": "Digitalcoin",
+		"symbol": "DGC",
+		"category": "coin",
+		"description": "Digitalcoin (DGC) is a cryptocurrency . Users are able to generate DGC through the process of mining. Digitalcoin has a current supply of 38,709,110.84403641. The last known price of Digitalcoin is 0.00400505 USD and is down -2.78 over the last 24 hours. It is currently trading on 1 active market(s) with $6.76 traded over the last 24 hours. More information can be found at http://digitalcoin.co.",
+		"slug": "digitalcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18.png",
+		"subreddit": "digitalcoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://digitalcoin.co",
+				"https://digitalcoin.tech/"
+			],
+			"twitter": [
+				"https://twitter.com/DigitalcoinDGC"
+			],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://dgc.blockr.io",
+				"https://chainz.cryptoid.info/dgc/"
+			],
+			"reddit": [
+				"https://reddit.com/r/digitalcoin"
+			],
+			"technical_doc": [
+				"https://github.com/lomtax/digitalcoin/blob/master/README.md"
+			],
+			"source_code": [
+				"https://github.com/lomtax/digitalcoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=209508.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-06-09T00:00:00.000Z",
+		"twitter_username": "DigitalcoinDGC",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"19": {
+		"id": 19,
+		"name": "Franko",
+		"symbol": "FRK",
+		"category": "coin",
+		"description": "Franko (FRK) is a cryptocurrency . Users are able to generate FRK through the process of mining. Franko has a current supply of 930,767. The last known price of Franko is 0.1236935 USD and is up 0.00 over the last 24 hours. More information can be found at http://frankos.org.",
+		"slug": "franko",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://frankos.org"
+			],
+			"twitter": [
+				"https://twitter.com/FrankoCurrency"
+			],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"https://cryptobe.com/chain/FrankoCoin"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/franko-org/franko"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=202417.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-06-09T00:00:00.000Z",
+		"twitter_username": "FrankoCurrency",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"20": {
+		"id": 20,
+		"name": "Elacoin",
+		"symbol": "ELC",
+		"category": "coin",
+		"description": "Elacoin (ELC) is a cryptocurrency . Users are able to generate ELC through the process of mining. Elacoin has a current supply of 642,276.25044423 with 407,774.25144423 in circulation. The last known price of Elacoin is 0.46424729 USD and is up 0.00 over the last 24 hours. More information can be found at http://elc.22web.org/.",
+		"slug": "elacoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://elc.22web.org/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://51.255.13.23:30004"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/TheRCG/Elacoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=766417.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-06-09T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"22": {
+		"id": 22,
+		"name": "Luckycoin",
+		"symbol": "LKY",
+		"category": "coin",
+		"description": "Luckycoin (LKY) is a cryptocurrency . Users are able to generate LKY through the process of mining. Luckycoin has a current supply of 19,326,319.14375. The last known price of Luckycoin is 0.00057625 USD and is up 0.00 over the last 24 hours. More information can be found at http://luckycoinfoundation.org.",
+		"slug": "luckycoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://luckycoinfoundation.org"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://54.213.97.176:49917/chain/luckycoin"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-06-14T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"23": {
+		"id": 23,
+		"name": "Nibble [old]",
+		"symbol": "NBL",
+		"category": "coin",
+		"description": "Nibble [old] (NBL) is a cryptocurrency . Users are able to generate NBL through the process of mining. Nibble [old] has a current supply of 0. The last known price of Nibble [old] is 0.00021593 USD and is up 0.00 over the last 24 hours. More information can be found at https://github.com/getnibble/nibble.",
+		"slug": "nibble-old",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"https://github.com/getnibble/nibble"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-06-14T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"24": {
+		"id": 24,
+		"name": "AmericanCoin",
+		"symbol": "AMC",
+		"category": "coin",
+		"description": "AmericanCoin (AMC) is a cryptocurrency . Users are able to generate AMC through the process of mining. AmericanCoin has a current supply of 0. The last known price of AmericanCoin is 0.00008205 USD and is up 0.00 over the last 24 hours. More information can be found at http://amccoin.com.",
+		"slug": "americancoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://amccoin.com"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-06-09T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"25": {
+		"id": 25,
+		"name": "Goldcoin",
+		"symbol": "GLC",
+		"category": "coin",
+		"description": "Goldcoin (GLC) is a cryptocurrency launched in 2013. Users are able to generate GLC through the process of mining. Goldcoin has a current supply of 43,966,520.99997141 with 43,681,421.99997146 in circulation. The last known price of Goldcoin is 0.07067172 USD and is down -0.10 over the last 24 hours. It is currently trading on 8 active market(s) with $2,686.55 traded over the last 24 hours. More information can be found at https://www.goldcoinproject.org/.",
+		"slug": "goldcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/25.png",
+		"subreddit": "goldcoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://www.goldcoinproject.org/",
+				"https://www.goldcoinweb.com/"
+			],
+			"twitter": [
+				"https://twitter.com/goldcoin"
+			],
+			"message_board": [
+				"https://www.goldcointalk.org",
+				"https://www.goldcoin.org/forum/"
+			],
+			"chat": [
+				"https://t.me/goldcointalk",
+				"https://discord.gg/goldcoin"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/glc/"
+			],
+			"reddit": [
+				"https://reddit.com/r/goldcoin"
+			],
+			"technical_doc": [
+				"https://github.com/goldcoin/wiki/wiki/GoldCoin-Whitepaper"
+			],
+			"source_code": [
+				"https://github.com/goldcoin/"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=317568"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-06-14T00:00:00.000Z",
+		"twitter_username": "goldcoin",
+		"is_hidden": 0,
+		"date_launched": "2013-12-01T00:00:00.000Z",
+		"contract_address": [],
+		"self_reported_circulating_supply": 43681421.99997146,
+		"self_reported_tags": [
+			"PoW",
+			"Medium of Exchange",
+			"Store Of Value",
+			"Scrypt"
+		],
+		"self_reported_market_cap": 2958673.9570750096
+	},
+	"26": {
+		"id": 26,
+		"name": "Junkcoin",
+		"symbol": "JKC",
+		"category": "coin",
+		"description": "Junkcoin (JKC) is a cryptocurrency . Users are able to generate JKC through the process of mining. Junkcoin has a current supply of 13,961,400. The last known price of Junkcoin is 0.00009538 USD and is up 0.00 over the last 24 hours. More information can be found at http://jkcoin.com.",
+		"slug": "junkcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://jkcoin.com"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://jkc.cryptocoinexplorer.com"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-06-14T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"27": {
+		"id": 27,
+		"name": "Hypercoin",
+		"symbol": "HYC",
+		"category": "coin",
+		"description": null,
+		"slug": "hypercoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"https://github.com/muddafudda/Hypercoin-fork"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"28": {
+		"id": 28,
+		"name": "Doubloons",
+		"symbol": "DBL",
+		"category": "coin",
+		"description": "Doubloons (DBL) is a cryptocurrency . Users are able to generate DBL through the process of mining. Doubloons has a current supply of 4,845,824.4. The last known price of Doubloons is 0.00047813 USD and is up 0.00 over the last 24 hours. More information can be found at http://doubloons.net.",
+		"slug": "doubloons",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://doubloons.net"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://explorer.doubloons.net/chain/Doubloons"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=206361"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"29": {
+		"id": 29,
+		"name": "Bottlecaps",
+		"symbol": "CAP",
+		"category": "coin",
+		"description": "Bottlecaps (CAP) is a cryptocurrency . Users are able to generate CAP through the process of mining. Bottlecaps has a current supply of 206,257,686.81843. The last known price of Bottlecaps is 0.00051431 USD and is up 0.00 over the last 24 hours.",
+		"slug": "bottlecaps",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://www.presstab.pw/phpexplorer/CAP/index.php"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/bottlecaps-foundation/bottlecaps"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=241445.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"30": {
+		"id": 30,
+		"name": "Noirbits",
+		"symbol": "NRB",
+		"category": "coin",
+		"description": "Noirbits (NRB) is a cryptocurrency . Users are able to generate NRB through the process of mining. Noirbits has a current supply of 2,251,240. The last known price of Noirbits is 0.00016843 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.noirbits.com.",
+		"slug": "noirbits",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://www.noirbits.com"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://nrb.webboise.com/chain/noirbits"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"32": {
+		"id": 32,
+		"name": "Fastcoin",
+		"symbol": "FST",
+		"category": "coin",
+		"description": "Fastcoin (FST) is a cryptocurrency . Users are able to generate FST through the process of mining. Fastcoin has a current supply of 156,913,423.581737. The last known price of Fastcoin is 0.00083506 USD and is down -2.63 over the last 24 hours. More information can be found at https://fastcoin-project.com/.",
+		"slug": "fastcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32.png",
+		"subreddit": "Fastcoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://fastcoin-project.com/",
+				"https://www.fastcoin.ca/"
+			],
+			"twitter": [
+				"https://twitter.com/fastcoinproject"
+			],
+			"message_board": [
+				"http://www.fastcointalk.org/"
+			],
+			"chat": [
+				"https://t.me/FastcoinHQ"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/fst/"
+			],
+			"reddit": [
+				"https://reddit.com/r/Fastcoin"
+			],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/fastcoin-project/fastcoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=218852.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "fastcoinproject",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"33": {
+		"id": 33,
+		"name": "EZCoin",
+		"symbol": "EZC",
+		"category": "coin",
+		"description": "EZCoin (EZC) is a cryptocurrency . Users are able to generate EZC through the process of mining. EZCoin has a current supply of 0. The last known price of EZCoin is 0.00010366 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.ezcoin.org/.",
+		"slug": "ezcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://www.ezcoin.org/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"https://andarazoroflove.org/explorer/ezcoin"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"34": {
+		"id": 34,
+		"name": "Bitgem",
+		"symbol": "BTG",
+		"category": "coin",
+		"description": "Bitgem (BTG) is a cryptocurrency . Users are able to generate BTG through the process of mining. Bitgem has a current supply of 61,349.245643. The last known price of Bitgem is 2.79044509 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.bitgem.pw/.",
+		"slug": "bitgem",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://www.bitgem.pw/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://abe.alfter.us/chain/Bitgem"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/bitgem/bitgem"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=207008.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"35": {
+		"id": 35,
+		"name": "Phoenixcoin",
+		"symbol": "PXC",
+		"category": "coin",
+		"description": "Phoenixcoin (PXC) is a cryptocurrency . Users are able to generate PXC through the process of mining. Phoenixcoin has a current supply of 86,142,393.375. The last known price of Phoenixcoin is 0.01041313 USD and is down -12.84 over the last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded over the last 24 hours. More information can be found at http://phoenixcoin.org/.",
+		"slug": "phoenixcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/35.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"neoscrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"NeoScrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://phoenixcoin.org/"
+			],
+			"twitter": [
+				"https://twitter.com/Phoenixcoin"
+			],
+			"message_board": [],
+			"chat": [
+				"https://t.me/pxcofficial"
+			],
+			"facebook": [],
+			"explorer": [
+				"http://explorer.phoenixcoin.org"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/ghostlander/Phoenixcoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=330956.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-04T00:00:00.000Z",
+		"twitter_username": "Phoenixcoin",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"36": {
+		"id": 36,
+		"name": "AlphaCoin",
+		"symbol": "ALF",
+		"category": "coin",
+		"description": "AlphaCoin (ALF) is a cryptocurrency . Users are able to generate ALF through the process of mining. AlphaCoin has a current supply of 0. The last known price of AlphaCoin is 0.0001166 USD and is up 0.00 over the last 24 hours. More information can be found at http://alphacoin.wordpress.com/.",
+		"slug": "alphacoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/36.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://alphacoin.wordpress.com/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-07T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"37": {
+		"id": 37,
+		"name": "Megacoin",
+		"symbol": "MEC",
+		"category": "coin",
+		"description": "Megacoin (MEC) is a cryptocurrency . Users are able to generate MEC through the process of mining. Megacoin has a current supply of 39,911,656.24309969. The last known price of Megacoin is 0.00280353 USD and is down -14.93 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://megacoin-mec.cc/.",
+		"slug": "megacoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/37.png",
+		"subreddit": "megacoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://megacoin-mec.cc/"
+			],
+			"twitter": [
+				"https://twitter.com/Megacoin__MEC"
+			],
+			"message_board": [],
+			"chat": [
+				"https://t.me/Megacoin_MEC",
+				"https://discordapp.com/invite/r9ebtKD"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/mec/"
+			],
+			"reddit": [
+				"https://reddit.com/r/megacoin"
+			],
+			"technical_doc": [
+				"https://megacoin.eu/Megacoin.pdf"
+			],
+			"source_code": [
+				"https://github.com/LIMXTEC/Megacoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=2242071"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-07T00:00:00.000Z",
+		"twitter_username": "Megacoin__MEC",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"38": {
+		"id": 38,
+		"name": "Krugercoin",
+		"symbol": "KGC",
+		"category": "coin",
+		"description": "Krugercoin (KGC) is a cryptocurrency . Users are able to generate KGC through the process of mining. Krugercoin has a current supply of 144,303,057.8. The last known price of Krugercoin is 0.00003023 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.krugercoin.co.",
+		"slug": "krugercoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://www.krugercoin.co"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://kgc.blockexp.info/"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-07T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"39": {
+		"id": 39,
+		"name": "CraftCoin",
+		"symbol": "CRC",
+		"category": "coin",
+		"description": "CraftCoin (CRC) is a cryptocurrency . Users are able to generate CRC through the process of mining. CraftCoin has a current supply of 0. The last known price of CraftCoin is 0.00073848 USD and is up 0.00 over the last 24 hours. More information can be found at http://craftcoin.net/.",
+		"slug": "craftcoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/39.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://craftcoin.net/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://crc.cryptocoinexplorer.com/"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-07T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"40": {
+		"id": 40,
+		"name": "StableCoin",
+		"symbol": "SBC",
+		"category": "coin",
+		"description": "StableCoin (SBC) is a cryptocurrency . Users are able to generate SBC through the process of mining. StableCoin has a current supply of 23,886,806.725. The last known price of StableCoin is 0.00013388 USD and is up 0.00 over the last 24 hours. More information can be found at http://stablecoin.net/.",
+		"slug": "stablecoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/40.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://stablecoin.net/"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://sbc.blockexplorer.io/chain/Stablecoin"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-07T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"42": {
+		"id": 42,
+		"name": "Primecoin",
+		"symbol": "XPM",
+		"category": "coin",
+		"description": "Primecoin (XPM) is a cryptocurrency . Users are able to generate XPM through the process of mining. Primecoin has a current supply of 40,318,076.05027372. The last known price of Primecoin is 0.05278654 USD and is down -6.47 over the last 24 hours. It is currently trading on 2 active market(s) with $365.01 traded over the last 24 hours. More information can be found at https://primecoin.io/.",
+		"slug": "primecoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/42.png",
+		"subreddit": "primecoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"multiple-algorithms"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Multiple algorithms"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"https://primecoin.io/"
+			],
+			"twitter": [
+				"https://twitter.com/Primecoin"
+			],
+			"message_board": [
+				"https://talk.peercoin.net/c/altcoins/primecoin"
+			],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"https://bchain.info/XPM/",
+				"https://www.blockseek.io/xpm",
+				"https://chainz.cryptoid.info/xpm/"
+			],
+			"reddit": [
+				"https://reddit.com/r/primecoin"
+			],
+			"technical_doc": [
+				"http://primecoin.io/bin/primecoin-paper.pdf"
+			],
+			"source_code": [
+				"https://github.com/primecoin/primecoin/"
+			],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-11T00:00:00.000Z",
+		"twitter_username": "Primecoin",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"43": {
+		"id": 43,
+		"name": "Anoncoin",
+		"symbol": "ANC",
+		"category": "coin",
+		"description": "Anoncoin (ANC) is a cryptocurrency . Users are able to generate ANC through the process of mining. Anoncoin has a current supply of 2,110,316.862. The last known price of Anoncoin is 0.04806058 USD and is down -2.78 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://anoncoin.net/.",
+		"slug": "anoncoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/43.png",
+		"subreddit": "Anoncoin",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"privacy"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Privacy"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"CATEGORY"
+		],
+		"urls": {
+			"website": [
+				"https://anoncoin.net/"
+			],
+			"twitter": [
+				"https://twitter.com/AnoncoinNews"
+			],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://abe.darkgamex.ch:2751/chain/Anoncoin",
+				"https://chainz.cryptoid.info/anc/"
+			],
+			"reddit": [
+				"https://reddit.com/r/Anoncoin"
+			],
+			"technical_doc": [
+				"https://anoncoin.net/About_Anoncoin/"
+			],
+			"source_code": [
+				"https://github.com/Anoncoin/anoncoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=227287.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-07-15T00:00:00.000Z",
+		"twitter_username": "AnoncoinNews",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"44": {
+		"id": 44,
+		"name": "NanoToken",
+		"symbol": "NAN",
+		"category": "coin",
+		"description": "NanoToken (NAN) is a cryptocurrency . Users are able to generate NAN through the process of mining. NanoToken has a current supply of 0. The last known price of NanoToken is 0.00006478 USD and is up 0.00 over the last 24 hours. More information can be found at https://github.com/muddafudda/Nanotoken.",
+		"slug": "nanotoken",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/44.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"https://github.com/muddafudda/Nanotoken"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-18T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"45": {
+		"id": 45,
+		"name": "CasinoCoin",
+		"symbol": "CSC",
+		"category": "coin",
+		"description": "CasinoCoin (CSC) is a cryptocurrency launched in 2021. CasinoCoin has a current supply of 64,994,130,519 with 0 in circulation. The last known price of CasinoCoin is 0.00124298 USD and is down -4.57 over the last 24 hours. It is currently trading on 8 active market(s) with $98,635.04 traded over the last 24 hours. More information can be found at https://casinocoin.im/.",
+		"slug": "casinocoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/45.png",
+		"subreddit": "casinocoin",
+		"notice": "",
+		"tags": [
+			"gambling",
+			"gaming"
+		],
+		"tag-names": [
+			"Gambling",
+			"Gaming"
+		],
+		"tag-groups": [
+			"INDUSTRY",
+			"INDUSTRY"
+		],
+		"urls": {
+			"website": [
+				"https://casinocoin.im/"
+			],
+			"twitter": [
+				"https://twitter.com/CasinoCoin"
+			],
+			"message_board": [
+				"https://medium.com/@casinocoin"
+			],
+			"chat": [
+				"https://discordapp.com/invite/muXdVHb",
+				"https://t.me/casinocoin"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://casinocoin.info/"
+			],
+			"reddit": [
+				"https://reddit.com/r/casinocoin"
+			],
+			"technical_doc": [
+				"https://whitepaper.io/document/1/ripple-whitepaper"
+			],
+			"source_code": [
+				"https://github.com/casinocoin"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=5335452"
+			]
+		},
+		"platform": null,
+		"date_added": "2018-01-16T00:00:00.000Z",
+		"twitter_username": "CasinoCoin",
+		"is_hidden": 0,
+		"date_launched": "2021-04-20T00:00:00.000Z",
+		"contract_address": [],
+		"self_reported_circulating_supply": 41290000000,
+		"self_reported_tags": [
+			"Gambling",
+			"XRP"
+		],
+		"self_reported_market_cap": 51171491.603625394
+	},
+	"46": {
+		"id": 46,
+		"name": "XenCoin",
+		"symbol": "XNC",
+		"category": "coin",
+		"description": "XenCoin (XNC) is a cryptocurrency . Users are able to generate XNC through the process of mining. XenCoin has a current supply of 0. The last known price of XenCoin is 0.00000329 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.xencoin.com.",
+		"slug": "xencoin",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/46.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"http://www.xencoin.com"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-25T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"47": {
+		"id": 47,
+		"name": "Spots",
+		"symbol": "SPT",
+		"category": "coin",
+		"description": "Spots (SPT) is a cryptocurrency . Users are able to generate SPT through the process of mining. Spots has a current supply of 22,406,021.2405395. The last known price of Spots is 0.00356962 USD and is up 14.06 over the last 24 hours. More information can be found at https://bitcointalk.org/index.php?topic=615513.0.",
+		"slug": "spots",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/47.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"https://bitcointalk.org/index.php?topic=615513.0"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [
+				"http://51.255.6.35:30005/"
+			],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/theSPT/spots2"
+			],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-25T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"48": {
+		"id": 48,
+		"name": "Lebowskis",
+		"symbol": "LBW",
+		"category": "coin",
+		"description": null,
+		"slug": "lebowskis",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/48.png",
+		"subreddit": "",
+		"notice": "",
+		"tags": [
+			"mineable"
+		],
+		"tag-names": [
+			"Mineable"
+		],
+		"tag-groups": [
+			"OTHERS"
+		],
+		"urls": {
+			"website": [
+				"https://github.com/lebowskis/Qt"
+			],
+			"twitter": [],
+			"message_board": [],
+			"chat": [],
+			"facebook": [],
+			"explorer": [],
+			"reddit": [],
+			"technical_doc": [],
+			"source_code": [],
+			"announcement": []
+		},
+		"platform": null,
+		"date_added": "2013-07-25T00:00:00.000Z",
+		"twitter_username": "",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"49": {
+		"id": 49,
+		"name": "Bullion",
+		"symbol": "CBX",
+		"category": "coin",
+		"description": "Bullion (CBX) is a cryptocurrency . Users are able to generate CBX through the process of mining. Bullion has a current supply of 1,027,995.05429762. The last known price of Bullion is 0.36969778 USD and is up 0.00 over the last 24 hours. More information can be found at http://bullion.one/.",
+		"slug": "bullion",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/49.png",
+		"subreddit": "CryptoBullionX",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"hybrid-pow-pos",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"Hybrid - PoW & PoS",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://bullion.one/"
+			],
+			"twitter": [
+				"https://twitter.com/CryptoBullionX"
+			],
+			"message_board": [
+				"https://steemit.com/@cbx"
+			],
+			"chat": [
+				"https://t.me/joinchat/FkBLVEimXQscVn1cetdd4g"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/cbx/"
+			],
+			"reddit": [
+				"https://reddit.com/r/CryptoBullionX"
+			],
+			"technical_doc": [],
+			"source_code": [
+				"https://github.com/elambert2014/bullion"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=951753.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-08-04T00:00:00.000Z",
+		"twitter_username": "CryptoBullionX",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	},
+	"50": {
+		"id": 50,
+		"name": "Emerald Crypto",
+		"symbol": "EMD",
+		"category": "coin",
+		"description": "Emerald Crypto (EMD) is a cryptocurrency . Users are able to generate EMD through the process of mining. Emerald Crypto has a current supply of 19,117,129.373306. The last known price of Emerald Crypto is 0.00363093 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.emeraldcrypto.de/.",
+		"slug": "emerald",
+		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/50.png",
+		"subreddit": "emeraldcrypto",
+		"notice": "",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt"
+		],
+		"tag-names": [
+			"Mineable",
+			"PoW",
+			"Scrypt"
+		],
+		"tag-groups": [
+			"OTHERS",
+			"ALGORITHM",
+			"ALGORITHM"
+		],
+		"urls": {
+			"website": [
+				"http://www.emeraldcrypto.de/"
+			],
+			"twitter": [
+				"https://twitter.com/_emerald_emd_"
+			],
+			"message_board": [],
+			"chat": [
+				"https://discord.gg/4W2fkuf",
+				"https://t.me/EmeraldCryptoCoin"
+			],
+			"facebook": [],
+			"explorer": [
+				"https://chainz.cryptoid.info/emd/",
+				"https://prohashing.com/explorer/Emerald/",
+				"http://explorer.emeraldcrypto.de/"
+			],
+			"reddit": [
+				"https://reddit.com/r/emeraldcrypto"
+			],
+			"technical_doc": [
+				"https://coinwik.org/Emerald_Crypto"
+			],
+			"source_code": [
+				"https://github.com/crypto-currency/Emerald"
+			],
+			"announcement": [
+				"https://bitcointalk.org/index.php?topic=724463.0"
+			]
+		},
+		"platform": null,
+		"date_added": "2013-08-04T00:00:00.000Z",
+		"twitter_username": "_emerald_emd_",
+		"is_hidden": 0,
+		"date_launched": null,
+		"contract_address": [],
+		"self_reported_circulating_supply": null,
+		"self_reported_tags": null,
+		"self_reported_market_cap": null
+	}
+}

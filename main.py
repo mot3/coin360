@@ -2,7 +2,7 @@ from fastapi import FastAPI, Request
 from fastapi.responses import ORJSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 
-# from coin.app import coin_router
+from coin.app import coin_router
 from market.app import market_router
 from rate_limiter import limiter
 from settings import settings
@@ -49,7 +49,7 @@ app.add_exception_handler(
 app.add_exception_handler(PyMongoError, pymongo_error_handler)
 
 
-# app.include_router(coin_router)
+app.include_router(coin_router)
 app.include_router(market_router)
 
 
