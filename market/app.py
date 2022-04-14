@@ -21,10 +21,11 @@ async def websocket_get_positions(websocket: WebSocket):
 
     try:
         async with ts as tscm:
+            while True:
 
-            markets = await tscm.recv()
+                markets = await tscm.recv()
 
-            await websocket.send_json(markets)
+                await websocket.send_json(markets)
 
     except Exception as e:
         print(e)
