@@ -1,6 +1,4 @@
-from typing import List
-
-from fastapi import Depends, WebSocket
+from fastapi import WebSocket
 from fastapi.routing import APIRouter
 from binance import AsyncClient, BinanceSocketManager
 
