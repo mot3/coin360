@@ -1,14 +1,11 @@
-{
-	"1": {
+[
+	{
 		"id": 1,
 		"name": "Bitcoin",
 		"symbol": "BTC",
-		"category": "coin",
-		"description": "Bitcoin (BTC) is a cryptocurrency . Users are able to generate BTC through the process of mining. Bitcoin has a current supply of 19,011,518. The last known price of Bitcoin is 40,050.48668491 USD and is down -2.78 over the last 24 hours. It is currently trading on 9331 active market(s) with $27,372,316,492.91 traded over the last 24 hours. More information can be found at https://bitcoin.org/.",
 		"slug": "bitcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
-		"subreddit": "bitcoin",
-		"notice": "",
+		"num_market_pairs": 9331,
+		"date_added": "2013-04-28T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"pow",
@@ -39,114 +36,935 @@
 			"multicoin-capital-portfolio",
 			"paradigm-portfolio"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"SHA-256",
-			"Store Of Value",
-			"State Channel",
-			"Coinbase Ventures Portfolio",
-			"Three Arrows Capital Portfolio",
-			"Polychain Capital Portfolio",
-			"Binance Labs Portfolio",
-			"Blockchain Capital Portfolio",
-			"BoostVC Portfolio",
-			"CMS Holdings Portfolio",
-			"DCG Portfolio",
-			"DragonFly Capital Portfolio",
-			"Electric Capital Portfolio",
-			"Fabric Ventures Portfolio",
-			"Framework Ventures Portfolio",
-			"Galaxy Digital Portfolio",
-			"Huobi Capital Portfolio",
-			"Alameda Research Portfolio",
-			"a16z Portfolio",
-			"1Confirmation Portfolio",
-			"Winklevoss Capital Portfolio",
-			"USV Portfolio",
-			"Placeholder Ventures Portfolio",
-			"Pantera Capital Portfolio",
-			"Multicoin Capital Portfolio",
-			"Paradigm Portfolio"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY",
-			"CATEGORY"
-		],
-		"urls": {
-			"website": [
-				"https://bitcoin.org/"
-			],
-			"twitter": [],
-			"message_board": [
-				"https://bitcointalk.org"
-			],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"https://blockchain.coinmarketcap.com/chain/bitcoin",
-				"https://blockchain.info/",
-				"https://live.blockcypher.com/btc/",
-				"https://blockchair.com/bitcoin",
-				"https://explorer.viabtc.com/btc"
-			],
-			"reddit": [
-				"https://reddit.com/r/bitcoin"
-			],
-			"technical_doc": [
-				"https://bitcoin.org/bitcoin.pdf"
-			],
-			"source_code": [
-				"https://github.com/bitcoin/bitcoin"
-			],
-			"announcement": []
-		},
+		"max_supply": 21000000,
+		"circulating_supply": 19012112,
+		"total_supply": 19012112,
 		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 1,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 40147.9946844249,
+				"volume_24h": 24602406464.88403,
+				"volume_change_24h": -10.943,
+				"percent_change_1h": 0.06594497,
+				"percent_change_24h": -2.67911971,
+				"percent_change_7d": -8.01997162,
+				"percent_change_30d": 1.94570563,
+				"percent_change_60d": -4.05387331,
+				"percent_change_90d": -6.49774406,
+				"market_cap": 763298171515.6908,
+				"market_cap_dominance": 40.6758,
+				"fully_diluted_market_cap": 843107888372.92,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"2": {
+	{
+		"id": 1027,
+		"name": "Ethereum",
+		"symbol": "ETH",
+		"slug": "ethereum",
+		"num_market_pairs": 5644,
+		"date_added": "2015-08-07T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"pow",
+			"smart-contracts",
+			"ethereum-ecosystem",
+			"coinbase-ventures-portfolio",
+			"three-arrows-capital-portfolio",
+			"polychain-capital-portfolio",
+			"binance-labs-portfolio",
+			"blockchain-capital-portfolio",
+			"boostvc-portfolio",
+			"cms-holdings-portfolio",
+			"dcg-portfolio",
+			"dragonfly-capital-portfolio",
+			"electric-capital-portfolio",
+			"fabric-ventures-portfolio",
+			"framework-ventures-portfolio",
+			"hashkey-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"huobi-capital-portfolio",
+			"alameda-research-portfolio",
+			"a16z-portfolio",
+			"1confirmation-portfolio",
+			"winklevoss-capital-portfolio",
+			"usv-portfolio",
+			"placeholder-ventures-portfolio",
+			"pantera-capital-portfolio",
+			"multicoin-capital-portfolio",
+			"paradigm-portfolio",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 120384548.4365,
+		"total_supply": 120384548.4365,
+		"platform": null,
+		"cmc_rank": 2,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 3038.4301756516434,
+				"volume_24h": 15249586686.809437,
+				"volume_change_24h": -3.3684,
+				"percent_change_1h": 0.21947271,
+				"percent_change_24h": -2.20771574,
+				"percent_change_7d": -6.95699028,
+				"percent_change_30d": 15.42972319,
+				"percent_change_60d": 6.47119507,
+				"percent_change_90d": -8.16266545,
+				"market_cap": 365780044651.65845,
+				"market_cap_dominance": 19.4905,
+				"fully_diluted_market_cap": 365780044651.66,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 825,
+		"name": "Tether",
+		"symbol": "USDT",
+		"slug": "tether",
+		"num_market_pairs": 31762,
+		"date_added": "2015-02-25T00:00:00.000Z",
+		"tags": [
+			"payments",
+			"stablecoin",
+			"asset-backed-stablecoin",
+			"avalanche-ecosystem",
+			"solana-ecosystem",
+			"arbitrum-ecosytem",
+			"moonriver-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 82694361442.77385,
+		"total_supply": 85613951816.13536,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+		},
+		"cmc_rank": 3,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.0002298745232565,
+				"volume_24h": 52210677849.26372,
+				"volume_change_24h": -9.8237,
+				"percent_change_1h": 0.01072345,
+				"percent_change_24h": 0.00248822,
+				"percent_change_7d": 0.00327795,
+				"percent_change_30d": -0.01318081,
+				"percent_change_60d": -0.02031427,
+				"percent_change_90d": -0.00430422,
+				"market_cap": 82713370769.68651,
+				"market_cap_dominance": 4.4078,
+				"fully_diluted_market_cap": 85633632282.49,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1839,
+		"name": "BNB",
+		"symbol": "BNB",
+		"slug": "bnb",
+		"num_market_pairs": 794,
+		"date_added": "2017-07-25T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"centralized-exchange",
+			"payments",
+			"smart-contracts",
+			"alameda-research-portfolio",
+			"multicoin-capital-portfolio",
+			"moonriver-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 165116760,
+		"circulating_supply": 165116760.89,
+		"total_supply": 165116760.89,
+		"platform": null,
+		"cmc_rank": 4,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 417.5548706651919,
+				"volume_24h": 1507504745.7580059,
+				"volume_change_24h": -18.9838,
+				"percent_change_1h": 0.15873645,
+				"percent_change_24h": -0.95713535,
+				"percent_change_7d": -4.23529495,
+				"percent_change_30d": 12.53516611,
+				"percent_change_60d": 6.54356867,
+				"percent_change_90d": -14.93751242,
+				"market_cap": 68945307738.07936,
+				"market_cap_dominance": 3.6737,
+				"fully_diluted_market_cap": 68945307366.46,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3408,
+		"name": "USD Coin",
+		"symbol": "USDC",
+		"slug": "usd-coin",
+		"num_market_pairs": 3716,
+		"date_added": "2018-10-08T00:00:00.000Z",
+		"tags": [
+			"medium-of-exchange",
+			"stablecoin",
+			"asset-backed-stablecoin",
+			"fantom-ecosystem",
+			"arbitrum-ecosytem",
+			"moonriver-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 50207220765.07448,
+		"total_supply": 50207220765.07448,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+		},
+		"cmc_rank": 5,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.9998003716671854,
+				"volume_24h": 3920614491.484699,
+				"volume_change_24h": 9.8158,
+				"percent_change_1h": 0.01808489,
+				"percent_change_24h": 0.00558197,
+				"percent_change_7d": -0.10935659,
+				"percent_change_30d": -0.0277218,
+				"percent_change_60d": 0.04413351,
+				"percent_change_90d": -0.06700272,
+				"market_cap": 50197197981.29789,
+				"market_cap_dominance": 2.675,
+				"fully_diluted_market_cap": 50197197981.3,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 52,
+		"name": "XRP",
+		"symbol": "XRP",
+		"slug": "xrp",
+		"num_market_pairs": 712,
+		"date_added": "2013-08-04T00:00:00.000Z",
+		"tags": [
+			"medium-of-exchange",
+			"enterprise-solutions",
+			"binance-chain",
+			"arrington-xrp-capital-portfolio",
+			"galaxy-digital-portfolio",
+			"a16z-portfolio",
+			"pantera-capital-portfolio"
+		],
+		"max_supply": 100000000000,
+		"circulating_supply": 48135209660,
+		"total_supply": 99989613982,
+		"platform": null,
+		"cmc_rank": 6,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.7784083573529551,
+				"volume_24h": 2602809304.369254,
+				"volume_change_24h": 50.3487,
+				"percent_change_1h": 0.00056457,
+				"percent_change_24h": 5.66673801,
+				"percent_change_7d": -1.18328927,
+				"percent_change_30d": 2.03713365,
+				"percent_change_60d": -1.27396208,
+				"percent_change_90d": 0.87657323,
+				"market_cap": 37468849482.28069,
+				"market_cap_dominance": 1.9967,
+				"fully_diluted_market_cap": 77840835735.3,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5426,
+		"name": "Solana",
+		"symbol": "SOL",
+		"slug": "solana",
+		"num_market_pairs": 293,
+		"date_added": "2020-04-10T00:00:00.000Z",
+		"tags": [
+			"pos",
+			"platform",
+			"solana-ecosystem",
+			"cms-holdings-portfolio",
+			"kenetic-capital-portfolio",
+			"alameda-research-portfolio",
+			"multicoin-capital-portfolio",
+			"okex-blockdream-ventures-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 332554193.6708548,
+		"total_supply": 511616946.142289,
+		"platform": null,
+		"cmc_rank": 7,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 102.1138527934174,
+				"volume_24h": 1581115106.570167,
+				"volume_change_24h": -6.9992,
+				"percent_change_1h": 0.417609,
+				"percent_change_24h": -3.90830399,
+				"percent_change_7d": -15.82007542,
+				"percent_change_30d": 24.03507935,
+				"percent_change_60d": 9.72081829,
+				"percent_change_90d": -29.73660531,
+				"market_cap": 33958389978.339287,
+				"market_cap_dominance": 1.8095,
+				"fully_diluted_market_cap": 52243177524.99,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2010,
+		"name": "Cardano",
+		"symbol": "ADA",
+		"slug": "cardano",
+		"num_market_pairs": 424,
+		"date_added": "2017-10-01T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"dpos",
+			"pos",
+			"platform",
+			"research",
+			"smart-contracts",
+			"staking",
+			"cardano-ecosystem",
+			"cardano",
+			"bnb-chain"
+		],
+		"max_supply": 45000000000,
+		"circulating_supply": 33739028515.755,
+		"total_supply": 34277702081.605,
+		"platform": null,
+		"cmc_rank": 8,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.9520498371067716,
+				"volume_24h": 808394289.2110238,
+				"volume_change_24h": -1.0936,
+				"percent_change_1h": 0.27062055,
+				"percent_change_24h": -1.96128445,
+				"percent_change_7d": -12.84315554,
+				"percent_change_30d": 18.72270399,
+				"percent_change_60d": -7.30716081,
+				"percent_change_90d": -24.63779112,
+				"market_cap": 32121236602.56527,
+				"market_cap_dominance": 1.7117,
+				"fully_diluted_market_cap": 42842242669.8,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4172,
+		"name": "Terra",
+		"symbol": "LUNA",
+		"slug": "terra-luna",
+		"num_market_pairs": 212,
+		"date_added": "2019-07-26T00:00:00.000Z",
+		"tags": [
+			"cosmos-ecosystem",
+			"store-of-value",
+			"defi",
+			"payments",
+			"coinbase-ventures-portfolio",
+			"binance-labs-portfolio",
+			"solana-ecosystem",
+			"arrington-xrp-capital-portfolio",
+			"hashkey-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"huobi-capital-portfolio",
+			"pantera-capital-portfolio",
+			"terra-ecosystem"
+		],
+		"max_supply": null,
+		"circulating_supply": 360468377.87814885,
+		"total_supply": 743855991.768657,
+		"platform": null,
+		"cmc_rank": 9,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 81.88664299162554,
+				"volume_24h": 1872466965.7865744,
+				"volume_change_24h": -0.3853,
+				"percent_change_1h": 0.2281465,
+				"percent_change_24h": -7.4275805,
+				"percent_change_7d": -22.30143505,
+				"percent_change_30d": -7.35926607,
+				"percent_change_60d": 56.06822999,
+				"percent_change_90d": 0.75918096,
+				"market_cap": 29517545369.078342,
+				"market_cap_dominance": 1.5728,
+				"fully_diluted_market_cap": 60911870035.14,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5805,
+		"name": "Avalanche",
+		"symbol": "AVAX",
+		"slug": "avalanche",
+		"num_market_pairs": 231,
+		"date_added": "2020-07-13T00:00:00.000Z",
+		"tags": [
+			"defi",
+			"smart-contracts",
+			"polychain-capital-portfolio",
+			"avalanche-ecosystem",
+			"cms-holdings-portfolio",
+			"dragonfly-capital-portfolio",
+			"moonriver-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 268285754.459102,
+		"total_supply": 395891289.9134107,
+		"platform": null,
+		"cmc_rank": 10,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 78.23182451961705,
+				"volume_24h": 662835991.8050102,
+				"volume_change_24h": -13.0904,
+				"percent_change_1h": 0.31183377,
+				"percent_change_24h": -3.50307063,
+				"percent_change_7d": -11.73417917,
+				"percent_change_30d": 13.22750866,
+				"percent_change_60d": 0.81200973,
+				"percent_change_90d": -13.30912204,
+				"market_cap": 20988484063.957535,
+				"market_cap_dominance": 1.1184,
+				"fully_diluted_market_cap": 30971297921.35,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 74,
+		"name": "Dogecoin",
+		"symbol": "DOGE",
+		"slug": "dogecoin",
+		"num_market_pairs": 464,
+		"date_added": "2013-12-15T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"pow",
+			"scrypt",
+			"medium-of-exchange",
+			"memes",
+			"payments",
+			"doggone-doggerel",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 132670764299.89409,
+		"total_supply": 132670764299.89409,
+		"platform": null,
+		"cmc_rank": 11,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.14610828704391568,
+				"volume_24h": 1901702104.2885244,
+				"volume_change_24h": 151.1898,
+				"percent_change_1h": 1.64053265,
+				"percent_change_24h": 3.87353989,
+				"percent_change_7d": -4.09011957,
+				"percent_change_30d": 28.98895412,
+				"percent_change_60d": 0.74901844,
+				"percent_change_90d": -22.85536047,
+				"market_cap": 19384298112.664608,
+				"market_cap_dominance": 1.0329,
+				"fully_diluted_market_cap": 19384298112.66,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6636,
+		"name": "Polkadot",
+		"symbol": "DOT",
+		"slug": "polkadot-new",
+		"num_market_pairs": 330,
+		"date_added": "2020-08-19T00:00:00.000Z",
+		"tags": [
+			"substrate",
+			"polkadot",
+			"binance-chain",
+			"polkadot-ecosystem",
+			"three-arrows-capital-portfolio",
+			"polychain-capital-portfolio",
+			"arrington-xrp-capital-portfolio",
+			"blockchain-capital-portfolio",
+			"boostvc-portfolio",
+			"cms-holdings-portfolio",
+			"coinfund-portfolio",
+			"fabric-ventures-portfolio",
+			"fenbushi-capital-portfolio",
+			"hashkey-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"1confirmation-portfolio",
+			"placeholder-ventures-portfolio",
+			"pantera-capital-portfolio",
+			"exnetwork-capital-portfolio",
+			"web3",
+			"spartan-group",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 987579314.957085,
+		"total_supply": 1103303471.382273,
+		"platform": null,
+		"cmc_rank": 12,
+		"self_reported_circulating_supply": 904869778,
+		"self_reported_market_cap": 16453154261.3464,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 18.18289732000133,
+				"volume_24h": 656547652.1969241,
+				"volume_change_24h": 2.8542,
+				"percent_change_1h": 0.2803144,
+				"percent_change_24h": -0.62994748,
+				"percent_change_7d": -11.37940875,
+				"percent_change_30d": 0.03303804,
+				"percent_change_60d": 0.52838602,
+				"percent_change_90d": -33.02357119,
+				"market_cap": 17957053279.22193,
+				"market_cap_dominance": 0.9568,
+				"fully_diluted_market_cap": 20061253732.94,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4687,
+		"name": "Binance USD",
+		"symbol": "BUSD",
+		"slug": "binance-usd",
+		"num_market_pairs": 3493,
+		"date_added": "2019-09-20T00:00:00.000Z",
+		"tags": [
+			"stablecoin",
+			"asset-backed-stablecoin",
+			"binance-chain",
+			"harmony-ecosystem",
+			"moonriver-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 17432028130.749256,
+		"total_supply": 17432028130.749256,
+		"platform": {
+			"id": 1839,
+			"name": "BNB Beacon Chain (BEP2)",
+			"symbol": "BNB",
+			"slug": "bnb",
+			"token_address": "BUSD-BD1"
+		},
+		"cmc_rank": 13,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.9989323246240746,
+				"volume_24h": 3678947325.216521,
+				"volume_change_24h": 3.1783,
+				"percent_change_1h": -0.15025031,
+				"percent_change_24h": -0.2067777,
+				"percent_change_7d": -0.13855249,
+				"percent_change_30d": -0.03051963,
+				"percent_change_60d": 0.00512816,
+				"percent_change_90d": -0.16834682,
+				"market_cap": 17413416383.561615,
+				"market_cap_dominance": 0.928,
+				"fully_diluted_market_cap": 17413416383.56,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 7129,
+		"name": "TerraUSD",
+		"symbol": "UST",
+		"slug": "terrausd",
+		"num_market_pairs": 444,
+		"date_added": "2020-09-21T00:00:00.000Z",
+		"tags": [
+			"cosmos-ecosystem",
+			"stablecoin",
+			"terra-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 17120856944.459328,
+		"total_supply": 17120856944.459328,
+		"platform": null,
+		"cmc_rank": 14,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.0011891060474831,
+				"volume_24h": 465767683.63151145,
+				"volume_change_24h": 9.0041,
+				"percent_change_1h": 0.00946637,
+				"percent_change_24h": 0.01301157,
+				"percent_change_7d": 0.08919619,
+				"percent_change_30d": -0.23858865,
+				"percent_change_60d": -0.10686826,
+				"percent_change_90d": 0.2950709,
+				"market_cap": 17141215458.990078,
+				"market_cap_dominance": 0.9133,
+				"fully_diluted_market_cap": 17141215458.99,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5994,
+		"name": "Shiba Inu",
+		"symbol": "SHIB",
+		"slug": "shiba-inu",
+		"num_market_pairs": 335,
+		"date_added": "2020-08-01T00:00:00.000Z",
+		"tags": [
+			"memes",
+			"ethereum-ecosystem",
+			"doggone-doggerel"
+		],
+		"max_supply": null,
+		"circulating_supply": 549063278876301.94,
+		"total_supply": 589735030408322.8,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+		},
+		"cmc_rank": 15,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.000025984731504640292,
+				"volume_24h": 1060708809.4855149,
+				"volume_change_24h": -34.9667,
+				"percent_change_1h": 0.08305472,
+				"percent_change_24h": -1.57750975,
+				"percent_change_7d": 3.87424584,
+				"percent_change_30d": 19.05044211,
+				"percent_change_60d": -10.19741546,
+				"percent_change_90d": -15.42106349,
+				"market_cap": 14267261880.658142,
+				"market_cap_dominance": 0.7603,
+				"fully_diluted_market_cap": 15324106424.04,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3717,
+		"name": "Wrapped Bitcoin",
+		"symbol": "WBTC",
+		"slug": "wrapped-bitcoin",
+		"num_market_pairs": 401,
+		"date_added": "2019-01-30T00:00:00.000Z",
+		"tags": [
+			"medium-of-exchange",
+			"defi",
+			"wrapped-tokens",
+			"fantom-ecosystem",
+			"arbitrum-ecosytem",
+			"moonriver-ecosystem"
+		],
+		"max_supply": null,
+		"circulating_supply": 277278.88109758,
+		"total_supply": 277278.88109758,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+		},
+		"cmc_rank": 16,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 40161.7867348995,
+				"volume_24h": 205055744.16235635,
+				"volume_change_24h": -18.1473,
+				"percent_change_1h": -0.00489062,
+				"percent_change_24h": -2.59611456,
+				"percent_change_7d": -7.97153557,
+				"percent_change_30d": 2.10036247,
+				"percent_change_60d": -3.95631681,
+				"percent_change_90d": -6.63873174,
+				"market_cap": 11136015288.732565,
+				"market_cap_dominance": 0.5934,
+				"fully_diluted_market_cap": 11136015288.73,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3890,
+		"name": "Polygon",
+		"symbol": "MATIC",
+		"slug": "polygon",
+		"num_market_pairs": 370,
+		"date_added": "2019-04-28T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"enterprise-solutions",
+			"scaling",
+			"state-channel",
+			"coinbase-ventures-portfolio",
+			"binance-launchpad",
+			"binance-labs-portfolio",
+			"polygon-ecosystem",
+			"moonriver-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 10000000000,
+		"circulating_supply": 7808492080.62,
+		"total_supply": 10000000000,
+		"platform": null,
+		"cmc_rank": 17,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.395223211759396,
+				"volume_24h": 598334544.314476,
+				"volume_change_24h": -1.3468,
+				"percent_change_1h": 0.50251845,
+				"percent_change_24h": -2.3814761,
+				"percent_change_7d": -8.45003204,
+				"percent_change_30d": 1.57849816,
+				"percent_change_60d": -13.72888062,
+				"percent_change_90d": -40.04051221,
+				"market_cap": 10894589399.720444,
+				"market_cap_dominance": 0.5806,
+				"fully_diluted_market_cap": 13952232117.59,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6535,
+		"name": "NEAR Protocol",
+		"symbol": "NEAR",
+		"slug": "near-protocol",
+		"num_market_pairs": 125,
+		"date_added": "2020-08-11T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"staking",
+			"coinbase-ventures-portfolio",
+			"arrington-xrp-capital-portfolio",
+			"coinfund-portfolio",
+			"electric-capital-portfolio",
+			"fabric-ventures-portfolio",
+			"kenetic-capital-portfolio",
+			"near-protocol-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 673038514,
+		"total_supply": 1000000000,
+		"platform": null,
+		"cmc_rank": 18,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 16.173347684626098,
+				"volume_24h": 1139253727.0031352,
+				"volume_change_24h": -0.3773,
+				"percent_change_1h": -0.58476082,
+				"percent_change_24h": -5.16789239,
+				"percent_change_7d": -13.93533197,
+				"percent_change_30d": 59.24803859,
+				"percent_change_60d": 58.15122975,
+				"percent_change_90d": -16.89526738,
+				"market_cap": 10885285892.06609,
+				"market_cap_dominance": 0.5801,
+				"fully_diluted_market_cap": 16173347684.63,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3635,
+		"name": "Cronos",
+		"symbol": "CRO",
+		"slug": "cronos",
+		"num_market_pairs": 131,
+		"date_added": "2018-12-14T00:00:00.000Z",
+		"tags": [
+			"medium-of-exchange",
+			"cosmos-ecosystem",
+			"centralized-exchange",
+			"mobile",
+			"payments"
+		],
+		"max_supply": 30263013692,
+		"circulating_supply": 25263013692,
+		"total_supply": 30263013692,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+		},
+		"cmc_rank": 19,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.4140721633504155,
+				"volume_24h": 49413432.47561985,
+				"volume_change_24h": -8.046,
+				"percent_change_1h": -0.05044153,
+				"percent_change_24h": -2.15802413,
+				"percent_change_7d": -8.02484764,
+				"percent_change_30d": 6.79819184,
+				"percent_change_60d": -12.87880948,
+				"percent_change_90d": -10.17638652,
+				"market_cap": 10460710732.197607,
+				"market_cap_dominance": 0.5574,
+				"fully_diluted_market_cap": 12531071548.95,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4943,
+		"name": "Dai",
+		"symbol": "DAI",
+		"slug": "multi-collateral-dai",
+		"num_market_pairs": 906,
+		"date_added": "2019-11-22T00:00:00.000Z",
+		"tags": [
+			"defi",
+			"stablecoin",
+			"ethereum-ecosystem",
+			"avalanche-ecosystem",
+			"polygon-ecosystem",
+			"fantom-ecosystem",
+			"arbitrum-ecosytem",
+			"harmony-ecosystem",
+			"moonriver-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 9123493584.978432,
+		"total_supply": 9123493584.978432,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+		},
+		"cmc_rank": 20,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.999806955196685,
+				"volume_24h": 309616212.83480954,
+				"volume_change_24h": -11.8785,
+				"percent_change_1h": 0.01182373,
+				"percent_change_24h": 0.02225593,
+				"percent_change_7d": 0.02670225,
+				"percent_change_30d": -0.00614567,
+				"percent_change_60d": 0.04109094,
+				"percent_change_90d": -0.00579528,
+				"market_cap": 9121732341.953773,
+				"market_cap_dominance": 0.4861,
+				"fully_diluted_market_cap": 9121732341.95,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
 		"id": 2,
 		"name": "Litecoin",
 		"symbol": "LTC",
-		"category": "coin",
-		"description": "Litecoin (LTC) is a cryptocurrency . Users are able to generate LTC through the process of mining. Litecoin has a current supply of 84,000,000 with 70,067,868.77791464 in circulation. The last known price of Litecoin is 107.34269071 USD and is down -2.56 over the last 24 hours. It is currently trading on 764 active market(s) with $767,680,246.14 traded over the last 24 hours. More information can be found at https://litecoin.org/.",
 		"slug": "litecoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png",
-		"subreddit": "litecoin",
-		"notice": "",
+		"num_market_pairs": 764,
+		"date_added": "2013-04-28T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"pow",
@@ -155,2546 +973,3622 @@
 			"binance-chain",
 			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt",
-			"Medium of Exchange",
-			"Binance Chain",
-			"BNB Chain"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM",
-			"INDUSTRY",
-			"PLATFORM",
-			"PLATFORM"
-		],
-		"urls": {
-			"website": [
-				"https://litecoin.org/"
-			],
-			"twitter": [
-				"https://twitter.com/LitecoinProject"
-			],
-			"message_board": [
-				"https://litecointalk.io/",
-				"https://litecoin-foundation.org/"
-			],
-			"chat": [
-				"https://telegram.me/litecoin"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://blockchair.com/litecoin",
-				"https://chainz.cryptoid.info/ltc/",
-				"http://explorer.litecoin.net/chain/Litecoin",
-				"https://ltc.tokenview.com/en",
-				"https://bscscan.com/token/0x4338665cbb7b2485a8855a139b75d5e34ab0db94"
-			],
-			"reddit": [
-				"https://reddit.com/r/litecoin"
-			],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/litecoin-project/litecoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=47417.0"
-			]
-		},
+		"max_supply": 84000000,
+		"circulating_supply": 70072418.77791464,
+		"total_supply": 84000000,
 		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "LitecoinProject",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [
-			{
-				"contract_address": "0xecb56cf772b5c9a6907fb7d32387da2fcbfb63b4",
-				"platform": {
-					"name": "HECO",
-					"coin": {
-						"id": "2502",
-						"name": "Huobi Token",
-						"symbol": "HT",
-						"slug": "huobi-token"
-					}
-				}
-			},
-			{
-				"contract_address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
-				"platform": {
-					"name": "BNB Smart Chain (BEP20)",
-					"coin": {
-						"id": "1839",
-						"name": "BNB",
-						"symbol": "BNB",
-						"slug": "bnb"
-					}
-				}
-			},
-			{
-				"contract_address": "0x13e93721dc992b3e14333dbdb48c0e7ec55431c3",
-				"platform": {
-					"name": "Hoo Smart Chain",
-					"coin": {
-						"id": "15165",
-						"name": "Hoo Smart Chain",
-						"symbol": "HSC",
-						"slug": "hoo-smart-chain"
-					}
-				}
+		"cmc_rank": 21,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 110.22060096971637,
+				"volume_24h": 768782778.0727036,
+				"volume_change_24h": -9.0741,
+				"percent_change_1h": -0.00226665,
+				"percent_change_24h": -0.76398424,
+				"percent_change_7d": -3.74782469,
+				"percent_change_30d": 3.08926266,
+				"percent_change_60d": -10.6439094,
+				"percent_change_90d": -25.74613947,
+				"market_cap": 7723424109.103391,
+				"market_cap_dominance": 0.4116,
+				"fully_diluted_market_cap": 9258530481.46,
+				"last_updated": "2022-04-15T06:18:00.000Z"
 			}
-		],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		}
 	},
-	"3": {
-		"id": 3,
-		"name": "Namecoin",
-		"symbol": "NMC",
-		"category": "coin",
-		"description": "Namecoin (NMC) is a cryptocurrency . Users are able to generate NMC through the process of mining. Namecoin has a current supply of 14,736,400. The last known price of Namecoin is 2.52291816 USD and is down -2.05 over the last 24 hours. It is currently trading on 7 active market(s) with $6,776.40 traded over the last 24 hours. More information can be found at https://www.namecoin.org/.",
-		"slug": "namecoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3.png",
-		"subreddit": "namecoin",
-		"notice": "",
+	{
+		"id": 3794,
+		"name": "Cosmos",
+		"symbol": "ATOM",
+		"slug": "cosmos",
+		"num_market_pairs": 273,
+		"date_added": "2019-03-14T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"cosmos-ecosystem",
+			"content-creation",
+			"interoperability",
+			"binance-chain",
+			"polychain-capital-portfolio",
+			"dragonfly-capital-portfolio",
+			"hashkey-capital-portfolio",
+			"1confirmation-portfolio",
+			"paradigm-portfolio",
+			"exnetwork-capital-portfolio",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 286370297,
+		"total_supply": 0,
+		"platform": null,
+		"cmc_rank": 22,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 24.18655766668794,
+				"volume_24h": 502272609.50795394,
+				"volume_change_24h": 11.4004,
+				"percent_change_1h": 0.13922665,
+				"percent_change_24h": -3.1484435,
+				"percent_change_7d": -13.22376012,
+				"percent_change_30d": -9.90145283,
+				"percent_change_60d": -5.84419388,
+				"percent_change_90d": -39.17223025,
+				"market_cap": 6926311702.417052,
+				"market_cap_dominance": 0.3691,
+				"fully_diluted_market_cap": 0,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 7083,
+		"name": "Uniswap",
+		"symbol": "UNI",
+		"slug": "uniswap",
+		"num_market_pairs": 354,
+		"date_added": "2020-09-17T00:00:00.000Z",
+		"tags": [
+			"decentralized-exchange",
+			"defi",
+			"dao",
+			"yield-farming",
+			"amm",
+			"coinbase-ventures-portfolio",
+			"three-arrows-capital-portfolio",
+			"governance",
+			"blockchain-capital-portfolio",
+			"defiance-capital-portfolio",
+			"alameda-research-portfolio",
+			"a16z-portfolio",
+			"pantera-capital-portfolio",
+			"parafi-capital",
+			"paradigm-portfolio",
+			"arbitrum-ecosytem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 689650074.451759,
+		"total_supply": 1000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+		},
+		"cmc_rank": 23,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 9.749320347776221,
+				"volume_24h": 291837799.49176353,
+				"volume_change_24h": 57.6988,
+				"percent_change_1h": -0.21440353,
+				"percent_change_24h": 0.65641375,
+				"percent_change_7d": -6.98078064,
+				"percent_change_30d": 10.80996351,
+				"percent_change_60d": -5.06147223,
+				"percent_change_90d": -39.26284177,
+				"market_cap": 6723619503.69792,
+				"market_cap_dominance": 0.3583,
+				"fully_diluted_market_cap": 9749320347.78,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1975,
+		"name": "Chainlink",
+		"symbol": "LINK",
+		"slug": "chainlink",
+		"num_market_pairs": 628,
+		"date_added": "2017-09-20T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"defi",
+			"oracles",
+			"smart-contracts",
+			"substrate",
+			"polkadot",
+			"polkadot-ecosystem",
+			"avalanche-ecosystem",
+			"solana-ecosystem",
+			"framework-ventures-portfolio",
+			"polygon-ecosystem",
+			"fantom-ecosystem",
+			"cardano-ecosystem",
+			"web3",
+			"near-protocol-ecosystem",
+			"arbitrum-ecosytem",
+			"cardano",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 467009549.5205637,
+		"total_supply": 1000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+		},
+		"cmc_rank": 24,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 13.997500550930825,
+				"volume_24h": 522644818.35053146,
+				"volume_change_24h": 20.9071,
+				"percent_change_1h": 0.45793035,
+				"percent_change_24h": -1.18350544,
+				"percent_change_7d": -11.45916161,
+				"percent_change_30d": 1.3825449,
+				"percent_change_60d": -8.84044369,
+				"percent_change_90d": -45.53814127,
+				"market_cap": 6536966426.704047,
+				"market_cap_dominance": 0.3484,
+				"fully_diluted_market_cap": 13997500550.93,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1831,
+		"name": "Bitcoin Cash",
+		"symbol": "BCH",
+		"slug": "bitcoin-cash",
+		"num_market_pairs": 587,
+		"date_added": "2017-07-23T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"pow",
 			"sha-256",
-			"platform"
+			"marketplace",
+			"medium-of-exchange",
+			"store-of-value",
+			"enterprise-solutions",
+			"payments",
+			"binance-chain",
+			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"SHA-256",
-			"Platform"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM",
-			"CATEGORY"
-		],
-		"urls": {
-			"website": [
-				"https://www.namecoin.org/"
-			],
-			"twitter": [
-				"https://twitter.com/Namecoin"
-			],
-			"message_board": [],
-			"chat": [
-				"https://www.namecoin.org/resources/chat/"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://nmc.tokenview.com/",
-				"https://www.namebrow.se/",
-				"https://namecha.in/",
-				"https://chainz.cryptoid.info/nmc/"
-			],
-			"reddit": [
-				"https://reddit.com/r/namecoin"
-			],
-			"technical_doc": [
-				"https://www.namecoin.org/resources/whitepaper/"
-			],
-			"source_code": [
-				"https://github.com/namecoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/?topic=6017.0"
-			]
-		},
+		"max_supply": 21000000,
+		"circulating_supply": 19036975,
+		"total_supply": 19036975,
 		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "Namecoin",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 25,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 342.4627752967809,
+				"volume_24h": 4379134596.369928,
+				"volume_change_24h": -10.2829,
+				"percent_change_1h": 0.04916088,
+				"percent_change_24h": -0.4441577,
+				"percent_change_7d": 1.59730356,
+				"percent_change_30d": 18.20688013,
+				"percent_change_60d": 6.8175086,
+				"percent_change_90d": -11.46093257,
+				"market_cap": 6519455291.755435,
+				"market_cap_dominance": 0.3474,
+				"fully_diluted_market_cap": 7191718281.23,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"4": {
-		"id": 4,
-		"name": "Terracoin",
-		"symbol": "TRC",
-		"category": "coin",
-		"description": "Terracoin (TRC) is a cryptocurrency launched in 2012. Users are able to generate TRC through the process of mining. Terracoin has a current supply of 22,935,396.430361. The last known price of Terracoin is 0.02166717 USD and is up 5.40 over the last 24 hours. It is currently trading on 2 active market(s) with $1,548.30 traded over the last 24 hours. More information can be found at http://www.terracoin.io/.",
-		"slug": "terracoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4.png",
-		"subreddit": "terracoin",
-		"notice": "",
+	{
+		"id": 1958,
+		"name": "TRON",
+		"symbol": "TRX",
+		"slug": "tron",
+		"num_market_pairs": 592,
+		"date_added": "2017-09-13T00:00:00.000Z",
+		"tags": [
+			"media",
+			"payments",
+			"tron-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 101656439192.50436,
+		"total_supply": 101656476603.08481,
+		"platform": null,
+		"cmc_rank": 26,
+		"self_reported_circulating_supply": 71659659264,
+		"self_reported_market_cap": 4386098216.802379,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.061207355182134444,
+				"volume_24h": 1067167037.0221425,
+				"volume_change_24h": 4.0277,
+				"percent_change_1h": 0.57886328,
+				"percent_change_24h": -0.71140395,
+				"percent_change_7d": -5.93960241,
+				"percent_change_30d": 1.37104712,
+				"percent_change_60d": -3.82137881,
+				"percent_change_90d": -9.7796835,
+				"market_cap": 6222121780.206667,
+				"market_cap_dominance": 0.3315,
+				"fully_diluted_market_cap": 6222124070.01,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4195,
+		"name": "FTX Token",
+		"symbol": "FTT",
+		"slug": "ftx-token",
+		"num_market_pairs": 117,
+		"date_added": "2019-07-31T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"centralized-exchange",
+			"derivatives",
+			"cms-holdings-portfolio",
+			"kenetic-capital-portfolio",
+			"alameda-research-portfolio",
+			"pantera-capital-portfolio",
+			"exnetwork-capital-portfolio"
+		],
+		"max_supply": 352170015,
+		"circulating_supply": 137072627.51874372,
+		"total_supply": 332941963.5859715,
+		"platform": {
+			"id": 1839,
+			"name": "BNB Beacon Chain (BEP2)",
+			"symbol": "BNB",
+			"slug": "bnb",
+			"token_address": "FTT-F11"
+		},
+		"cmc_rank": 27,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 41.94765640589313,
+				"volume_24h": 65805321.9981646,
+				"volume_change_24h": 22.2454,
+				"percent_change_1h": -0.46847556,
+				"percent_change_24h": -2.31138045,
+				"percent_change_7d": -8.70060214,
+				"percent_change_30d": 2.15948135,
+				"percent_change_60d": -3.57112106,
+				"percent_change_90d": -6.67044187,
+				"market_cap": 5749875481.809233,
+				"market_cap_dominance": 0.3064,
+				"fully_diluted_market_cap": 14772706785.68,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3957,
+		"name": "UNUS SED LEO",
+		"symbol": "LEO",
+		"slug": "unus-sed-leo",
+		"num_market_pairs": 19,
+		"date_added": "2019-05-21T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"centralized-exchange",
+			"discount-token",
+			"payments",
+			"kenetic-capital-portfolio",
+			"alameda-research-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 953954130,
+		"total_supply": 985239504,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+		},
+		"cmc_rank": 28,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 5.81668920941246,
+				"volume_24h": 6199538.46826353,
+				"volume_change_24h": -11.7224,
+				"percent_change_1h": 0.36051289,
+				"percent_change_24h": 1.04214641,
+				"percent_change_7d": -1.20456778,
+				"percent_change_30d": -1.01611322,
+				"percent_change_60d": -0.35856184,
+				"percent_change_90d": 52.54258276,
+				"market_cap": 5548854694.245451,
+				"market_cap_dominance": 0.2957,
+				"fully_diluted_market_cap": 5730831991.6,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 512,
+		"name": "Stellar",
+		"symbol": "XLM",
+		"slug": "stellar",
+		"num_market_pairs": 419,
+		"date_added": "2014-08-05T00:00:00.000Z",
+		"tags": [
+			"medium-of-exchange",
+			"enterprise-solutions",
+			"decentralized-exchange",
+			"smart-contracts",
+			"hashkey-capital-portfolio"
+		],
+		"max_supply": 50001806812,
+		"circulating_supply": 24739490391.616886,
+		"total_supply": 50001787916.13164,
+		"platform": null,
+		"cmc_rank": 29,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.20603274735752997,
+				"volume_24h": 458794501.56973064,
+				"volume_change_24h": 68.4614,
+				"percent_change_1h": 0.0422264,
+				"percent_change_24h": 4.3187028,
+				"percent_change_7d": -2.73861941,
+				"percent_change_30d": 13.16782483,
+				"percent_change_60d": -0.92713807,
+				"percent_change_90d": -20.58965363,
+				"market_cap": 5097145173.610042,
+				"market_cap_dominance": 0.2716,
+				"fully_diluted_market_cap": 10302009630.32,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1321,
+		"name": "Ethereum Classic",
+		"symbol": "ETC",
+		"slug": "ethereum-classic",
+		"num_market_pairs": 296,
+		"date_added": "2016-07-24T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"pow",
-			"sha-256",
-			"masternodes"
+			"ethash",
+			"platform",
+			"smart-contracts",
+			"dcg-portfolio",
+			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"SHA-256",
-			"Masternodes"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM",
-			"CATEGORY"
-		],
-		"urls": {
-			"website": [
-				"http://www.terracoin.io/"
-			],
-			"twitter": [
-				"https://twitter.com/Terracoin_TRC"
-			],
-			"message_board": [
-				"https://medium.com/@clockuniverse"
-			],
-			"chat": [
-				"https://mattermost.terracoin.io/",
-				"https://t.me/terracoin"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://insight.terracoin.io/",
-				"https://explorer.terracoin.io/chain/Terracoin"
-			],
-			"reddit": [
-				"https://reddit.com/r/terracoin"
-			],
-			"technical_doc": [
-				"https://wiki.terracoin.io/view/Whitepaper"
-			],
-			"source_code": [
-				"https://github.com/terracoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=1364146.0"
-			]
-		},
+		"max_supply": 210700000,
+		"circulating_supply": 134216281.95930676,
+		"total_supply": 210700000,
 		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "Terracoin_TRC",
-		"is_hidden": 0,
-		"date_launched": "2012-10-26T00:00:00.000Z",
-		"contract_address": [],
+		"cmc_rank": 30,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 37.32305605694696,
+				"volume_24h": 553268998.3200657,
+				"volume_change_24h": -10.37,
+				"percent_change_1h": 0.04434736,
+				"percent_change_24h": -3.0735003,
+				"percent_change_7d": -12.89639316,
+				"percent_change_30d": 44.04342263,
+				"percent_change_60d": 18.33377152,
+				"percent_change_90d": 15.94576703,
+				"market_cap": 5009361815.322206,
+				"market_cap_dominance": 0.2669,
+				"fully_diluted_market_cap": 7863967911.2,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"5": {
-		"id": 5,
-		"name": "Peercoin",
-		"symbol": "PPC",
-		"category": "coin",
-		"description": "Peercoin (PPC) is a cryptocurrency . Users are able to generate PPC through the process of mining. Peercoin has a current supply of 27,489,148.90999735. The last known price of Peercoin is 0.56305103 USD and is down -2.81 over the last 24 hours. It is currently trading on 11 active market(s) with $4,157.54 traded over the last 24 hours. More information can be found at http://www.peercoin.net.",
-		"slug": "peercoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5.png",
-		"subreddit": "peercoin",
-		"notice": "",
+	{
+		"id": 4030,
+		"name": "Algorand",
+		"symbol": "ALGO",
+		"slug": "algorand",
+		"num_market_pairs": 205,
+		"date_added": "2019-06-20T00:00:00.000Z",
+		"tags": [
+			"pos",
+			"platform",
+			"research",
+			"smart-contracts",
+			"arrington-xrp-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"usv-portfolio",
+			"multicoin-capital-portfolio",
+			"exnetwork-capital-portfolio"
+		],
+		"max_supply": 10000000000,
+		"circulating_supply": 6709787878.040128,
+		"total_supply": 7140637568.521892,
+		"platform": null,
+		"cmc_rank": 31,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.7361687343965845,
+				"volume_24h": 238782610.3433491,
+				"volume_change_24h": 38.6875,
+				"percent_change_1h": 0.2837415,
+				"percent_change_24h": -2.38613813,
+				"percent_change_7d": -7.87307505,
+				"percent_change_30d": 4.18893879,
+				"percent_change_60d": -16.15583051,
+				"percent_change_90d": -45.92984281,
+				"market_cap": 4939536050.246345,
+				"market_cap_dominance": 0.2632,
+				"fully_diluted_market_cap": 7361687343.97,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 328,
+		"name": "Monero",
+		"symbol": "XMR",
+		"slug": "monero",
+		"num_market_pairs": 173,
+		"date_added": "2014-05-21T00:00:00.000Z",
 		"tags": [
 			"mineable",
-			"hybrid-pow-pos",
+			"pow",
+			"medium-of-exchange",
+			"privacy",
+			"ringct",
+			"boostvc-portfolio",
+			"electric-capital-portfolio",
+			"galaxy-digital-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 18107633.82779676,
+		"total_supply": 18107633.82779676,
+		"platform": null,
+		"cmc_rank": 32,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 235.59189417392867,
+				"volume_24h": 177820166.89052275,
+				"volume_change_24h": -7.3881,
+				"percent_change_1h": 1.62316852,
+				"percent_change_24h": -0.30462241,
+				"percent_change_7d": 4.08367136,
+				"percent_change_30d": 23.92952686,
+				"percent_change_60d": 40.00343484,
+				"percent_change_90d": 4.7749407,
+				"market_cap": 4266011752.498545,
+				"market_cap_dominance": 0.2273,
+				"fully_diluted_market_cap": 4266011752.5,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3077,
+		"name": "VeChain",
+		"symbol": "VET",
+		"slug": "vechain",
+		"num_market_pairs": 179,
+		"date_added": "2017-08-22T00:00:00.000Z",
+		"tags": [
+			"logistics",
+			"data-provenance",
+			"iot",
+			"smart-contracts",
+			"fenbushi-capital-portfolio"
+		],
+		"max_supply": 86712634466,
+		"circulating_supply": 64315576989,
+		"total_supply": 86712634466,
+		"platform": null,
+		"cmc_rank": 33,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.06177379508991231,
+				"volume_24h": 286808546.0420813,
+				"volume_change_24h": -0.6264,
+				"percent_change_1h": 0.21113951,
+				"percent_change_24h": -3.04710768,
+				"percent_change_7d": -12.95918277,
+				"percent_change_30d": 34.31091721,
+				"percent_change_60d": 12.48882,
+				"percent_change_90d": -20.62530346,
+				"market_cap": 3973017274.0079656,
+				"market_cap_dominance": 0.2117,
+				"fully_diluted_market_cap": 5356568513.21,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1966,
+		"name": "Decentraland",
+		"symbol": "MANA",
+		"slug": "decentraland",
+		"num_market_pairs": 261,
+		"date_added": "2017-09-17T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"collectibles-nfts",
+			"gaming",
+			"payments",
+			"metaverse",
+			"boostvc-portfolio",
+			"dcg-portfolio",
+			"fabric-ventures-portfolio",
+			"kenetic-capital-portfolio",
+			"polygon-ecosystem",
+			"play-to-earn"
+		],
+		"max_supply": null,
+		"circulating_supply": 1842489768.606961,
+		"total_supply": 2193700527.320146,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+		},
+		"cmc_rank": 34,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.1431903124128997,
+				"volume_24h": 276670939.86409235,
+				"volume_change_24h": 22.2683,
+				"percent_change_1h": 0.2165504,
+				"percent_change_24h": -3.08243638,
+				"percent_change_7d": -11.69940588,
+				"percent_change_30d": -6.21624609,
+				"percent_change_60d": -21.59599189,
+				"percent_change_90d": -26.69304797,
+				"market_cap": 3948806222.798324,
+				"market_cap_dominance": 0.2104,
+				"fully_diluted_market_cap": 4701517718.49,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4642,
+		"name": "Hedera",
+		"symbol": "HBAR",
+		"slug": "hedera",
+		"num_market_pairs": 94,
+		"date_added": "2019-09-17T00:00:00.000Z",
+		"tags": [
+			"dag",
+			"marketplace",
+			"enterprise-solutions",
+			"payments",
+			"dcg-portfolio"
+		],
+		"max_supply": 50000000000,
+		"circulating_supply": 19565356900.654297,
+		"total_supply": 50000000000,
+		"platform": null,
+		"cmc_rank": 35,
+		"self_reported_circulating_supply": 19389577881,
+		"self_reported_market_cap": 3846283571.2329926,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.19836860785927662,
+				"volume_24h": 47737326.29766952,
+				"volume_change_24h": -15.0152,
+				"percent_change_1h": 0.18900921,
+				"percent_change_24h": -2.99197307,
+				"percent_change_7d": -10.63469631,
+				"percent_change_30d": -1.04168874,
+				"percent_change_60d": -11.09668945,
+				"percent_change_90d": -28.86770827,
+				"market_cap": 3881152610.652684,
+				"market_cap_dominance": 0.2068,
+				"fully_diluted_market_cap": 9918430392.96,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 8916,
+		"name": "Internet Computer",
+		"symbol": "ICP",
+		"slug": "internet-computer",
+		"num_market_pairs": 112,
+		"date_added": "2021-03-23T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"distributed-computing",
+			"polychain-capital-portfolio",
+			"exnetwork-capital-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 223884533.14934972,
+		"total_supply": 480048482.19800526,
+		"platform": null,
+		"cmc_rank": 36,
+		"self_reported_circulating_supply": 224534375.63227794,
+		"self_reported_market_cap": 3776164477.9982677,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 16.817756601254356,
+				"volume_24h": 173562183.06675807,
+				"volume_change_24h": 37.939,
+				"percent_change_1h": 0.36956504,
+				"percent_change_24h": -1.75521381,
+				"percent_change_7d": -13.67793476,
+				"percent_change_30d": 6.22519819,
+				"percent_change_60d": -13.90118796,
+				"percent_change_90d": -47.28125972,
+				"market_cap": 3765235585.291226,
+				"market_cap_dominance": 0.2006,
+				"fully_diluted_market_cap": 8073338530.41,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2280,
+		"name": "Filecoin",
+		"symbol": "FIL",
+		"slug": "filecoin",
+		"num_market_pairs": 194,
+		"date_added": "2017-12-13T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"distributed-computing",
+			"filesharing",
+			"storage",
+			"polychain-capital-portfolio",
+			"blockchain-capital-portfolio",
+			"boostvc-portfolio",
+			"dcg-portfolio",
+			"hashkey-capital-portfolio",
+			"a16z-portfolio",
+			"winklevoss-capital-portfolio",
+			"pantera-capital-portfolio",
+			"web3",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 193576266,
+		"total_supply": 193576266,
+		"platform": null,
+		"cmc_rank": 37,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 19.011861570405536,
+				"volume_24h": 259322337.4803983,
+				"volume_change_24h": 4.0742,
+				"percent_change_1h": 0.15751172,
+				"percent_change_24h": -2.45022219,
+				"percent_change_7d": -16.6307666,
+				"percent_change_30d": 11.98640924,
+				"percent_change_60d": -4.98864244,
+				"percent_change_90d": -36.44162319,
+				"market_cap": 3680245172.508,
+				"market_cap_dominance": 0.1961,
+				"fully_diluted_market_cap": 3680245172.51,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 18876,
+		"name": "ApeCoin",
+		"symbol": "APE",
+		"slug": "apecoin-ape",
+		"num_market_pairs": 116,
+		"date_added": "2022-03-17T12:26:36.000Z",
+		"tags": [
+			"collectibles-nfts",
+			"content-creation",
+			"gaming",
+			"entertainment",
+			"dao",
+			"governance",
+			"metaverse",
+			"animoca-brands-portfolio"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 277500000,
+		"total_supply": 1000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
+		},
+		"cmc_rank": 38,
+		"self_reported_circulating_supply": 277500000,
+		"self_reported_market_cap": 3454792786.4828925,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 12.449703735073486,
+				"volume_24h": 612291369.8252459,
+				"volume_change_24h": -30.7188,
+				"percent_change_1h": -0.12969526,
+				"percent_change_24h": -4.85108914,
+				"percent_change_7d": 8.68005757,
+				"percent_change_30d": 1144.47675748,
+				"percent_change_60d": 1144.47675748,
+				"percent_change_90d": 1144.47675748,
+				"market_cap": 3454792786.4828925,
+				"market_cap_dominance": 0.1841,
+				"fully_diluted_market_cap": 12449703735.07,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6892,
+		"name": "Elrond",
+		"symbol": "EGLD",
+		"slug": "elrond-egld",
+		"num_market_pairs": 91,
+		"date_added": "2020-09-04T00:00:00.000Z",
+		"tags": [
+			"binance-launchpad",
+			"binance-labs-portfolio",
+			"electric-capital-portfolio",
+			"exnetwork-capital-portfolio",
+			"elrond-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 31415926,
+		"circulating_supply": 21793359.77885415,
+		"total_supply": 23016298,
+		"platform": null,
+		"cmc_rank": 39,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 156.17256611474235,
+				"volume_24h": 114076235.00134206,
+				"volume_change_24h": 12.1192,
+				"percent_change_1h": -0.25561837,
+				"percent_change_24h": -3.22453944,
+				"percent_change_7d": -9.15797602,
+				"percent_change_30d": -4.72247524,
+				"percent_change_60d": -16.0873476,
+				"percent_change_90d": -21.1984736,
+				"market_cap": 3403524920.9254665,
+				"market_cap_dominance": 0.1814,
+				"fully_diluted_market_cap": 4906305780.29,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6210,
+		"name": "The Sandbox",
+		"symbol": "SAND",
+		"slug": "the-sandbox",
+		"num_market_pairs": 207,
+		"date_added": "2020-08-05T00:00:00.000Z",
+		"tags": [
+			"collectibles-nfts",
+			"content-creation",
+			"gaming",
+			"ethereum-ecosystem",
+			"binance-launchpad",
+			"metaverse",
+			"play-to-earn",
+			"animoca-brands-portfolio"
+		],
+		"max_supply": 3000000000,
+		"circulating_supply": 1158437853.2233226,
+		"total_supply": 3000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+		},
+		"cmc_rank": 40,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.808072017666454,
+				"volume_24h": 307680613.307907,
+				"volume_change_24h": -4.623,
+				"percent_change_1h": 0.14621574,
+				"percent_change_24h": -2.51554642,
+				"percent_change_7d": -9.77389618,
+				"percent_change_30d": 1.54861655,
+				"percent_change_60d": -27.97984377,
+				"percent_change_90d": -41.44887596,
+				"market_cap": 3252976919.8420115,
+				"market_cap_dominance": 0.1733,
+				"fully_diluted_market_cap": 8424216053,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2416,
+		"name": "Theta Network",
+		"symbol": "THETA",
+		"slug": "theta-network",
+		"num_market_pairs": 108,
+		"date_added": "2018-01-17T00:00:00.000Z",
+		"tags": [
+			"media",
+			"collectibles-nfts",
+			"content-creation",
+			"defi",
+			"video",
+			"metaverse",
+			"huobi-capital-portfolio",
+			"web3"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 1000000000,
+		"total_supply": 1000000000,
+		"platform": null,
+		"cmc_rank": 41,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 3.059285148043519,
+				"volume_24h": 162177198.36066544,
+				"volume_change_24h": 21.3326,
+				"percent_change_1h": 0.23805812,
+				"percent_change_24h": -4.50822827,
+				"percent_change_7d": -13.17746302,
+				"percent_change_30d": 13.10412295,
+				"percent_change_60d": -12.14128742,
+				"percent_change_90d": -24.924687,
+				"market_cap": 3059285148.043519,
+				"market_cap_dominance": 0.163,
+				"fully_diluted_market_cap": 3059285148.04,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3513,
+		"name": "Fantom",
+		"symbol": "FTM",
+		"slug": "fantom",
+		"num_market_pairs": 286,
+		"date_added": "2018-10-29T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"enterprise-solutions",
+			"defi",
+			"research",
+			"scaling",
+			"smart-contracts",
+			"fantom-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 3175000000,
+		"circulating_supply": 2545006273,
+		"total_supply": 2545006273,
+		"platform": null,
+		"cmc_rank": 42,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.1687572894038516,
+				"volume_24h": 288898722.139924,
+				"volume_change_24h": -10.5959,
+				"percent_change_1h": -0.14491843,
+				"percent_change_24h": -3.01682538,
+				"percent_change_7d": -14.75886124,
+				"percent_change_30d": 0.79188514,
+				"percent_change_60d": -36.61706285,
+				"percent_change_90d": -59.79879611,
+				"market_cap": 2974494633.147279,
+				"market_cap_dominance": 0.1585,
+				"fully_diluted_market_cap": 3710804393.86,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6783,
+		"name": "Axie Infinity",
+		"symbol": "AXS",
+		"slug": "axie-infinity",
+		"num_market_pairs": 203,
+		"date_added": "2020-08-31T00:00:00.000Z",
+		"tags": [
+			"collectibles-nfts",
+			"gaming",
+			"binance-launchpad",
+			"metaverse",
+			"defiance-capital-portfolio",
+			"play-to-earn",
+			"animoca-brands-portfolio"
+		],
+		"max_supply": 270000000,
+		"circulating_supply": 60907500,
+		"total_supply": 270000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
+		},
+		"cmc_rank": 43,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 48.69137690135973,
+				"volume_24h": 280811019.5491042,
+				"volume_change_24h": -3.0344,
+				"percent_change_1h": 1.09018486,
+				"percent_change_24h": -0.58272786,
+				"percent_change_7d": -11.49506165,
+				"percent_change_30d": 3.77039719,
+				"percent_change_60d": -13.36019062,
+				"percent_change_90d": -34.39522195,
+				"market_cap": 2965670038.619568,
+				"market_cap_dominance": 0.158,
+				"fully_diluted_market_cap": 13146671763.37,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2011,
+		"name": "Tezos",
+		"symbol": "XTZ",
+		"slug": "tezos",
+		"num_market_pairs": 211,
+		"date_added": "2017-10-06T00:00:00.000Z",
+		"tags": [
+			"pos",
+			"platform",
+			"enterprise-solutions",
+			"collectibles-nfts",
+			"defi",
+			"smart-contracts",
+			"polychain-capital-portfolio",
+			"boostvc-portfolio",
+			"winklevoss-capital-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 891146514.710509,
+		"total_supply": 912771940.196004,
+		"platform": null,
+		"cmc_rank": 44,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 3.197238175347388,
+				"volume_24h": 97447368.90383889,
+				"volume_change_24h": 55.6118,
+				"percent_change_1h": 0.30164352,
+				"percent_change_24h": -1.8391506,
+				"percent_change_7d": -6.20406572,
+				"percent_change_30d": 7.61397034,
+				"percent_change_60d": -14.64952335,
+				"percent_change_90d": -25.51984794,
+				"market_cap": 2849207656.660212,
+				"market_cap_dominance": 0.1518,
+				"fully_diluted_market_cap": 2918349292.58,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4157,
+		"name": "THORChain",
+		"symbol": "RUNE",
+		"slug": "thorchain",
+		"num_market_pairs": 81,
+		"date_added": "2019-07-23T00:00:00.000Z",
+		"tags": [
+			"cosmos-ecosystem",
+			"decentralized-exchange",
+			"defi",
+			"multicoin-capital-portfolio",
+			"exnetwork-capital-portfolio"
+		],
+		"max_supply": 500000000,
+		"circulating_supply": 330688061.33445597,
+		"total_supply": 334937974.91478544,
+		"platform": {
+			"id": 1839,
+			"name": "BNB Beacon Chain (BEP2)",
+			"symbol": "BNB",
+			"slug": "bnb",
+			"token_address": "RUNE-B1A"
+		},
+		"cmc_rank": 45,
+		"self_reported_circulating_supply": 224410215,
+		"self_reported_market_cap": 1921443785.23258,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 8.562193950184398,
+				"volume_24h": 237652688.75812462,
+				"volume_change_24h": -4.3507,
+				"percent_change_1h": -0.024258,
+				"percent_change_24h": -7.39424775,
+				"percent_change_7d": -11.74852077,
+				"percent_change_30d": 19.70224718,
+				"percent_change_60d": 121.89812548,
+				"percent_change_90d": 34.9573387,
+				"market_cap": 2831415318.156086,
+				"market_cap_dominance": 0.1509,
+				"fully_diluted_market_cap": 4281096975.09,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4256,
+		"name": "Klaytn",
+		"symbol": "KLAY",
+		"slug": "klaytn",
+		"num_market_pairs": 97,
+		"date_added": "2020-03-30T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"enterprise-solutions",
+			"injective-ecosystem"
+		],
+		"max_supply": null,
+		"circulating_supply": 2782649787,
+		"total_supply": 10782297980.8,
+		"platform": null,
+		"cmc_rank": 46,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.0085780211368833,
+				"volume_24h": 77841927.6864914,
+				"volume_change_24h": -8.245,
+				"percent_change_1h": 0.10148424,
+				"percent_change_24h": -1.15713793,
+				"percent_change_7d": -8.38902122,
+				"percent_change_30d": -6.52873307,
+				"percent_change_60d": -14.77479709,
+				"percent_change_90d": -26.4960173,
+				"market_cap": 2806519415.6894298,
+				"market_cap_dominance": 0.1495,
+				"fully_diluted_market_cap": 10874788760.78,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 7278,
+		"name": "Aave",
+		"symbol": "AAVE",
+		"slug": "aave",
+		"num_market_pairs": 325,
+		"date_added": "2020-10-02T00:00:00.000Z",
+		"tags": [
+			"defi",
+			"dao",
+			"yield-farming",
+			"three-arrows-capital-portfolio",
+			"governance",
+			"lending-borowing",
+			"blockchain-capital-portfolio",
+			"defiance-capital-portfolio",
+			"framework-ventures-portfolio",
+			"alameda-research-portfolio",
+			"pantera-capital-portfolio",
+			"parafi-capital",
+			"polygon-ecosystem",
+			"fantom-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 16000000,
+		"circulating_supply": 13680975.48276287,
+		"total_supply": 16000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9"
+		},
+		"cmc_rank": 47,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 175.17892685271102,
+				"volume_24h": 311822221.4615349,
+				"volume_change_24h": 10.9862,
+				"percent_change_1h": 0.30901523,
+				"percent_change_24h": -1.30595142,
+				"percent_change_7d": -11.73270215,
+				"percent_change_30d": 42.63147308,
+				"percent_change_60d": 13.46454692,
+				"percent_change_90d": -24.25444402,
+				"market_cap": 2396618603.3686495,
+				"market_cap_dominance": 0.1277,
+				"fully_diluted_market_cap": 2802862829.64,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5665,
+		"name": "Helium",
+		"symbol": "HNT",
+		"slug": "helium",
+		"num_market_pairs": 46,
+		"date_added": "2020-06-05T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"enterprise-solutions",
+			"distributed-computing",
+			"iot",
+			"usv-portfolio",
+			"multicoin-capital-portfolio",
+			"web3"
+		],
+		"max_supply": 223000000,
+		"circulating_supply": 115537931.72834624,
+		"total_supply": 223000000,
+		"platform": null,
+		"cmc_rank": 48,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 20.648312706659105,
+				"volume_24h": 18000788.23414281,
+				"volume_change_24h": 4.0291,
+				"percent_change_1h": 0.54067691,
+				"percent_change_24h": -3.0593747,
+				"percent_change_7d": -11.61429822,
+				"percent_change_30d": -5.50663788,
+				"percent_change_60d": -15.34641797,
+				"percent_change_90d": -38.33824379,
+				"market_cap": 2385663343.8075237,
+				"market_cap_dominance": 0.1271,
+				"fully_diluted_market_cap": 4604573733.58,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1765,
+		"name": "EOS",
+		"symbol": "EOS",
+		"slug": "eos",
+		"num_market_pairs": 434,
+		"date_added": "2017-07-01T00:00:00.000Z",
+		"tags": [
+			"medium-of-exchange",
+			"enterprise-solutions",
+			"smart-contracts",
+			"binance-chain",
+			"fenbushi-capital-portfolio",
+			"galaxy-digital-portfolio",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 986928205.3264,
+		"total_supply": 1052151910.735,
+		"platform": null,
+		"cmc_rank": 49,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.370156595384716,
+				"volume_24h": 401743951.2803694,
+				"volume_change_24h": -2.3952,
+				"percent_change_1h": 0.54352464,
+				"percent_change_24h": 1.49791304,
+				"percent_change_7d": -5.7116924,
+				"percent_change_30d": 18.03054398,
+				"percent_change_60d": 2.0850533,
+				"percent_change_90d": -17.08070053,
+				"market_cap": 2339174395.025568,
+				"market_cap_dominance": 0.1246,
+				"fully_diluted_market_cap": 2493764790.58,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1274,
+		"name": "Waves",
+		"symbol": "WAVES",
+		"slug": "waves",
+		"num_market_pairs": 171,
+		"date_added": "2016-06-02T00:00:00.000Z",
+		"tags": [
+			"lpos",
+			"platform",
+			"smart-contracts"
+		],
+		"max_supply": null,
+		"circulating_supply": 108007546,
+		"total_supply": 108007546,
+		"platform": null,
+		"cmc_rank": 50,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 21.14981933794494,
+				"volume_24h": 789754868.349897,
+				"volume_change_24h": -6.4336,
+				"percent_change_1h": 0.23618619,
+				"percent_change_24h": -4.62798981,
+				"percent_change_7d": -28.97960341,
+				"percent_change_30d": -30.76374441,
+				"percent_change_60d": 131.21166649,
+				"percent_change_90d": 49.78858325,
+				"market_cap": 2284340085.0347776,
+				"market_cap_dominance": 0.1217,
+				"fully_diluted_market_cap": 2284340085.03,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 7186,
+		"name": "PancakeSwap",
+		"symbol": "CAKE",
+		"slug": "pancakeswap",
+		"num_market_pairs": 240,
+		"date_added": "2020-09-25T00:00:00.000Z",
+		"tags": [
+			"collectibles-nfts",
+			"decentralized-exchange",
+			"defi",
+			"smart-contracts",
+			"yield-farming",
+			"binance-chain",
+			"amm",
+			"dex",
+			"governance",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 283973343.33911055,
+		"total_supply": 712302636.7455512,
+		"platform": {
+			"id": 1839,
+			"name": "BNB Smart Chain (BEP20)",
+			"symbol": "BNB",
+			"slug": "bnb",
+			"token_address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+		},
+		"cmc_rank": 51,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 8.036047937714748,
+				"volume_24h": 148500641.3278177,
+				"volume_change_24h": -4.0465,
+				"percent_change_1h": -0.18528392,
+				"percent_change_24h": -2.28107167,
+				"percent_change_7d": -11.19954479,
+				"percent_change_30d": 48.27044981,
+				"percent_change_60d": 2.49305198,
+				"percent_change_90d": -29.2427487,
+				"market_cap": 2282023400.1062217,
+				"market_cap_dominance": 0.1216,
+				"fully_diluted_market_cap": 5724098135.05,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4558,
+		"name": "Flow",
+		"symbol": "FLOW",
+		"slug": "flow",
+		"num_market_pairs": 62,
+		"date_added": "2021-01-27T00:00:00.000Z",
+		"tags": [
+			"collectibles-nfts",
+			"coinbase-ventures-portfolio",
+			"coinfund-portfolio",
+			"dcg-portfolio",
+			"ledgerprime-portfolio",
+			"a16z-portfolio",
+			"animoca-brands-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 360253415,
+		"total_supply": 1378211739,
+		"platform": null,
+		"cmc_rank": 52,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 5.918541311771075,
+				"volume_24h": 87545994.00338446,
+				"volume_change_24h": -5.3051,
+				"percent_change_1h": 0.34247061,
+				"percent_change_24h": -2.32709945,
+				"percent_change_7d": -10.48364726,
+				"percent_change_30d": 12.64113014,
+				"percent_change_60d": -12.36253766,
+				"percent_change_90d": -22.93806275,
+				"market_cap": 2132174719.3841095,
+				"market_cap_dominance": 0.1136,
+				"fully_diluted_market_cap": 8157003113.64,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1437,
+		"name": "Zcash",
+		"symbol": "ZEC",
+		"slug": "zcash",
+		"num_market_pairs": 249,
+		"date_added": "2016-10-29T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"pow",
+			"equihash",
+			"medium-of-exchange",
+			"privacy",
+			"zero-knowledge-proofs",
+			"binance-chain",
+			"boostvc-portfolio",
+			"dcg-portfolio",
+			"electric-capital-portfolio",
+			"fenbushi-capital-portfolio",
+			"hashkey-capital-portfolio",
+			"winklevoss-capital-portfolio",
+			"placeholder-ventures-portfolio",
+			"pantera-capital-portfolio",
+			"bnb-chain"
+		],
+		"max_supply": 21000000,
+		"circulating_supply": 14171531.25,
+		"total_supply": 14171531.25,
+		"platform": null,
+		"cmc_rank": 53,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 147.02223610318524,
+				"volume_24h": 171076391.50046998,
+				"volume_change_24h": -6.5859,
+				"percent_change_1h": 0.43393588,
+				"percent_change_24h": -4.18926476,
+				"percent_change_7d": -14.63787095,
+				"percent_change_30d": 3.90701105,
+				"percent_change_60d": 28.81388963,
+				"percent_change_90d": 3.50170903,
+				"market_cap": 2083530213.381168,
+				"market_cap_dominance": 0.111,
+				"fully_diluted_market_cap": 3087466958.17,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1518,
+		"name": "Maker",
+		"symbol": "MKR",
+		"slug": "maker",
+		"num_market_pairs": 241,
+		"date_added": "2017-01-29T00:00:00.000Z",
+		"tags": [
+			"store-of-value",
+			"defi",
+			"dao",
+			"polychain-capital-portfolio",
+			"governance",
+			"lending-borowing",
+			"dragonfly-capital-portfolio",
+			"electric-capital-portfolio",
+			"a16z-portfolio",
+			"1confirmation-portfolio",
+			"placeholder-ventures-portfolio",
+			"pantera-capital-portfolio",
+			"paradigm-portfolio",
+			"near-protocol-ecosystem",
+			"spartan-group",
+			"bnb-chain"
+		],
+		"max_supply": 1005577,
+		"circulating_supply": 977631.03695089,
+		"total_supply": 977631.03695089,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+		},
+		"cmc_rank": 54,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1952.729780014262,
+				"volume_24h": 85464764.42758256,
+				"volume_change_24h": 10.067,
+				"percent_change_1h": 0.60043519,
+				"percent_change_24h": 1.12119384,
+				"percent_change_7d": -6.57183753,
+				"percent_change_30d": 10.65000391,
+				"percent_change_60d": 4.08236223,
+				"percent_change_90d": -10.66721067,
+				"market_cap": 1909049239.720226,
+				"market_cap_dominance": 0.1017,
+				"fully_diluted_market_cap": 1963620154,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1720,
+		"name": "IOTA",
+		"symbol": "MIOTA",
+		"slug": "iota",
+		"num_market_pairs": 76,
+		"date_added": "2017-06-13T00:00:00.000Z",
+		"tags": [
+			"dag",
+			"medium-of-exchange",
+			"iot",
+			"sharing-economy",
+			"bnb-chain"
+		],
+		"max_supply": 2779530283,
+		"circulating_supply": 2779530283,
+		"total_supply": 2779530283,
+		"platform": null,
+		"cmc_rank": 55,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.6693557442700478,
+				"volume_24h": 46642313.79379509,
+				"volume_change_24h": -35.4802,
+				"percent_change_1h": 0.1831079,
+				"percent_change_24h": -1.18185096,
+				"percent_change_7d": -12.99841448,
+				"percent_change_30d": -5.60074978,
+				"percent_change_60d": -19.07738635,
+				"percent_change_90d": -41.25071472,
+				"market_cap": 1860494561.2986016,
+				"market_cap_dominance": 0.0991,
+				"fully_diluted_market_cap": 1860494561.3,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 16086,
+		"name": "BitTorrent-New",
+		"symbol": "BTT",
+		"slug": "bittorrent-new",
+		"num_market_pairs": 61,
+		"date_added": "2019-01-31T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"distributed-computing",
+			"filesharing",
+			"interoperability",
+			"staking",
+			"tron-ecosystem",
+			"storage",
+			"binance-launchpad",
+			"binance-labs-portfolio",
+			"web3",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 926521428571000,
+		"total_supply": 990000000000000,
+		"platform": {
+			"id": 1958,
+			"name": "Tron20",
+			"symbol": "TRX",
+			"slug": "tron",
+			"token_address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4"
+		},
+		"cmc_rank": 56,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.0000019930797472922072,
+				"volume_24h": 220365029.24283126,
+				"volume_change_24h": 38.1419,
+				"percent_change_1h": 0.40177448,
+				"percent_change_24h": 4.43419962,
+				"percent_change_7d": -1.30322192,
+				"percent_change_30d": 12.8078047,
+				"percent_change_60d": -5.02165249,
+				"percent_change_90d": -17.99004334,
+				"market_cap": 1846631094.7171035,
+				"market_cap_dominance": 0.0984,
+				"fully_diluted_market_cap": 1973148949.82,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 10791,
+		"name": "eCash",
+		"symbol": "XEC",
+		"slug": "ecash",
+		"num_market_pairs": 49,
+		"date_added": "2021-07-08T00:00:00.000Z",
+		"tags": [],
+		"max_supply": 21000000000000,
+		"circulating_supply": 19033229673313,
+		"total_supply": 18899704673313,
+		"platform": null,
+		"cmc_rank": 57,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.00009386782657767122,
+				"volume_24h": 25388198.59186543,
+				"volume_change_24h": -12.1041,
+				"percent_change_1h": 0.39511013,
+				"percent_change_24h": -0.67459097,
+				"percent_change_7d": -10.59489149,
+				"percent_change_30d": 20.00626632,
+				"percent_change_60d": 18.2958409,
+				"percent_change_90d": -5.17359516,
+				"market_cap": 1786607902.1875305,
+				"market_cap_dominance": 0.0952,
+				"fully_diluted_market_cap": 1971224358.13,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6719,
+		"name": "The Graph",
+		"symbol": "GRT",
+		"slug": "the-graph",
+		"num_market_pairs": 198,
+		"date_added": "2020-12-17T00:00:00.000Z",
+		"tags": [
+			"ai-big-data",
+			"enterprise-solutions",
+			"defi",
+			"coinbase-ventures-portfolio",
+			"solana-ecosystem",
+			"analytics",
+			"coinfund-portfolio",
+			"dcg-portfolio",
+			"fabric-ventures-portfolio",
+			"framework-ventures-portfolio",
+			"ledgerprime-portfolio",
+			"multicoin-capital-portfolio",
+			"parafi-capital",
+			"polygon-ecosystem",
+			"fantom-ecosystem",
+			"web3",
+			"near-protocol-ecosystem",
+			"arbitrum-ecosytem",
+			"spartan-group",
+			"injective-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 10057044431,
+		"circulating_supply": 4715735200,
+		"total_supply": 10000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+		},
+		"cmc_rank": 58,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.3692414182898079,
+				"volume_24h": 118965927.62382886,
+				"volume_change_24h": -16,
+				"percent_change_1h": 0.30776394,
+				"percent_change_24h": -3.6835218,
+				"percent_change_7d": -13.92504167,
+				"percent_change_30d": -13.46410851,
+				"percent_change_60d": -5.30787863,
+				"percent_change_90d": -35.6314201,
+				"market_cap": 1741244753.527171,
+				"market_cap_dominance": 0.0928,
+				"fully_diluted_market_cap": 3713477349.51,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 9903,
+		"name": "Convex Finance",
+		"symbol": "CVX",
+		"slug": "convex-finance",
+		"num_market_pairs": 105,
+		"date_added": "2021-05-18T00:00:00.000Z",
+		"tags": [
+			"defi",
+			"yield-aggregator"
+		],
+		"max_supply": 100000000,
+		"circulating_supply": 57729967.73958816,
+		"total_supply": 88403295.21031985,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+		},
+		"cmc_rank": 59,
+		"self_reported_circulating_supply": 2814665,
+		"self_reported_market_cap": 79706797.83163337,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 28.318395912704844,
+				"volume_24h": 11676766.35354392,
+				"volume_change_24h": -16.975,
+				"percent_change_1h": 0.27648904,
+				"percent_change_24h": -5.18567985,
+				"percent_change_7d": -20.20521709,
+				"percent_change_30d": 61.61839887,
+				"percent_change_60d": 12.5520453,
+				"percent_change_90d": -37.43203593,
+				"market_cap": 1634820082.4773357,
+				"market_cap_dominance": 0.0871,
+				"fully_diluted_market_cap": 2831839591.27,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3602,
+		"name": "Bitcoin SV",
+		"symbol": "BSV",
+		"slug": "bitcoin-sv",
+		"num_market_pairs": 171,
+		"date_added": "2018-11-09T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"pow",
 			"sha-256",
 			"medium-of-exchange",
 			"store-of-value",
+			"state-channel"
+		],
+		"max_supply": 21000000,
+		"circulating_supply": 19032614.14423905,
+		"total_supply": 19032614.14423905,
+		"platform": null,
+		"cmc_rank": 60,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 85.60105676164096,
+				"volume_24h": 84037292.69271395,
+				"volume_change_24h": -30.1785,
+				"percent_change_1h": -0.09639815,
+				"percent_change_24h": -1.14147141,
+				"percent_change_7d": -5.14086081,
+				"percent_change_30d": 12.95466858,
+				"percent_change_60d": -6.04649858,
+				"percent_change_90d": -23.70269965,
+				"market_cap": 1629211883.6834176,
+				"market_cap_dominance": 0.0868,
+				"fully_diluted_market_cap": 1797622191.99,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2087,
+		"name": "KuCoin Token",
+		"symbol": "KCS",
+		"slug": "kucoin-token",
+		"num_market_pairs": 38,
+		"date_added": "2017-10-24T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"centralized-exchange",
+			"discount-token",
+			"algorand-ecosystem"
+		],
+		"max_supply": 170118638,
+		"circulating_supply": 80118638,
+		"total_supply": 170118638,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811"
+		},
+		"cmc_rank": 61,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 19.89816436389017,
+				"volume_24h": 9085155.98516573,
+				"volume_change_24h": 11.9786,
+				"percent_change_1h": 0.52642015,
+				"percent_change_24h": -0.13722653,
+				"percent_change_7d": -1.76381675,
+				"percent_change_30d": 9.45598543,
+				"percent_change_60d": 4.53283018,
+				"percent_change_90d": -0.61194064,
+				"market_cap": 1594213827.5350168,
+				"market_cap_dominance": 0.085,
+				"fully_diluted_market_cap": 3385048620.29,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 4847,
+		"name": "Stacks",
+		"symbol": "STX",
+		"slug": "stacks",
+		"num_market_pairs": 46,
+		"date_added": "2019-10-28T00:00:00.000Z",
+		"tags": [
+			"mineable",
+			"platform",
+			"defi",
+			"smart-contracts",
+			"metaverse",
+			"arrington-xrp-capital-portfolio",
+			"blockchain-capital-portfolio",
+			"dcg-portfolio",
+			"fabric-ventures-portfolio",
+			"hashkey-capital-portfolio",
+			"huobi-capital-portfolio",
+			"usv-portfolio",
+			"web3",
+			"injective-ecosystem"
+		],
+		"max_supply": 1818000000,
+		"circulating_supply": 1308346776.461235,
+		"total_supply": 1352464600,
+		"platform": null,
+		"cmc_rank": 62,
+		"self_reported_circulating_supply": 1048765672.087772,
+		"self_reported_market_cap": 1249957526.986937,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.1918368042106617,
+				"volume_24h": 30648643.58041384,
+				"volume_change_24h": 53.1837,
+				"percent_change_1h": -0.39135265,
+				"percent_change_24h": -2.52639305,
+				"percent_change_7d": -8.17294394,
+				"percent_change_30d": -2.60513726,
+				"percent_change_60d": -15.75626412,
+				"percent_change_90d": -44.19400947,
+				"market_cap": 1559335840.8568795,
+				"market_cap_dominance": 0.0831,
+				"fully_diluted_market_cap": 2166759310.05,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1376,
+		"name": "Neo",
+		"symbol": "NEO",
+		"slug": "neo",
+		"num_market_pairs": 245,
+		"date_added": "2016-09-08T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"enterprise-solutions",
+			"smart-contracts"
+		],
+		"max_supply": 100000000,
+		"circulating_supply": 70538831,
+		"total_supply": 100000000,
+		"platform": null,
+		"cmc_rank": 63,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 21.0912837318769,
+				"volume_24h": 97239674.62931094,
+				"volume_change_24h": -13.6139,
+				"percent_change_1h": 0.35536857,
+				"percent_change_24h": -1.57574828,
+				"percent_change_7d": -9.8716869,
+				"percent_change_30d": 8.10349916,
+				"percent_change_60d": 0.65819724,
+				"percent_change_90d": -15.85895594,
+				"market_cap": 1487754498.735914,
+				"market_cap_dominance": 0.0793,
+				"fully_diluted_market_cap": 2109128373.19,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2502,
+		"name": "Huobi Token",
+		"symbol": "HT",
+		"slug": "huobi-token",
+		"num_market_pairs": 108,
+		"date_added": "2018-02-03T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"centralized-exchange",
+			"discount-token",
 			"payments",
-			"staking"
+			"algorand-ecosystem",
+			"kenetic-capital-portfolio",
+			"alameda-research-portfolio",
+			"multicoin-capital-portfolio"
 		],
-		"tag-names": [
-			"Mineable",
-			"Hybrid - PoW & PoS",
-			"SHA-256",
-			"Medium of Exchange",
-			"Store Of Value",
-			"Payments",
-			"Staking"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM",
-			"INDUSTRY",
-			"CATEGORY",
-			"INDUSTRY",
-			"CATEGORY"
-		],
-		"urls": {
-			"website": [
-				"http://www.peercoin.net"
-			],
-			"twitter": [
-				"https://twitter.com/PeercoinPPC"
-			],
-			"message_board": [
-				"https://talk.peercoin.net"
-			],
-			"chat": [
-				"https://t.me/peercoin",
-				"https://discord.gg/m294ReV"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/ppc/",
-				"https://explorer.peercoin.net/",
-				"https://etherscan.io/token/0x044d078F1c86508e13328842Cc75AC021B272958",
-				"https://polygonscan.com/token/0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65"
-			],
-			"reddit": [
-				"https://reddit.com/r/peercoin"
-			],
-			"technical_doc": [
-				"https://docs.peercoin.net/"
-			],
-			"source_code": [
-				"https://github.com/peercoin/peercoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=101820.0"
-			]
+		"max_supply": 500000000,
+		"circulating_supply": 155673013.25441208,
+		"total_supply": 500000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
 		},
-		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "PeercoinPPC",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [
-			{
-				"contract_address": "0x044d078F1c86508e13328842Cc75AC021B272958",
-				"platform": {
-					"name": "Ethereum",
-					"coin": {
-						"id": "1027",
-						"name": "Ethereum",
-						"symbol": "ETH",
-						"slug": "ethereum"
-					}
-				}
-			},
-			{
-				"contract_address": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
-				"platform": {
-					"name": "Polygon",
-					"coin": {
-						"id": "3890",
-						"name": "Polygon",
-						"symbol": "MATIC",
-						"slug": "polygon"
-					}
-				}
+		"cmc_rank": 64,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 9.478468258420586,
+				"volume_24h": 49143268.53219763,
+				"volume_change_24h": -2.1146,
+				"percent_change_1h": -0.02370975,
+				"percent_change_24h": -0.19293783,
+				"percent_change_7d": 1.10484283,
+				"percent_change_30d": 8.09905631,
+				"percent_change_60d": -3.4093706,
+				"percent_change_90d": -5.21628421,
+				"market_cap": 1475541714.8246322,
+				"market_cap_dominance": 0.0786,
+				"fully_diluted_market_cap": 4739234129.21,
+				"last_updated": "2022-04-15T06:18:00.000Z"
 			}
-		],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		}
 	},
-	"6": {
-		"id": 6,
-		"name": "Novacoin",
-		"symbol": "NVC",
-		"category": "coin",
-		"description": "Novacoin (NVC) is a cryptocurrency launched in 2013. Users are able to generate NVC through the process of mining. Novacoin has a current supply of 2,335,756.713897. The last known price of Novacoin is 0.09371814 USD and is down -3.61 over the last 24 hours. It is currently trading on 1 active market(s) with $99.29 traded over the last 24 hours. More information can be found at https://nova-coin.org.",
-		"slug": "novacoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6.png",
-		"subreddit": "NovacoinCommunity/",
-		"notice": "",
+	{
+		"id": 3945,
+		"name": "Harmony",
+		"symbol": "ONE",
+		"slug": "harmony",
+		"num_market_pairs": 89,
+		"date_added": "2019-06-01T00:00:00.000Z",
 		"tags": [
-			"mineable",
-			"hybrid-pow-pos",
-			"scrypt"
+			"platform",
+			"enterprise-solutions",
+			"scaling",
+			"smart-contracts",
+			"binance-launchpad",
+			"binance-labs-portfolio",
+			"hashkey-capital-portfolio",
+			"harmony-ecosystem",
+			"injective-ecosystem",
+			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable",
-			"Hybrid - PoW & PoS",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://nova-coin.org",
-				"https://novacoin.one"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [
-				"https://discord.gg/6juXnsSkGa",
-				"https://t.me/NovaCoin_RU"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://explorer.novaco.in/",
-				"https://novacoin.ru/explorer/",
-				"http://nvc-explorer.ewmcx.info/"
-			],
-			"reddit": [
-				"https://reddit.com/r/NovacoinCommunity/"
-			],
-			"technical_doc": [
-				"https://github.com/novacoin-project/novacoin/wiki"
-			],
-			"source_code": [
-				"https://github.com/novacoin-project/novacoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=5189560.0"
-			]
-		},
+		"max_supply": null,
+		"circulating_supply": 11944357265.100662,
+		"total_supply": 13420813265.10068,
 		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": "2013-02-05T00:00:00.000Z",
-		"contract_address": [
-			{
-				"contract_address": "0xbf84720097de111a80f46f9d077643967042841a",
-				"platform": {
-					"name": "BNB Smart Chain (BEP20)",
-					"coin": {
-						"id": "1839",
-						"name": "BNB",
-						"symbol": "BNB",
-						"slug": "bnb"
-					}
-				}
+		"cmc_rank": 65,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.12284282881348081,
+				"volume_24h": 76854939.01440333,
+				"volume_change_24h": 2.9145,
+				"percent_change_1h": 0.42881056,
+				"percent_change_24h": -1.51347238,
+				"percent_change_7d": -13.23024371,
+				"percent_change_30d": -0.93512671,
+				"percent_change_60d": -31.11669148,
+				"percent_change_90d": -64.15291138,
+				"market_cap": 1467278634.8038166,
+				"market_cap_dominance": 0.0782,
+				"fully_diluted_market_cap": 1648650666.46,
+				"last_updated": "2022-04-15T06:18:00.000Z"
 			}
-		],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		}
 	},
-	"7": {
-		"id": 7,
-		"name": "Devcoin3",
-		"symbol": "DVC",
-		"category": "coin",
-		"description": "Devcoin3 (DVC) is a cryptocurrency . Users are able to generate DVC through the process of mining. Devcoin3 has a current supply of 15,167,257,500. The last known price of Devcoin3 is 0.00002298 USD and is up 0.00 over the last 24 hours. More information can be found at http://devcoin.org.",
-		"slug": "devcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7.png",
-		"subreddit": "devcoin",
-		"notice": "",
+	{
+		"id": 4066,
+		"name": "Chiliz",
+		"symbol": "CHZ",
+		"slug": "chiliz",
+		"num_market_pairs": 236,
+		"date_added": "2019-07-01T00:00:00.000Z",
 		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://devcoin.org"
-			],
-			"twitter": [
-				"https://twitter.com/devtome"
-			],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://node1.devcoin.cloud"
-			],
-			"reddit": [
-				"https://reddit.com/r/devcoin"
-			],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/devcoin/core"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=233997.0"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-04-28T00:00:00.000Z",
-		"twitter_username": "devtome",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"8": {
-		"id": 8,
-		"name": "Feathercoin",
-		"symbol": "FTC",
-		"category": "coin",
-		"description": "Feathercoin (FTC) is a cryptocurrency . Users are able to generate FTC through the process of mining. Feathercoin has a current supply of 336,000,000 with 236,600,238 in circulation. The last known price of Feathercoin is 0.0084106 USD and is up 2.08 over the last 24 hours. It is currently trading on 9 active market(s) with $32.70 traded over the last 24 hours. More information can be found at http://feathercoin.com.",
-		"slug": "feathercoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8.png",
-		"subreddit": "FeatherCoin",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"pow",
-			"neoscrypt",
-			"medium-of-exchange",
+			"sports",
 			"collectibles-nfts",
+			"content-creation",
 			"payments"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"NeoScrypt",
-			"Medium of Exchange",
-			"Collectibles & NFTs",
-			"Payments"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM",
-			"INDUSTRY",
-			"CATEGORY",
-			"INDUSTRY"
-		],
-		"urls": {
-			"website": [
-				"http://feathercoin.com"
-			],
-			"twitter": [
-				"https://twitter.com/Feathercoin"
-			],
-			"message_board": [
-				"https://forum.feathercoin.com"
-			],
-			"chat": [
-				"https://telegram.me/feathercoinofficial"
-			],
-			"facebook": [],
-			"explorer": [
-				"http://explorer.feathercoin.com/",
-				"https://chainz.cryptoid.info/ftc/",
-				"https://fsight.chain.tips/"
-			],
-			"reddit": [
-				"https://reddit.com/r/FeatherCoin"
-			],
-			"technical_doc": [
-				"https://feathercoin.com/about/"
-			],
-			"source_code": [
-				"https://github.com/FeatherCoin/Feathercoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=178286.0"
-			]
+		"max_supply": 8888888888,
+		"circulating_supply": 6000378958.269583,
+		"total_supply": 8888888888,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
 		},
-		"platform": null,
-		"date_added": "2013-05-03T00:00:00.000Z",
-		"twitter_username": "Feathercoin",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 66,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.24120384551218474,
+				"volume_24h": 258523695.28320324,
+				"volume_change_24h": -46.5252,
+				"percent_change_1h": 0.34595744,
+				"percent_change_24h": -5.12315421,
+				"percent_change_7d": -1.15700635,
+				"percent_change_30d": 25.90140836,
+				"percent_change_60d": 23.12273172,
+				"percent_change_90d": -8.86112151,
+				"market_cap": 1447314479.2650204,
+				"market_cap_dominance": 0.0771,
+				"fully_diluted_market_cap": 2144034182.12,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"9": {
-		"id": 9,
-		"name": "Mincoin",
-		"symbol": "MNC",
-		"category": "coin",
-		"description": "Mincoin (MNC) is a cryptocurrency . Users are able to generate MNC through the process of mining. Mincoin has a current supply of 6,228,916.8879491. The last known price of Mincoin is 0.07458228 USD and is up 0.00 over the last 24 hours. More information can be found at https://www.mincoin.us/.",
-		"slug": "mincoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9.png",
-		"subreddit": "MinCoin",
-		"notice": "",
+	{
+		"id": 2469,
+		"name": "Zilliqa",
+		"symbol": "ZIL",
+		"slug": "zilliqa",
+		"num_market_pairs": 175,
+		"date_added": "2018-01-25T00:00:00.000Z",
 		"tags": [
 			"mineable",
-			"pow",
-			"scrypt"
+			"platform",
+			"payments",
+			"smart-contracts",
+			"polychain-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"zilliqa-ecosystem",
+			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://www.mincoin.us/"
-			],
-			"twitter": [
-				"https://twitter.com/mincoinus"
-			],
-			"message_board": [
-				"https://www.mincoinforum.com"
-			],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://cryptoexplore.com",
-				"https://www.mincoinexplorer.com/"
-			],
-			"reddit": [
-				"https://reddit.com/r/MinCoin"
-			],
-			"technical_doc": [
-				"https://github.com/mincoin/mincoin-whitepaper/blob/master/docs/mincoin-whitepaper.pdf"
-			],
-			"source_code": [
-				"https://github.com/mincoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=165397.0"
-			]
-		},
+		"max_supply": 21000000000,
+		"circulating_supply": 12652955020.733582,
+		"total_supply": 15944422173.733582,
 		"platform": null,
-		"date_added": "2013-05-03T00:00:00.000Z",
-		"twitter_username": "mincoinus",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 67,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.11346154507394386,
+				"volume_24h": 1334234485.4347908,
+				"volume_change_24h": 213.3803,
+				"percent_change_1h": -0.19327009,
+				"percent_change_24h": 1.46472693,
+				"percent_change_7d": -13.1469226,
+				"percent_change_30d": 188.28848805,
+				"percent_change_60d": 143.05124404,
+				"percent_change_90d": 77.85251203,
+				"market_cap": 1435623826.4035475,
+				"market_cap_dominance": 0.0765,
+				"fully_diluted_market_cap": 2382692446.55,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"10": {
-		"id": 10,
-		"name": "Freicoin",
-		"symbol": "FRC",
-		"category": "coin",
-		"description": "Freicoin (FRC) is a cryptocurrency . Users are able to generate FRC through the process of mining. Freicoin has a current supply of 100,000,000 with 57,502,113.20557414 in circulation. The last known price of Freicoin is 0.00600757 USD and is down -14.22 over the last 24 hours. It is currently trading on 1 active market(s) with $342.28 traded over the last 24 hours. More information can be found at http://freico.in.",
-		"slug": "freicoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 7080,
+		"name": "Gala",
+		"symbol": "GALA",
+		"slug": "gala",
+		"num_market_pairs": 142,
+		"date_added": "2020-09-16T00:00:00.000Z",
 		"tags": [
-			"mineable",
-			"pow",
-			"sha-256"
+			"collectibles-nfts",
+			"gaming",
+			"polygon-ecosystem",
+			"play-to-earn"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"SHA-256"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://freico.in"
-			],
-			"twitter": [
-				"https://twitter.com/Freicoin"
-			],
-			"message_board": [
-				"https://freicoinalliance.com/"
-			],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://freicoin.info/chain/Freicoin"
-			],
-			"reddit": [],
-			"technical_doc": [
-				"http://freico.in/docs/freimarkets.pdf"
-			],
-			"source_code": [
-				"https://github.com/freicoin/freicoin"
-			],
-			"announcement": []
+		"max_supply": null,
+		"circulating_supply": 6977205436,
+		"total_supply": 35240112493,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA"
 		},
-		"platform": null,
-		"date_added": "2013-05-03T00:00:00.000Z",
-		"twitter_username": "Freicoin",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 68,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.2008858924361699,
+				"volume_24h": 339981256.62297165,
+				"volume_change_24h": 13.729,
+				"percent_change_1h": 0.0736652,
+				"percent_change_24h": -2.99431446,
+				"percent_change_7d": -12.31311742,
+				"percent_change_30d": -7.07119355,
+				"percent_change_60d": -28.00582634,
+				"percent_change_90d": -38.6763931,
+				"market_cap": 1401622140.721356,
+				"market_cap_dominance": 0.0747,
+				"fully_diluted_market_cap": 7079241447.71,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"12": {
-		"id": 12,
-		"name": "BBQCoin",
-		"symbol": "BQC",
-		"category": "coin",
-		"description": "BBQCoin (BQC) is a cryptocurrency . Users are able to generate BQC through the process of mining. BBQCoin has a current supply of 50,765,853.56. The last known price of BBQCoin is 0.00045816 USD and is up 0.00 over the last 24 hours. More information can be found at http://bbqcoin.org/.",
-		"slug": "bbqcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/12.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 3155,
+		"name": "Quant",
+		"symbol": "QNT",
+		"slug": "quant",
+		"num_market_pairs": 91,
+		"date_added": "2018-08-10T00:00:00.000Z",
 		"tags": [
-			"mineable"
+			"platform",
+			"interoperability"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://bbqcoin.org/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://bbq.cryptocoinexplorer.com"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
+		"max_supply": 14612493,
+		"circulating_supply": 12072738,
+		"total_supply": 14612493.080826,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x4a220e6096b25eadb88358cb44068a3248254675"
 		},
-		"platform": null,
-		"date_added": "2013-05-08T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 69,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 113.44492515244406,
+				"volume_24h": 131712469.46436574,
+				"volume_change_24h": 180.7991,
+				"percent_change_1h": -0.03355086,
+				"percent_change_24h": -1.58111755,
+				"percent_change_7d": -11.81064688,
+				"percent_change_30d": 3.15739729,
+				"percent_change_60d": -3.04882122,
+				"percent_change_90d": -32.0578056,
+				"market_cap": 1369590858.795067,
+				"market_cap_dominance": 0.073,
+				"fully_diluted_market_cap": 1657713174.68,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"13": {
-		"id": 13,
-		"name": "Ixcoin",
-		"symbol": "IXC",
-		"category": "coin",
-		"description": "Ixcoin (IXC) is a cryptocurrency . Ixcoin has a current supply of 21,252,771.00000002. The last known price of Ixcoin is 0.07269163 USD and is down -46.53 over the last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://www.ixcoin.net/.",
-		"slug": "ixcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 5034,
+		"name": "Kusama",
+		"symbol": "KSM",
+		"slug": "kusama",
+		"num_market_pairs": 130,
+		"date_added": "2019-12-12T00:00:00.000Z",
 		"tags": [
-			"pow",
-			"sha-256"
+			"substrate",
+			"polkadot-ecosystem",
+			"cms-holdings-portfolio",
+			"kenetic-capital-portfolio",
+			"1confirmation-portfolio",
+			"vbc-ventures-portfolio"
 		],
-		"tag-names": [
-			"PoW",
-			"SHA-256"
-		],
-		"tag-groups": [
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://www.ixcoin.net/"
-			],
-			"twitter": [
-				"https://twitter.com/iXcoin_News"
-			],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/ixc/",
-				"https://prohashing.com/explorer/IXcoin/"
-			],
-			"reddit": [],
-			"technical_doc": [
-				"https://www.scribd.com/document/357320345/Ixc-White-Paper-v3"
-			],
-			"source_code": [
-				"https://github.com/ixcore/ixcoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=36218.0"
-			]
-		},
+		"max_supply": null,
+		"circulating_supply": 8470098.05726206,
+		"total_supply": 9651217.45126206,
 		"platform": null,
-		"date_added": "2013-05-08T00:00:00.000Z",
-		"twitter_username": "iXcoin_News",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"cmc_rank": 70,
+		"self_reported_circulating_supply": 8597992,
+		"self_reported_market_cap": 1390219866.1439912,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 161.69122582854126,
+				"volume_24h": 125530002.97847489,
+				"volume_change_24h": 47.357,
+				"percent_change_1h": 0.15247066,
+				"percent_change_24h": -1.20062695,
+				"percent_change_7d": -12.86093868,
+				"percent_change_30d": 27.04902947,
+				"percent_change_60d": 0.30332596,
+				"percent_change_90d": -43.16016486,
+				"market_cap": 1369540537.7666483,
+				"market_cap_dominance": 0.073,
+				"fully_diluted_market_cap": 1560517180.43,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"14": {
-		"id": 14,
-		"name": "BitBar",
-		"symbol": "BTB",
-		"category": "coin",
-		"description": "BitBar (BTB) is a cryptocurrency . Users are able to generate BTB through the process of mining. BitBar has a current supply of 47,444.861605. The last known price of BitBar is 3.50572333 USD and is up 8.78 over the last 24 hours. More information can be found at http://bitbar.co/.",
-		"slug": "bitbar",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14.png",
-		"subreddit": "bitbar",
-		"notice": "",
+	{
+		"id": 5567,
+		"name": "Celo",
+		"symbol": "CELO",
+		"slug": "celo",
+		"num_market_pairs": 105,
+		"date_added": "2020-05-22T00:00:00.000Z",
+		"tags": [
+			"pos",
+			"zero-knowledge-proofs",
+			"mobile",
+			"payments",
+			"smart-contracts",
+			"coinbase-ventures-portfolio",
+			"polychain-capital-portfolio",
+			"dragonfly-capital-portfolio",
+			"electric-capital-portfolio",
+			"a16z-portfolio",
+			"celo-ecosystem"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 433213075,
+		"total_supply": 1000000000,
+		"platform": null,
+		"cmc_rank": 71,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 3.144762124295814,
+				"volume_24h": 76258421.88258283,
+				"volume_change_24h": -14.8193,
+				"percent_change_1h": 0.37818051,
+				"percent_change_24h": -5.15217112,
+				"percent_change_7d": -19.21612348,
+				"percent_change_30d": 28.17375507,
+				"percent_change_60d": 10.47331571,
+				"percent_change_90d": -37.62500639,
+				"market_cap": 1362352070.0097218,
+				"market_cap_dominance": 0.0726,
+				"fully_diluted_market_cap": 3144762124.3,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2563,
+		"name": "TrueUSD",
+		"symbol": "TUSD",
+		"slug": "trueusd",
+		"num_market_pairs": 251,
+		"date_added": "2018-03-06T00:00:00.000Z",
+		"tags": [
+			"store-of-value",
+			"stablecoin",
+			"asset-backed-stablecoin",
+			"avalanche-ecosystem",
+			"arbitrum-ecosytem",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 1361778890.6946406,
+		"total_supply": 1361778890.6946406,
+		"platform": {
+			"id": 1839,
+			"name": "BNB Beacon Chain (BEP2)",
+			"symbol": "BNB",
+			"slug": "bnb",
+			"token_address": "TUSDB-888"
+		},
+		"cmc_rank": 72,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.0001469961548406,
+				"volume_24h": 111516143.84634101,
+				"volume_change_24h": 4.8203,
+				"percent_change_1h": 0.01169095,
+				"percent_change_24h": 0.03303434,
+				"percent_change_7d": 0.00148978,
+				"percent_change_30d": 0.00677506,
+				"percent_change_60d": 0.01328697,
+				"percent_change_90d": -0.05017715,
+				"market_cap": 1361979066.9553158,
+				"market_cap_dominance": 0.0726,
+				"fully_diluted_market_cap": 1361979066.96,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2694,
+		"name": "Nexo",
+		"symbol": "NEXO",
+		"slug": "nexo",
+		"num_market_pairs": 62,
+		"date_added": "2018-05-01T00:00:00.000Z",
+		"tags": [
+			"services",
+			"payments",
+			"cardano-ecosystem"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 560000011,
+		"total_supply": 1000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+		},
+		"cmc_rank": 73,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.395261193567829,
+				"volume_24h": 15705233.74325913,
+				"volume_change_24h": -19.9932,
+				"percent_change_1h": 0.84113276,
+				"percent_change_24h": -1.08457476,
+				"percent_change_7d": -3.1448588,
+				"percent_change_30d": 13.07985102,
+				"percent_change_60d": 18.21883999,
+				"percent_change_90d": 5.7797443,
+				"market_cap": 1341346294.7458572,
+				"market_cap_dominance": 0.0715,
+				"fully_diluted_market_cap": 2395261193.57,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2130,
+		"name": "Enjin Coin",
+		"symbol": "ENJ",
+		"slug": "enjin-coin",
+		"num_market_pairs": 237,
+		"date_added": "2017-11-01T00:00:00.000Z",
+		"tags": [
+			"media",
+			"collectibles-nfts",
+			"gaming",
+			"ethereum-ecosystem",
+			"metaverse",
+			"arrington-xrp-capital-portfolio"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 878223705.567558,
+		"total_supply": 1000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+		},
+		"cmc_rank": 74,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.5205375554816292,
+				"volume_24h": 172681470.02980813,
+				"volume_change_24h": 44.4928,
+				"percent_change_1h": -0.19088183,
+				"percent_change_24h": -4.59496806,
+				"percent_change_7d": -9.67934499,
+				"percent_change_30d": 13.96010971,
+				"percent_change_60d": -10.11025603,
+				"percent_change_90d": -35.86481683,
+				"market_cap": 1335372126.4297128,
+				"market_cap_dominance": 0.0712,
+				"fully_diluted_market_cap": 1520537555.48,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 18069,
+		"name": "STEPN",
+		"symbol": "GMT",
+		"slug": "green-metaverse-token",
+		"num_market_pairs": 55,
+		"date_added": "2022-03-09T12:47:15.000Z",
+		"tags": [
+			"gaming",
+			"binance-launchpad",
+			"solana-ecosystem",
+			"move-to-earn"
+		],
+		"max_supply": 6000000000,
+		"circulating_supply": 600000000,
+		"total_supply": 6000000000,
+		"platform": {
+			"id": 1839,
+			"name": "BNB Smart Chain (BEP20)",
+			"symbol": "BNB",
+			"slug": "bnb",
+			"token_address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1"
+		},
+		"cmc_rank": 75,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.20827955525773,
+				"volume_24h": 706966301.3398899,
+				"volume_change_24h": -21.3744,
+				"percent_change_1h": 0.34092801,
+				"percent_change_24h": -1.22074049,
+				"percent_change_7d": -3.16251332,
+				"percent_change_30d": 456.57591291,
+				"percent_change_60d": 1338.07935265,
+				"percent_change_90d": 1338.07935265,
+				"market_cap": 1324967733.154638,
+				"market_cap_dominance": 0.0706,
+				"fully_diluted_market_cap": 13249677331.55,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3897,
+		"name": "OKB",
+		"symbol": "OKB",
+		"slug": "okb",
+		"num_market_pairs": 63,
+		"date_added": "2019-04-30T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"centralized-exchange",
+			"discount-token",
+			"alameda-research-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 60000000,
+		"total_supply": 300000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
+		},
+		"cmc_rank": 76,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 19.928620936267468,
+				"volume_24h": 83958308.00711988,
+				"volume_change_24h": 35.3206,
+				"percent_change_1h": 0.30652206,
+				"percent_change_24h": -2.89192725,
+				"percent_change_7d": -1.23812528,
+				"percent_change_30d": 9.44804646,
+				"percent_change_60d": -2.31891931,
+				"percent_change_90d": -23.2886741,
+				"market_cap": 1195717256.176048,
+				"market_cap_dominance": 0.0637,
+				"fully_diluted_market_cap": 5978586280.88,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 1934,
+		"name": "Loopring",
+		"symbol": "LRC",
+		"slug": "loopring",
+		"num_market_pairs": 199,
+		"date_added": "2017-08-30T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"decentralized-exchange",
+			"defi",
+			"scaling",
+			"rollups"
+		],
+		"max_supply": 1374513896,
+		"circulating_supply": 1329675414.1492386,
+		"total_supply": 1373873440.4424574,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+		},
+		"cmc_rank": 77,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.8968172326873124,
+				"volume_24h": 100886810.71148397,
+				"volume_change_24h": -13.3922,
+				"percent_change_1h": 0.20174105,
+				"percent_change_24h": -3.27740748,
+				"percent_change_7d": -12.28001707,
+				"percent_change_30d": 30.96719209,
+				"percent_change_60d": 1.43480862,
+				"percent_change_90d": -36.57087552,
+				"market_cap": 1192475825.2896762,
+				"market_cap_dominance": 0.0635,
+				"fully_diluted_market_cap": 1232687748.5,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 131,
+		"name": "Dash",
+		"symbol": "DASH",
+		"slug": "dash",
+		"num_market_pairs": 334,
+		"date_added": "2014-02-14T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"hybrid-pow-pos",
-			"scrypt"
+			"x11",
+			"medium-of-exchange",
+			"masternodes",
+			"dao",
+			"governance"
 		],
-		"tag-names": [
-			"Mineable",
-			"Hybrid - PoW & PoS",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://bitbar.co/"
-			],
-			"twitter": [
-				"https://twitter.com/spider_btb"
-			],
-			"message_board": [],
-			"chat": [
-				"https://discord.gg/VcEAMFX"
-			],
-			"facebook": [],
-			"explorer": [
-				"http://btb.altcoinwarz.com"
-			],
-			"reddit": [
-				"https://reddit.com/r/bitbar"
-			],
-			"technical_doc": [
-				"https://bitbar.co/#xl_xr_page_status"
-			],
-			"source_code": [
-				"https://github.com/Crypto-Currency/BitBar"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=196125.0"
-			]
-		},
+		"max_supply": 18900000,
+		"circulating_supply": 10675696.63380846,
+		"total_supply": 10675696.63380846,
 		"platform": null,
-		"date_added": "2013-05-09T00:00:00.000Z",
-		"twitter_username": "spider_btb",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 78,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 108.09211267473137,
+				"volume_24h": 198438568.50476238,
+				"volume_change_24h": 14.5378,
+				"percent_change_1h": -0.05794808,
+				"percent_change_24h": 1.82563034,
+				"percent_change_7d": -7.81592492,
+				"percent_change_30d": 12.71279553,
+				"percent_change_60d": 8.35162237,
+				"percent_change_90d": -23.166329,
+				"market_cap": 1153958603.4228745,
+				"market_cap_dominance": 0.0615,
+				"fully_diluted_market_cap": 2042940929.55,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"15": {
-		"id": 15,
-		"name": "Bytecoin",
-		"symbol": "BTE",
-		"category": "coin",
-		"description": "Bytecoin (BTE) is a cryptocurrency . Users are able to generate BTE through the process of mining. Bytecoin has a current supply of 0. The last known price of Bytecoin is 0.00138196 USD and is up 0.00 over the last 24 hours. More information can be found at http://bytecoin.biz.",
-		"slug": "bytecoin-bte",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/15.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 1697,
+		"name": "Basic Attention Token",
+		"symbol": "BAT",
+		"slug": "basic-attention-token",
+		"num_market_pairs": 298,
+		"date_added": "2017-06-01T00:00:00.000Z",
 		"tags": [
-			"mineable"
+			"marketing",
+			"content-creation",
+			"defi",
+			"payments",
+			"dcg-portfolio",
+			"1confirmation-portfolio",
+			"pantera-capital-portfolio",
+			"web3",
+			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://bytecoin.biz"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://bte.cryptocoinexplorer.com"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
+		"max_supply": 1500000000,
+		"circulating_supply": 1499204734.8773506,
+		"total_supply": 1500000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
 		},
-		"platform": null,
-		"date_added": "2013-05-10T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 79,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.733690270932224,
+				"volume_24h": 67023943.01388664,
+				"volume_change_24h": 4.6912,
+				"percent_change_1h": 0.37087462,
+				"percent_change_24h": -2.91483526,
+				"percent_change_7d": -7.13715219,
+				"percent_change_30d": -11.75001196,
+				"percent_change_60d": -6.19404253,
+				"percent_change_90d": -30.05517782,
+				"market_cap": 1099951928.1150365,
+				"market_cap_dominance": 0.0586,
+				"fully_diluted_market_cap": 1100535406.4,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"16": {
-		"id": 16,
-		"name": "WorldCoin",
-		"symbol": "WDC",
-		"category": "coin",
-		"description": "WorldCoin (WDC) is a cryptocurrency . Users are able to generate WDC through the process of mining. WorldCoin has a current supply of 265,000,000 with 0 in circulation. The last known price of WorldCoin is 0.02540434 USD and is up 1.60 over the last 24 hours. It is currently trading on 3 active market(s) with $682.57 traded over the last 24 hours. More information can be found at http://www.worldcoin.global.",
-		"slug": "worldcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16.png",
-		"subreddit": "worldcoinalliance",
-		"notice": "",
+	{
+		"id": 8646,
+		"name": "Mina",
+		"symbol": "MINA",
+		"slug": "mina",
+		"num_market_pairs": 59,
+		"date_added": "2021-03-02T00:00:00.000Z",
+		"tags": [
+			"pos",
+			"zero-knowledge-proofs",
+			"staking",
+			"coinbase-ventures-portfolio",
+			"polychain-capital-portfolio"
+		],
+		"max_supply": null,
+		"circulating_supply": 460144319.84003925,
+		"total_supply": 824104972,
+		"platform": null,
+		"cmc_rank": 80,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.334477093759948,
+				"volume_24h": 57533621.2901487,
+				"volume_change_24h": -32.0608,
+				"percent_change_1h": -0.07613324,
+				"percent_change_24h": -6.69061412,
+				"percent_change_7d": -30.50845478,
+				"percent_change_30d": 43.44866965,
+				"percent_change_60d": 0.27510833,
+				"percent_change_90d": -34.1593443,
+				"market_cap": 1074196374.4903228,
+				"market_cap_dominance": 0.0572,
+				"fully_diluted_market_cap": 1923854179.99,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6538,
+		"name": "Curve DAO Token",
+		"symbol": "CRV",
+		"slug": "curve-dao-token",
+		"num_market_pairs": 263,
+		"date_added": "2020-08-14T00:00:00.000Z",
+		"tags": [
+			"decentralized-exchange",
+			"defi",
+			"dao",
+			"yield-farming",
+			"amm",
+			"governance",
+			"framework-ventures-portfolio",
+			"alameda-research-portfolio",
+			"polygon-ecosystem",
+			"fantom-ecosystem",
+			"arbitrum-ecosytem"
+		],
+		"max_supply": 3303030299,
+		"circulating_supply": 473221130.11815596,
+		"total_supply": 1727512316.6871133,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xD533a949740bb3306d119CC777fa900bA034cd52"
+		},
+		"cmc_rank": 81,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.252552119522772,
+				"volume_24h": 109235411.6336179,
+				"volume_change_24h": -17.7197,
+				"percent_change_1h": 0.13848444,
+				"percent_change_24h": -2.14364289,
+				"percent_change_7d": -11.86649341,
+				"percent_change_30d": 16.10076408,
+				"percent_change_60d": -16.87448878,
+				"percent_change_90d": -57.38202045,
+				"market_cap": 1065955259.6506135,
+				"market_cap_dominance": 0.0568,
+				"fully_diluted_market_cap": 7440247900.86,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5632,
+		"name": "Arweave",
+		"symbol": "AR",
+		"slug": "arweave",
+		"num_market_pairs": 52,
+		"date_added": "2020-05-27T00:00:00.000Z",
+		"tags": [
+			"distributed-computing",
+			"filesharing",
+			"storage",
+			"coinbase-ventures-portfolio",
+			"solana-ecosystem",
+			"arrington-xrp-capital-portfolio",
+			"blockchain-capital-portfolio",
+			"a16z-portfolio",
+			"multicoin-capital-portfolio",
+			"web3"
+		],
+		"max_supply": 66000000,
+		"circulating_supply": 33394701,
+		"total_supply": 63190435,
+		"platform": null,
+		"cmc_rank": 82,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 30.58334658222199,
+				"volume_24h": 18864672.65829697,
+				"volume_change_24h": -18.9851,
+				"percent_change_1h": 0.30538379,
+				"percent_change_24h": -4.30919255,
+				"percent_change_7d": -11.79143835,
+				"percent_change_30d": 0.63258921,
+				"percent_change_60d": -2.11401276,
+				"percent_change_90d": -38.93655985,
+				"market_cap": 1021321714.6926752,
+				"market_cap_dominance": 0.0544,
+				"fully_diluted_market_cap": 2018500874.43,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5068,
+		"name": "Neutrino USD",
+		"symbol": "USDN",
+		"slug": "neutrino-usd",
+		"num_market_pairs": 44,
+		"date_added": "2020-01-30T00:00:00.000Z",
+		"tags": [
+			"defi",
+			"stablecoin",
+			"bnb-chain"
+		],
+		"max_supply": null,
+		"circulating_supply": 1004931449.191294,
+		"total_supply": 1004932048.0077778,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0"
+		},
+		"cmc_rank": 83,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.9849019169010484,
+				"volume_24h": 32982312.35335369,
+				"volume_change_24h": -41.9589,
+				"percent_change_1h": 0.01336043,
+				"percent_change_24h": -0.17110447,
+				"percent_change_7d": 1.94812669,
+				"percent_change_30d": -1.63528723,
+				"percent_change_60d": 0.18059627,
+				"percent_change_90d": -0.09937353,
+				"market_cap": 989758910.662654,
+				"market_cap_dominance": 0.0527,
+				"fully_diluted_market_cap": 989759500.44,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5692,
+		"name": "Compound",
+		"symbol": "COMP",
+		"slug": "compound",
+		"num_market_pairs": 257,
+		"date_added": "2020-06-16T00:00:00.000Z",
+		"tags": [
+			"defi",
+			"dao",
+			"yield-farming",
+			"polkadot-ecosystem",
+			"coinbase-ventures-portfolio",
+			"three-arrows-capital-portfolio",
+			"polychain-capital-portfolio",
+			"lending-borowing",
+			"dragonfly-capital-portfolio",
+			"alameda-research-portfolio",
+			"a16z-portfolio",
+			"pantera-capital-portfolio",
+			"paradigm-portfolio",
+			"bnb-chain"
+		],
+		"max_supply": 10000000,
+		"circulating_supply": 6709090.05266111,
+		"total_supply": 10000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+		},
+		"cmc_rank": 84,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 143.531804705669,
+				"volume_24h": 165991895.80584377,
+				"volume_change_24h": -34.6537,
+				"percent_change_1h": -0.43345804,
+				"percent_change_24h": -5.99068591,
+				"percent_change_7d": 2.54516493,
+				"percent_change_30d": 37.61121448,
+				"percent_change_60d": 17.58530117,
+				"percent_change_90d": -25.05106359,
+				"market_cap": 962967803.191301,
+				"market_cap_dominance": 0.0513,
+				"fully_diluted_market_cap": 1435318047.06,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 6945,
+		"name": "Amp",
+		"symbol": "AMP",
+		"slug": "amp",
+		"num_market_pairs": 76,
+		"date_added": "2020-09-08T00:00:00.000Z",
+		"tags": [],
+		"max_supply": 92547638199,
+		"circulating_supply": 42227702186,
+		"total_supply": 99213408535,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+		},
+		"cmc_rank": 85,
+		"self_reported_circulating_supply": 36271610691,
+		"self_reported_market_cap": 824758731.7398019,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.022738409351764674,
+				"volume_24h": 9115106.62429745,
+				"volume_change_24h": -13.1017,
+				"percent_change_1h": 0.5550815,
+				"percent_change_24h": -3.86878075,
+				"percent_change_7d": -11.15916332,
+				"percent_change_30d": -8.20474306,
+				"percent_change_60d": -23.64789823,
+				"percent_change_90d": -45.16148113,
+				"market_cap": 960190778.289676,
+				"market_cap_dominance": 0.0512,
+				"fully_diluted_market_cap": 2104386081.91,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 5647,
+		"name": "Kadena",
+		"symbol": "KDA",
+		"slug": "kadena",
+		"num_market_pairs": 27,
+		"date_added": "2020-05-31T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"pow",
-			"scrypt"
+			"blake2s",
+			"platform",
+			"cosmos-ecosystem",
+			"smart-contracts",
+			"coinfund-portfolio",
+			"multicoin-capital-portfolio"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://www.worldcoin.global"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [
-				"https://discord.gg/q5fYSVP"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://www.wdcexplorer.com/",
-				"https://chainz.cryptoid.info/wdc/"
-			],
-			"reddit": [
-				"https://reddit.com/r/worldcoinalliance"
-			],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/OfficialWorldcoinGlobal/Worldcoin/releases"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=204894.0"
-			]
-		},
+		"max_supply": 1000000000,
+		"circulating_supply": 171287601.11586,
+		"total_supply": 1000000000,
 		"platform": null,
-		"date_added": "2013-05-22T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": 140480247,
-		"self_reported_tags": null,
-		"self_reported_market_cap": 3540798.3443844602
+		"cmc_rank": 86,
+		"self_reported_circulating_supply": 171287601.11586,
+		"self_reported_market_cap": 959863175.194276,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 5.603810018595675,
+				"volume_24h": 50259218.79510971,
+				"volume_change_24h": -18.3741,
+				"percent_change_1h": 0.23979286,
+				"percent_change_24h": -6.0687272,
+				"percent_change_7d": -16.23343195,
+				"percent_change_30d": -7.43959798,
+				"percent_change_60d": -17.68237539,
+				"percent_change_90d": -39.57911465,
+				"market_cap": 959863175.194276,
+				"market_cap_dominance": 0.0512,
+				"fully_diluted_market_cap": 5603810018.6,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"17": {
-		"id": 17,
-		"name": "Yacoin",
-		"symbol": "YAC",
-		"category": "coin",
-		"description": "Yacoin (YAC) is a cryptocurrency . Users are able to generate YAC through the process of mining. Yacoin has a current supply of 121,719,152. The last known price of Yacoin is 0.00122125 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.yacoin.org.",
-		"slug": "yacoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/17.png",
-		"subreddit": "yacoin",
-		"notice": "",
+	{
+		"id": 3330,
+		"name": "Pax Dollar",
+		"symbol": "USDP",
+		"slug": "paxos-standard",
+		"num_market_pairs": 44,
+		"date_added": "2018-09-27T00:00:00.000Z",
 		"tags": [
-			"mineable"
+			"store-of-value",
+			"stablecoin",
+			"asset-backed-stablecoin",
+			"bnb-chain"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://www.yacoin.org"
-			],
-			"twitter": [
-				"https://twitter.com/YACoinJoe"
-			],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"https://coinplorer.com/YAC"
-			],
-			"reddit": [
-				"https://reddit.com/r/yacoin"
-			],
-			"technical_doc": [
-				"http://www.yacoin.org/tech.php"
-			],
-			"source_code": [
-				"https://github.com/yacoin/yacoin/releases"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=206577.0"
-			]
+		"max_supply": null,
+		"circulating_supply": 945642940.11,
+		"total_supply": 945642940.11,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
 		},
-		"platform": null,
-		"date_added": "2013-06-09T00:00:00.000Z",
-		"twitter_username": "YACoinJoe",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 87,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.0019734267805853,
+				"volume_24h": 9964365.75639334,
+				"volume_change_24h": -4.9544,
+				"percent_change_1h": 0.12253564,
+				"percent_change_24h": 0.20573957,
+				"percent_change_7d": 0.14370694,
+				"percent_change_30d": 0.00281471,
+				"percent_change_60d": 0.46611793,
+				"percent_change_90d": 0.21784072,
+				"market_cap": 947509097.2128845,
+				"market_cap_dominance": 0.0505,
+				"fully_diluted_market_cap": 947509097.21,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"18": {
-		"id": 18,
-		"name": "Digitalcoin",
-		"symbol": "DGC",
-		"category": "coin",
-		"description": "Digitalcoin (DGC) is a cryptocurrency . Users are able to generate DGC through the process of mining. Digitalcoin has a current supply of 38,709,110.84403641. The last known price of Digitalcoin is 0.00400505 USD and is down -2.78 over the last 24 hours. It is currently trading on 1 active market(s) with $6.76 traded over the last 24 hours. More information can be found at http://digitalcoin.co.",
-		"slug": "digitalcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18.png",
-		"subreddit": "digitalcoin",
-		"notice": "",
+	{
+		"id": 873,
+		"name": "NEM",
+		"symbol": "XEM",
+		"slug": "nem",
+		"num_market_pairs": 122,
+		"date_added": "2015-04-01T00:00:00.000Z",
 		"tags": [
-			"mineable",
-			"pow",
-			"scrypt"
+			"poi",
+			"medium-of-exchange",
+			"payments",
+			"smart-contracts",
+			"fantom-ecosystem"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://digitalcoin.co",
-				"https://digitalcoin.tech/"
-			],
-			"twitter": [
-				"https://twitter.com/DigitalcoinDGC"
-			],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://dgc.blockr.io",
-				"https://chainz.cryptoid.info/dgc/"
-			],
-			"reddit": [
-				"https://reddit.com/r/digitalcoin"
-			],
-			"technical_doc": [
-				"https://github.com/lomtax/digitalcoin/blob/master/README.md"
-			],
-			"source_code": [
-				"https://github.com/lomtax/digitalcoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=209508.0"
-			]
-		},
+		"max_supply": 8999999999,
+		"circulating_supply": 8999999999,
+		"total_supply": 8999999999,
 		"platform": null,
-		"date_added": "2013-06-09T00:00:00.000Z",
-		"twitter_username": "DigitalcoinDGC",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 88,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.10025881800943058,
+				"volume_24h": 16183648.71474047,
+				"volume_change_24h": -1.71,
+				"percent_change_1h": 0.10292908,
+				"percent_change_24h": -1.49158839,
+				"percent_change_7d": -6.48911782,
+				"percent_change_30d": 6.86445503,
+				"percent_change_60d": -7.09526092,
+				"percent_change_90d": -15.70423387,
+				"market_cap": 902329361.9846164,
+				"market_cap_dominance": 0.0481,
+				"fully_diluted_market_cap": 902329361.98,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"19": {
-		"id": 19,
-		"name": "Franko",
-		"symbol": "FRK",
-		"category": "coin",
-		"description": "Franko (FRK) is a cryptocurrency . Users are able to generate FRK through the process of mining. Franko has a current supply of 930,767. The last known price of Franko is 0.1236935 USD and is up 0.00 over the last 24 hours. More information can be found at http://frankos.org.",
-		"slug": "franko",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/19.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 2682,
+		"name": "Holo",
+		"symbol": "HOT",
+		"slug": "holo",
+		"num_market_pairs": 111,
+		"date_added": "2018-04-29T00:00:00.000Z",
 		"tags": [
-			"mineable"
+			"platform",
+			"distributed-computing",
+			"filesharing",
+			"storage"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://frankos.org"
-			],
-			"twitter": [
-				"https://twitter.com/FrankoCurrency"
-			],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"https://cryptobe.com/chain/FrankoCoin"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/franko-org/franko"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=202417.0"
-			]
+		"max_supply": null,
+		"circulating_supply": 173289911898.29456,
+		"total_supply": 177619433541.14133,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
 		},
-		"platform": null,
-		"date_added": "2013-06-09T00:00:00.000Z",
-		"twitter_username": "FrankoCurrency",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 89,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.0051144346108577465,
+				"volume_24h": 54995756.68530855,
+				"volume_change_24h": -18.5219,
+				"percent_change_1h": 1.04370179,
+				"percent_change_24h": -1.44908214,
+				"percent_change_7d": -12.71458601,
+				"percent_change_30d": 27.55058303,
+				"percent_change_60d": 9.16832685,
+				"percent_change_90d": -17.57434276,
+				"market_cap": 886279923.1251273,
+				"market_cap_dominance": 0.0472,
+				"fully_diluted_market_cap": 908422978.46,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"20": {
-		"id": 20,
-		"name": "Elacoin",
-		"symbol": "ELC",
-		"category": "coin",
-		"description": "Elacoin (ELC) is a cryptocurrency . Users are able to generate ELC through the process of mining. Elacoin has a current supply of 642,276.25044423 with 407,774.25144423 in circulation. The last known price of Elacoin is 0.46424729 USD and is up 0.00 over the last 24 hours. More information can be found at http://elc.22web.org/.",
-		"slug": "elacoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 3822,
+		"name": "Theta Fuel",
+		"symbol": "TFUEL",
+		"slug": "theta-fuel",
+		"num_market_pairs": 37,
+		"date_added": "2019-03-28T00:00:00.000Z",
 		"tags": [
-			"mineable"
+			"media",
+			"content-creation",
+			"defi",
+			"payments"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://elc.22web.org/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://51.255.13.23:30004"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/TheRCG/Elacoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=766417.0"
-			]
-		},
+		"max_supply": null,
+		"circulating_supply": 5301214400,
+		"total_supply": 5301214400,
 		"platform": null,
-		"date_added": "2013-06-09T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 90,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.16701152600262034,
+				"volume_24h": 23958832.8586247,
+				"volume_change_24h": -20.0117,
+				"percent_change_1h": 0.54750829,
+				"percent_change_24h": -2.21690471,
+				"percent_change_7d": -11.42522096,
+				"percent_change_30d": 4.44579829,
+				"percent_change_60d": -11.49699371,
+				"percent_change_90d": -3.79276389,
+				"market_cap": 885363906.6110654,
+				"market_cap_dominance": 0.0472,
+				"fully_diluted_market_cap": 885363906.61,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"22": {
-		"id": 22,
-		"name": "Luckycoin",
-		"symbol": "LKY",
-		"category": "coin",
-		"description": "Luckycoin (LKY) is a cryptocurrency . Users are able to generate LKY through the process of mining. Luckycoin has a current supply of 19,326,319.14375. The last known price of Luckycoin is 0.00057625 USD and is up 0.00 over the last 24 hours. More information can be found at http://luckycoinfoundation.org.",
-		"slug": "luckycoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 6836,
+		"name": "Moonbeam",
+		"symbol": "GLMR",
+		"slug": "moonbeam",
+		"num_market_pairs": 36,
+		"date_added": "2022-01-11T12:55:50.000Z",
 		"tags": [
-			"mineable"
+			"smart-contracts",
+			"substrate",
+			"polkadot",
+			"polkadot-ecosystem",
+			"binance-labs-portfolio",
+			"arrington-xrp-capital-portfolio",
+			"injective-ecosystem"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://luckycoinfoundation.org"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://54.213.97.176:49917/chain/luckycoin"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
+		"max_supply": 1000000000,
+		"circulating_supply": 227380902,
+		"total_supply": 1008237285,
 		"platform": null,
-		"date_added": "2013-06-14T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 91,
+		"self_reported_circulating_supply": 1868966.698,
+		"self_reported_market_cap": 7262592.835546166,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 3.8858867005591584,
+				"volume_24h": 116479717.19318533,
+				"volume_change_24h": -33.954,
+				"percent_change_1h": -0.5359959,
+				"percent_change_24h": -3.73808291,
+				"percent_change_7d": -3.77145667,
+				"percent_change_30d": 70.46785185,
+				"percent_change_60d": -14.44620184,
+				"percent_change_90d": -71.44939314,
+				"market_cap": 883576423.0429454,
+				"market_cap_dominance": 0.0471,
+				"fully_diluted_market_cap": 3885886700.56,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 7653,
+		"name": "Oasis Network",
+		"symbol": "ROSE",
+		"slug": "oasis-network",
+		"num_market_pairs": 46,
+		"date_added": "2020-11-12T00:00:00.000Z",
+		"tags": [
+			"cosmos-ecosystem",
+			"collectibles-nfts",
+			"defi",
+			"privacy",
+			"scaling",
+			"smart-contracts",
+			"polychain-capital-portfolio",
+			"binance-labs-portfolio",
+			"arrington-xrp-capital-portfolio",
+			"blockchain-capital-portfolio",
+			"dragonfly-capital-portfolio",
+			"electric-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"huobi-capital-portfolio",
+			"a16z-portfolio",
+			"winklevoss-capital-portfolio",
+			"pantera-capital-portfolio"
+		],
+		"max_supply": 10000000000,
+		"circulating_supply": 3493014306.28,
+		"total_supply": 10000000000,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x26B80FBfC01b71495f477d5237071242e0d959d7"
+		},
+		"cmc_rank": 92,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.23365014192328282,
+				"volume_24h": 64110001.4780976,
+				"volume_change_24h": -5.8537,
+				"percent_change_1h": 0.0098089,
+				"percent_change_24h": -4.57118525,
+				"percent_change_7d": -10.7884075,
+				"percent_change_30d": 11.30789193,
+				"percent_change_60d": -16.52296285,
+				"percent_change_90d": -59.65562466,
+				"market_cap": 816143288.4023793,
+				"market_cap_dominance": 0.0435,
+				"fully_diluted_market_cap": 2336501419.23,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"23": {
-		"id": 23,
-		"name": "Nibble [old]",
-		"symbol": "NBL",
-		"category": "coin",
-		"description": "Nibble [old] (NBL) is a cryptocurrency . Users are able to generate NBL through the process of mining. Nibble [old] has a current supply of 0. The last known price of Nibble [old] is 0.00021593 USD and is up 0.00 over the last 24 hours. More information can be found at https://github.com/getnibble/nibble.",
-		"slug": "nibble-old",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 5604,
+		"name": "Secret",
+		"symbol": "SCRT",
+		"slug": "secret",
+		"num_market_pairs": 34,
+		"date_added": "2020-05-19T00:00:00.000Z",
 		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"https://github.com/getnibble/nibble"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-06-14T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"24": {
-		"id": 24,
-		"name": "AmericanCoin",
-		"symbol": "AMC",
-		"category": "coin",
-		"description": "AmericanCoin (AMC) is a cryptocurrency . Users are able to generate AMC through the process of mining. AmericanCoin has a current supply of 0. The last known price of AmericanCoin is 0.00008205 USD and is up 0.00 over the last 24 hours. More information can be found at http://amccoin.com.",
-		"slug": "americancoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://amccoin.com"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-06-09T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"25": {
-		"id": 25,
-		"name": "Goldcoin",
-		"symbol": "GLC",
-		"category": "coin",
-		"description": "Goldcoin (GLC) is a cryptocurrency launched in 2013. Users are able to generate GLC through the process of mining. Goldcoin has a current supply of 43,966,520.99997141 with 43,681,421.99997146 in circulation. The last known price of Goldcoin is 0.07067172 USD and is down -0.10 over the last 24 hours. It is currently trading on 8 active market(s) with $2,686.55 traded over the last 24 hours. More information can be found at https://www.goldcoinproject.org/.",
-		"slug": "goldcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/25.png",
-		"subreddit": "goldcoin",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"pow",
-			"scrypt"
-		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://www.goldcoinproject.org/",
-				"https://www.goldcoinweb.com/"
-			],
-			"twitter": [
-				"https://twitter.com/goldcoin"
-			],
-			"message_board": [
-				"https://www.goldcointalk.org",
-				"https://www.goldcoin.org/forum/"
-			],
-			"chat": [
-				"https://t.me/goldcointalk",
-				"https://discord.gg/goldcoin"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/glc/"
-			],
-			"reddit": [
-				"https://reddit.com/r/goldcoin"
-			],
-			"technical_doc": [
-				"https://github.com/goldcoin/wiki/wiki/GoldCoin-Whitepaper"
-			],
-			"source_code": [
-				"https://github.com/goldcoin/"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=317568"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-06-14T00:00:00.000Z",
-		"twitter_username": "goldcoin",
-		"is_hidden": 0,
-		"date_launched": "2013-12-01T00:00:00.000Z",
-		"contract_address": [],
-		"self_reported_circulating_supply": 43681421.99997146,
-		"self_reported_tags": [
-			"PoW",
-			"Medium of Exchange",
-			"Store Of Value",
-			"Scrypt"
-		],
-		"self_reported_market_cap": 2958673.9570750096
-	},
-	"26": {
-		"id": 26,
-		"name": "Junkcoin",
-		"symbol": "JKC",
-		"category": "coin",
-		"description": "Junkcoin (JKC) is a cryptocurrency . Users are able to generate JKC through the process of mining. Junkcoin has a current supply of 13,961,400. The last known price of Junkcoin is 0.00009538 USD and is up 0.00 over the last 24 hours. More information can be found at http://jkcoin.com.",
-		"slug": "junkcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://jkcoin.com"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://jkc.cryptocoinexplorer.com"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-06-14T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"27": {
-		"id": 27,
-		"name": "Hypercoin",
-		"symbol": "HYC",
-		"category": "coin",
-		"description": null,
-		"slug": "hypercoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"https://github.com/muddafudda/Hypercoin-fork"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"28": {
-		"id": 28,
-		"name": "Doubloons",
-		"symbol": "DBL",
-		"category": "coin",
-		"description": "Doubloons (DBL) is a cryptocurrency . Users are able to generate DBL through the process of mining. Doubloons has a current supply of 4,845,824.4. The last known price of Doubloons is 0.00047813 USD and is up 0.00 over the last 24 hours. More information can be found at http://doubloons.net.",
-		"slug": "doubloons",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://doubloons.net"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://explorer.doubloons.net/chain/Doubloons"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=206361"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"29": {
-		"id": 29,
-		"name": "Bottlecaps",
-		"symbol": "CAP",
-		"category": "coin",
-		"description": "Bottlecaps (CAP) is a cryptocurrency . Users are able to generate CAP through the process of mining. Bottlecaps has a current supply of 206,257,686.81843. The last known price of Bottlecaps is 0.00051431 USD and is up 0.00 over the last 24 hours.",
-		"slug": "bottlecaps",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://www.presstab.pw/phpexplorer/CAP/index.php"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/bottlecaps-foundation/bottlecaps"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=241445.0"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"30": {
-		"id": 30,
-		"name": "Noirbits",
-		"symbol": "NRB",
-		"category": "coin",
-		"description": "Noirbits (NRB) is a cryptocurrency . Users are able to generate NRB through the process of mining. Noirbits has a current supply of 2,251,240. The last known price of Noirbits is 0.00016843 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.noirbits.com.",
-		"slug": "noirbits",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://www.noirbits.com"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://nrb.webboise.com/chain/noirbits"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"32": {
-		"id": 32,
-		"name": "Fastcoin",
-		"symbol": "FST",
-		"category": "coin",
-		"description": "Fastcoin (FST) is a cryptocurrency . Users are able to generate FST through the process of mining. Fastcoin has a current supply of 156,913,423.581737. The last known price of Fastcoin is 0.00083506 USD and is down -2.63 over the last 24 hours. More information can be found at https://fastcoin-project.com/.",
-		"slug": "fastcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32.png",
-		"subreddit": "Fastcoin",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"pow",
-			"scrypt"
-		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://fastcoin-project.com/",
-				"https://www.fastcoin.ca/"
-			],
-			"twitter": [
-				"https://twitter.com/fastcoinproject"
-			],
-			"message_board": [
-				"http://www.fastcointalk.org/"
-			],
-			"chat": [
-				"https://t.me/FastcoinHQ"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/fst/"
-			],
-			"reddit": [
-				"https://reddit.com/r/Fastcoin"
-			],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/fastcoin-project/fastcoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=218852.0"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "fastcoinproject",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"33": {
-		"id": 33,
-		"name": "EZCoin",
-		"symbol": "EZC",
-		"category": "coin",
-		"description": "EZCoin (EZC) is a cryptocurrency . Users are able to generate EZC through the process of mining. EZCoin has a current supply of 0. The last known price of EZCoin is 0.00010366 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.ezcoin.org/.",
-		"slug": "ezcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/33.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://www.ezcoin.org/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"https://andarazoroflove.org/explorer/ezcoin"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"34": {
-		"id": 34,
-		"name": "Bitgem",
-		"symbol": "BTG",
-		"category": "coin",
-		"description": "Bitgem (BTG) is a cryptocurrency . Users are able to generate BTG through the process of mining. Bitgem has a current supply of 61,349.245643. The last known price of Bitgem is 2.79044509 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.bitgem.pw/.",
-		"slug": "bitgem",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/34.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://www.bitgem.pw/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://abe.alfter.us/chain/Bitgem"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/bitgem/bitgem"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=207008.0"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"35": {
-		"id": 35,
-		"name": "Phoenixcoin",
-		"symbol": "PXC",
-		"category": "coin",
-		"description": "Phoenixcoin (PXC) is a cryptocurrency . Users are able to generate PXC through the process of mining. Phoenixcoin has a current supply of 86,142,393.375. The last known price of Phoenixcoin is 0.01041313 USD and is down -12.84 over the last 24 hours. It is currently trading on 2 active market(s) with $0.00 traded over the last 24 hours. More information can be found at http://phoenixcoin.org/.",
-		"slug": "phoenixcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/35.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"neoscrypt"
-		],
-		"tag-names": [
-			"Mineable",
-			"NeoScrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://phoenixcoin.org/"
-			],
-			"twitter": [
-				"https://twitter.com/Phoenixcoin"
-			],
-			"message_board": [],
-			"chat": [
-				"https://t.me/pxcofficial"
-			],
-			"facebook": [],
-			"explorer": [
-				"http://explorer.phoenixcoin.org"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/ghostlander/Phoenixcoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=330956.0"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-07-04T00:00:00.000Z",
-		"twitter_username": "Phoenixcoin",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"36": {
-		"id": 36,
-		"name": "AlphaCoin",
-		"symbol": "ALF",
-		"category": "coin",
-		"description": "AlphaCoin (ALF) is a cryptocurrency . Users are able to generate ALF through the process of mining. AlphaCoin has a current supply of 0. The last known price of AlphaCoin is 0.0001166 USD and is up 0.00 over the last 24 hours. More information can be found at http://alphacoin.wordpress.com/.",
-		"slug": "alphacoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/36.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://alphacoin.wordpress.com/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-07T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"37": {
-		"id": 37,
-		"name": "Megacoin",
-		"symbol": "MEC",
-		"category": "coin",
-		"description": "Megacoin (MEC) is a cryptocurrency . Users are able to generate MEC through the process of mining. Megacoin has a current supply of 39,911,656.24309969. The last known price of Megacoin is 0.00280353 USD and is down -14.93 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://megacoin-mec.cc/.",
-		"slug": "megacoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/37.png",
-		"subreddit": "megacoin",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"pow",
-			"scrypt"
-		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://megacoin-mec.cc/"
-			],
-			"twitter": [
-				"https://twitter.com/Megacoin__MEC"
-			],
-			"message_board": [],
-			"chat": [
-				"https://t.me/Megacoin_MEC",
-				"https://discordapp.com/invite/r9ebtKD"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/mec/"
-			],
-			"reddit": [
-				"https://reddit.com/r/megacoin"
-			],
-			"technical_doc": [
-				"https://megacoin.eu/Megacoin.pdf"
-			],
-			"source_code": [
-				"https://github.com/LIMXTEC/Megacoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=2242071"
-			]
-		},
-		"platform": null,
-		"date_added": "2013-07-07T00:00:00.000Z",
-		"twitter_username": "Megacoin__MEC",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"38": {
-		"id": 38,
-		"name": "Krugercoin",
-		"symbol": "KGC",
-		"category": "coin",
-		"description": "Krugercoin (KGC) is a cryptocurrency . Users are able to generate KGC through the process of mining. Krugercoin has a current supply of 144,303,057.8. The last known price of Krugercoin is 0.00003023 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.krugercoin.co.",
-		"slug": "krugercoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/38.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://www.krugercoin.co"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://kgc.blockexp.info/"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-07T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"39": {
-		"id": 39,
-		"name": "CraftCoin",
-		"symbol": "CRC",
-		"category": "coin",
-		"description": "CraftCoin (CRC) is a cryptocurrency . Users are able to generate CRC through the process of mining. CraftCoin has a current supply of 0. The last known price of CraftCoin is 0.00073848 USD and is up 0.00 over the last 24 hours. More information can be found at http://craftcoin.net/.",
-		"slug": "craftcoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/39.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://craftcoin.net/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://crc.cryptocoinexplorer.com/"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-07T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"40": {
-		"id": 40,
-		"name": "StableCoin",
-		"symbol": "SBC",
-		"category": "coin",
-		"description": "StableCoin (SBC) is a cryptocurrency . Users are able to generate SBC through the process of mining. StableCoin has a current supply of 23,886,806.725. The last known price of StableCoin is 0.00013388 USD and is up 0.00 over the last 24 hours. More information can be found at http://stablecoin.net/.",
-		"slug": "stablecoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/40.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://stablecoin.net/"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://sbc.blockexplorer.io/chain/Stablecoin"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-07T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"42": {
-		"id": 42,
-		"name": "Primecoin",
-		"symbol": "XPM",
-		"category": "coin",
-		"description": "Primecoin (XPM) is a cryptocurrency . Users are able to generate XPM through the process of mining. Primecoin has a current supply of 40,318,076.05027372. The last known price of Primecoin is 0.05278654 USD and is down -6.47 over the last 24 hours. It is currently trading on 2 active market(s) with $365.01 traded over the last 24 hours. More information can be found at https://primecoin.io/.",
-		"slug": "primecoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/42.png",
-		"subreddit": "primecoin",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"pow",
-			"multiple-algorithms"
-		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Multiple algorithms"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"https://primecoin.io/"
-			],
-			"twitter": [
-				"https://twitter.com/Primecoin"
-			],
-			"message_board": [
-				"https://talk.peercoin.net/c/altcoins/primecoin"
-			],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"https://bchain.info/XPM/",
-				"https://www.blockseek.io/xpm",
-				"https://chainz.cryptoid.info/xpm/"
-			],
-			"reddit": [
-				"https://reddit.com/r/primecoin"
-			],
-			"technical_doc": [
-				"http://primecoin.io/bin/primecoin-paper.pdf"
-			],
-			"source_code": [
-				"https://github.com/primecoin/primecoin/"
-			],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-11T00:00:00.000Z",
-		"twitter_username": "Primecoin",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"43": {
-		"id": 43,
-		"name": "Anoncoin",
-		"symbol": "ANC",
-		"category": "coin",
-		"description": "Anoncoin (ANC) is a cryptocurrency . Users are able to generate ANC through the process of mining. Anoncoin has a current supply of 2,110,316.862. The last known price of Anoncoin is 0.04806058 USD and is down -2.78 over the last 24 hours. It is currently trading on 1 active market(s) with $0.00 traded over the last 24 hours. More information can be found at https://anoncoin.net/.",
-		"slug": "anoncoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/43.png",
-		"subreddit": "Anoncoin",
-		"notice": "",
-		"tags": [
-			"mineable",
-			"pow",
+			"cosmos-ecosystem",
+			"defi",
 			"privacy"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Privacy"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"CATEGORY"
-		],
-		"urls": {
-			"website": [
-				"https://anoncoin.net/"
-			],
-			"twitter": [
-				"https://twitter.com/AnoncoinNews"
-			],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://abe.darkgamex.ch:2751/chain/Anoncoin",
-				"https://chainz.cryptoid.info/anc/"
-			],
-			"reddit": [
-				"https://reddit.com/r/Anoncoin"
-			],
-			"technical_doc": [
-				"https://anoncoin.net/About_Anoncoin/"
-			],
-			"source_code": [
-				"https://github.com/Anoncoin/anoncoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=227287.0"
-			]
-		},
+		"max_supply": null,
+		"circulating_supply": 163295557,
+		"total_supply": 190165060,
 		"platform": null,
-		"date_added": "2013-07-15T00:00:00.000Z",
-		"twitter_username": "AnoncoinNews",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"cmc_rank": 93,
+		"self_reported_circulating_supply": 167462428,
+		"self_reported_market_cap": 823954877.956859,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 4.920237260365406,
+				"volume_24h": 13534074.87426851,
+				"volume_change_24h": -52.4156,
+				"percent_change_1h": 0.12234959,
+				"percent_change_24h": -4.17261719,
+				"percent_change_7d": -14.47191538,
+				"percent_change_30d": 11.2224836,
+				"percent_change_60d": -15.308166,
+				"percent_change_90d": -43.19746114,
+				"market_cap": 803452884.003523,
+				"market_cap_dominance": 0.0428,
+				"fully_diluted_market_cap": 935657213.83,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"44": {
-		"id": 44,
-		"name": "NanoToken",
-		"symbol": "NAN",
-		"category": "coin",
-		"description": "NanoToken (NAN) is a cryptocurrency . Users are able to generate NAN through the process of mining. NanoToken has a current supply of 0. The last known price of NanoToken is 0.00006478 USD and is up 0.00 over the last 24 hours. More information can be found at https://github.com/muddafudda/Nanotoken.",
-		"slug": "nanotoken",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/44.png",
-		"subreddit": "",
-		"notice": "",
+	{
+		"id": 9444,
+		"name": "Kyber Network Crystal v2",
+		"symbol": "KNC",
+		"slug": "kyber-network-crystal-v2",
+		"num_market_pairs": 125,
+		"date_added": "2021-04-26T00:00:00.000Z",
 		"tags": [
-			"mineable"
+			"marketplace",
+			"decentralized-exchange",
+			"defi",
+			"dao",
+			"amm",
+			"three-arrows-capital-portfolio",
+			"governance",
+			"kenetic-capital-portfolio",
+			"pantera-capital-portfolio",
+			"parafi-capital"
 		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"https://github.com/muddafudda/Nanotoken"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
+		"max_supply": null,
+		"circulating_supply": 177809349.53012875,
+		"total_supply": 177809349.53012875,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202"
 		},
-		"platform": null,
-		"date_added": "2013-07-18T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 94,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 4.42243705895903,
+				"volume_24h": 819560651.3904462,
+				"volume_change_24h": 482.3411,
+				"percent_change_1h": -0.55068315,
+				"percent_change_24h": 12.95563833,
+				"percent_change_7d": 27.24906205,
+				"percent_change_30d": 38.57080855,
+				"percent_change_60d": 151.04013974,
+				"percent_change_90d": 209.4268439,
+				"market_cap": 786350656.7914407,
+				"market_cap_dominance": 0.0419,
+				"fully_diluted_market_cap": 786350656.79,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"45": {
-		"id": 45,
-		"name": "CasinoCoin",
-		"symbol": "CSC",
-		"category": "coin",
-		"description": "CasinoCoin (CSC) is a cryptocurrency launched in 2021. CasinoCoin has a current supply of 64,994,130,519 with 0 in circulation. The last known price of CasinoCoin is 0.00124298 USD and is down -4.57 over the last 24 hours. It is currently trading on 8 active market(s) with $98,635.04 traded over the last 24 hours. More information can be found at https://casinocoin.im/.",
-		"slug": "casinocoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/45.png",
-		"subreddit": "casinocoin",
-		"notice": "",
-		"tags": [
-			"gambling",
-			"gaming"
-		],
-		"tag-names": [
-			"Gambling",
-			"Gaming"
-		],
-		"tag-groups": [
-			"INDUSTRY",
-			"INDUSTRY"
-		],
-		"urls": {
-			"website": [
-				"https://casinocoin.im/"
-			],
-			"twitter": [
-				"https://twitter.com/CasinoCoin"
-			],
-			"message_board": [
-				"https://medium.com/@casinocoin"
-			],
-			"chat": [
-				"https://discordapp.com/invite/muXdVHb",
-				"https://t.me/casinocoin"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://casinocoin.info/"
-			],
-			"reddit": [
-				"https://reddit.com/r/casinocoin"
-			],
-			"technical_doc": [
-				"https://whitepaper.io/document/1/ripple-whitepaper"
-			],
-			"source_code": [
-				"https://github.com/casinocoin"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=5335452"
-			]
-		},
-		"platform": null,
-		"date_added": "2018-01-16T00:00:00.000Z",
-		"twitter_username": "CasinoCoin",
-		"is_hidden": 0,
-		"date_launched": "2021-04-20T00:00:00.000Z",
-		"contract_address": [],
-		"self_reported_circulating_supply": 41290000000,
-		"self_reported_tags": [
-			"Gambling",
-			"XRP"
-		],
-		"self_reported_market_cap": 51171491.603625394
-	},
-	"46": {
-		"id": 46,
-		"name": "XenCoin",
-		"symbol": "XNC",
-		"category": "coin",
-		"description": "XenCoin (XNC) is a cryptocurrency . Users are able to generate XNC through the process of mining. XenCoin has a current supply of 0. The last known price of XenCoin is 0.00000329 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.xencoin.com.",
-		"slug": "xencoin",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/46.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"http://www.xencoin.com"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-25T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"47": {
-		"id": 47,
-		"name": "Spots",
-		"symbol": "SPT",
-		"category": "coin",
-		"description": "Spots (SPT) is a cryptocurrency . Users are able to generate SPT through the process of mining. Spots has a current supply of 22,406,021.2405395. The last known price of Spots is 0.00356962 USD and is up 14.06 over the last 24 hours. More information can be found at https://bitcointalk.org/index.php?topic=615513.0.",
-		"slug": "spots",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/47.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"https://bitcointalk.org/index.php?topic=615513.0"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [
-				"http://51.255.6.35:30005/"
-			],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/theSPT/spots2"
-			],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-25T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"48": {
-		"id": 48,
-		"name": "Lebowskis",
-		"symbol": "LBW",
-		"category": "coin",
-		"description": null,
-		"slug": "lebowskis",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/48.png",
-		"subreddit": "",
-		"notice": "",
-		"tags": [
-			"mineable"
-		],
-		"tag-names": [
-			"Mineable"
-		],
-		"tag-groups": [
-			"OTHERS"
-		],
-		"urls": {
-			"website": [
-				"https://github.com/lebowskis/Qt"
-			],
-			"twitter": [],
-			"message_board": [],
-			"chat": [],
-			"facebook": [],
-			"explorer": [],
-			"reddit": [],
-			"technical_doc": [],
-			"source_code": [],
-			"announcement": []
-		},
-		"platform": null,
-		"date_added": "2013-07-25T00:00:00.000Z",
-		"twitter_username": "",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
-		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
-	},
-	"49": {
-		"id": 49,
-		"name": "Bullion",
-		"symbol": "CBX",
-		"category": "coin",
-		"description": "Bullion (CBX) is a cryptocurrency . Users are able to generate CBX through the process of mining. Bullion has a current supply of 1,027,995.05429762. The last known price of Bullion is 0.36969778 USD and is up 0.00 over the last 24 hours. More information can be found at http://bullion.one/.",
-		"slug": "bullion",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/49.png",
-		"subreddit": "CryptoBullionX",
-		"notice": "",
+	{
+		"id": 1168,
+		"name": "Decred",
+		"symbol": "DCR",
+		"slug": "decred",
+		"num_market_pairs": 56,
+		"date_added": "2016-02-10T00:00:00.000Z",
 		"tags": [
 			"mineable",
 			"hybrid-pow-pos",
-			"scrypt"
+			"blake256",
+			"medium-of-exchange",
+			"store-of-value",
+			"privacy",
+			"dao",
+			"placeholder-ventures-portfolio"
 		],
-		"tag-names": [
-			"Mineable",
-			"Hybrid - PoW & PoS",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://bullion.one/"
-			],
-			"twitter": [
-				"https://twitter.com/CryptoBullionX"
-			],
-			"message_board": [
-				"https://steemit.com/@cbx"
-			],
-			"chat": [
-				"https://t.me/joinchat/FkBLVEimXQscVn1cetdd4g"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/cbx/"
-			],
-			"reddit": [
-				"https://reddit.com/r/CryptoBullionX"
-			],
-			"technical_doc": [],
-			"source_code": [
-				"https://github.com/elambert2014/bullion"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=951753.0"
-			]
-		},
+		"max_supply": 21000000,
+		"circulating_supply": 13935889.67116233,
+		"total_supply": 13935889.67116233,
 		"platform": null,
-		"date_added": "2013-08-04T00:00:00.000Z",
-		"twitter_username": "CryptoBullionX",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 95,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 54.74836124097336,
+				"volume_24h": 2559480.05963298,
+				"volume_change_24h": -15.1596,
+				"percent_change_1h": -0.02442016,
+				"percent_change_24h": -3.47883155,
+				"percent_change_7d": -6.75916,
+				"percent_change_30d": 10.59761804,
+				"percent_change_60d": -15.35877181,
+				"percent_change_90d": -28.74722937,
+				"market_cap": 762967121.9311447,
+				"market_cap_dominance": 0.0407,
+				"fully_diluted_market_cap": 1149715586.06,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	},
-	"50": {
-		"id": 50,
-		"name": "Emerald Crypto",
-		"symbol": "EMD",
-		"category": "coin",
-		"description": "Emerald Crypto (EMD) is a cryptocurrency . Users are able to generate EMD through the process of mining. Emerald Crypto has a current supply of 19,117,129.373306. The last known price of Emerald Crypto is 0.00363093 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.emeraldcrypto.de/.",
-		"slug": "emerald",
-		"logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/50.png",
-		"subreddit": "emeraldcrypto",
-		"notice": "",
+	{
+		"id": 4846,
+		"name": "Kava",
+		"symbol": "KAVA",
+		"slug": "kava",
+		"num_market_pairs": 77,
+		"date_added": "2019-10-25T00:00:00.000Z",
 		"tags": [
-			"mineable",
-			"pow",
-			"scrypt"
+			"cosmos-ecosystem",
+			"defi",
+			"binance-launchpad",
+			"binance-labs-portfolio",
+			"lending-borowing",
+			"arrington-xrp-capital-portfolio",
+			"framework-ventures-portfolio",
+			"hashkey-capital-portfolio",
+			"injective-ecosystem"
 		],
-		"tag-names": [
-			"Mineable",
-			"PoW",
-			"Scrypt"
-		],
-		"tag-groups": [
-			"OTHERS",
-			"ALGORITHM",
-			"ALGORITHM"
-		],
-		"urls": {
-			"website": [
-				"http://www.emeraldcrypto.de/"
-			],
-			"twitter": [
-				"https://twitter.com/_emerald_emd_"
-			],
-			"message_board": [],
-			"chat": [
-				"https://discord.gg/4W2fkuf",
-				"https://t.me/EmeraldCryptoCoin"
-			],
-			"facebook": [],
-			"explorer": [
-				"https://chainz.cryptoid.info/emd/",
-				"https://prohashing.com/explorer/Emerald/",
-				"http://explorer.emeraldcrypto.de/"
-			],
-			"reddit": [
-				"https://reddit.com/r/emeraldcrypto"
-			],
-			"technical_doc": [
-				"https://coinwik.org/Emerald_Crypto"
-			],
-			"source_code": [
-				"https://github.com/crypto-currency/Emerald"
-			],
-			"announcement": [
-				"https://bitcointalk.org/index.php?topic=724463.0"
-			]
+		"max_supply": null,
+		"circulating_supply": 174208371,
+		"total_supply": 173657543,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x0C356B7fD36a5357E5A017EF11887ba100C9AB76"
 		},
-		"platform": null,
-		"date_added": "2013-08-04T00:00:00.000Z",
-		"twitter_username": "_emerald_emd_",
-		"is_hidden": 0,
-		"date_launched": null,
-		"contract_address": [],
+		"cmc_rank": 96,
 		"self_reported_circulating_supply": null,
-		"self_reported_tags": null,
-		"self_reported_market_cap": null
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 4.339166527047787,
+				"volume_24h": 120379069.12579335,
+				"volume_change_24h": 58.2409,
+				"percent_change_1h": -0.96142482,
+				"percent_change_24h": 0.1101738,
+				"percent_change_7d": -8.22271433,
+				"percent_change_30d": 43.04156452,
+				"percent_change_60d": 36.59511639,
+				"percent_change_90d": -21.31603953,
+				"market_cap": 755919132.1747224,
+				"market_cap_dominance": 0.0403,
+				"fully_diluted_market_cap": 753528997.75,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 7455,
+		"name": "Audius",
+		"symbol": "AUDIO",
+		"slug": "audius",
+		"num_market_pairs": 91,
+		"date_added": "2020-10-20T00:00:00.000Z",
+		"tags": [
+			"music",
+			"coinbase-ventures-portfolio",
+			"binance-labs-portfolio",
+			"solana-ecosystem",
+			"pantera-capital-portfolio",
+			"multicoin-capital-portfolio",
+			"web3"
+		],
+		"max_supply": null,
+		"circulating_supply": 620805326,
+		"total_supply": 1091417308,
+		"platform": {
+			"id": 1027,
+			"name": "Ethereum",
+			"symbol": "ETH",
+			"slug": "ethereum",
+			"token_address": "0x18aaa7115705e8be94bffebde57af9bfc265b998"
+		},
+		"cmc_rank": 97,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 1.212918666282601,
+				"volume_24h": 125613351.92603156,
+				"volume_change_24h": 166.1022,
+				"percent_change_1h": -0.87483773,
+				"percent_change_24h": -3.96082498,
+				"percent_change_7d": -4.46720554,
+				"percent_change_30d": 71.21849442,
+				"percent_change_60d": 21.94595829,
+				"percent_change_90d": -16.73161176,
+				"market_cap": 752986368.0330553,
+				"market_cap_dominance": 0.0401,
+				"fully_diluted_market_cap": 1323800425.58,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 8857,
+		"name": "Anchor Protocol",
+		"symbol": "ANC",
+		"slug": "anchor-protocol",
+		"num_market_pairs": 44,
+		"date_added": "2021-03-17T00:00:00.000Z",
+		"tags": [
+			"cosmos-ecosystem",
+			"arrington-xrp-capital-portfolio",
+			"terra-ecosystem"
+		],
+		"max_supply": 1000000000,
+		"circulating_supply": 338134699.365543,
+		"total_supply": 1000000000,
+		"platform": {
+			"id": 4172,
+			"name": "Terra",
+			"symbol": "LUNA",
+			"slug": "terra-luna",
+			"token_address": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
+		},
+		"cmc_rank": 98,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 2.1401300483162595,
+				"volume_24h": 64667404.10753812,
+				"volume_change_24h": 38.3601,
+				"percent_change_1h": -0.07354688,
+				"percent_change_24h": -7.05534081,
+				"percent_change_7d": -32.23640476,
+				"percent_change_30d": -27.7796235,
+				"percent_change_60d": 11.30659226,
+				"percent_change_90d": -13.89114604,
+				"market_cap": 723652230.4905834,
+				"market_cap_dominance": 0.0386,
+				"fully_diluted_market_cap": 2140130048.32,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 2777,
+		"name": "IoTeX",
+		"symbol": "IOTX",
+		"slug": "iotex",
+		"num_market_pairs": 85,
+		"date_added": "2018-05-25T00:00:00.000Z",
+		"tags": [
+			"platform",
+			"iot",
+			"hashkey-capital-portfolio",
+			"kenetic-capital-portfolio",
+			"iotex-ecosystem",
+			"bnb-chain"
+		],
+		"max_supply": 10000000000,
+		"circulating_supply": 9540779324.30788,
+		"total_supply": 9626124332.32,
+		"platform": null,
+		"cmc_rank": 99,
+		"self_reported_circulating_supply": 6116124331.505642,
+		"self_reported_market_cap": 461513144.4488378,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.07545843076987031,
+				"volume_24h": 19458459.80751616,
+				"volume_change_24h": -2.4891,
+				"percent_change_1h": 0.15863543,
+				"percent_change_24h": -1.04578446,
+				"percent_change_7d": -9.26326883,
+				"percent_change_30d": 0.58056874,
+				"percent_change_60d": -13.92696259,
+				"percent_change_90d": -25.5962035,
+				"market_cap": 719932236.1338962,
+				"market_cap_dominance": 0.0384,
+				"fully_diluted_market_cap": 754584307.7,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
+	},
+	{
+		"id": 3801,
+		"name": "BORA",
+		"symbol": "BORA",
+		"slug": "bora",
+		"num_market_pairs": 11,
+		"date_added": "2019-03-18T00:00:00.000Z",
+		"tags": [
+			"marketplace",
+			"gaming",
+			"wallet"
+		],
+		"max_supply": null,
+		"circulating_supply": 861250000,
+		"total_supply": 1205750000,
+		"platform": {
+			"id": 4256,
+			"name": "Klaytn",
+			"symbol": "KLAY",
+			"slug": "klaytn",
+			"token_address": "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa"
+		},
+		"cmc_rank": 100,
+		"self_reported_circulating_supply": null,
+		"self_reported_market_cap": null,
+		"last_updated": "2022-04-15T06:18:00.000Z",
+		"quote": {
+			"USD": {
+				"price": 0.8260421381082076,
+				"volume_24h": 40594830.43072779,
+				"volume_change_24h": 26.4071,
+				"percent_change_1h": -0.44403014,
+				"percent_change_24h": -1.8885707,
+				"percent_change_7d": -10.42401886,
+				"percent_change_30d": 3.07706416,
+				"percent_change_60d": -13.14463974,
+				"percent_change_90d": -11.83619225,
+				"market_cap": 711428791.4456937,
+				"market_cap_dominance": 0.0379,
+				"fully_diluted_market_cap": 996000308.02,
+				"last_updated": "2022-04-15T06:18:00.000Z"
+			}
+		}
 	}
-}
+]
